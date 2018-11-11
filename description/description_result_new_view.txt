@@ -1,0 +1,39 @@
+Interface ethernet e1
+description 10.36.39.87_Hangzhou_Hikvision_Digital_Technology_Co.,Ltd.
+
+Interface ethernet e8
+description 10.36.39.11_ACTi_Corporation
+
+Interface ethernet e11
+description 10.36.39.12_ACTi_Corporation
+
+Interface ethernet e12
+description 10.36.39.16_ACTi_Corporation
+
+Interface ethernet e13
+description 10.36.39.14_ACTi_Corporation
+
+Interface ethernet e14
+description 10.36.39.15_ACTi_Corporation
+
+Interface ethernet e15
+description 10.36.39.13_ACTi_Corporation
+
+Interface ethernet e16
+description 10.36.39.79_Hangzhou_Hikvision_Digital_Technology_Co.,Ltd.
+
+Interface ethernet e17
+description 10.36.39.28_Hangzhou_Hikvision_Digital_Technology_Co.,Ltd.
+
+Interface ethernet e18
+description 10.36.39.64_Hangzhou_Hikvision_Digital_Technology_Co.,Ltd.
+
+Interface ethernet e19
+description 10.36.39.22_ACTi_Corporation
+
+Interface ethernet e21
+description 10.36.39.27_Hangzhou_Hikvision_Digital_Technology_Co.,Ltd.
+
+Interface ethernet e23
+description 10.36.39.20_ACTi_Corporation
+

@@ -1,0 +1,3114 @@
+No need to reboot AP on 4th floor at 01-08-2018 15:05:14
+No need to reboot AP in KZN at  01-08-2018 15:06:35
+No need to restart backup interface in SBP at 01-08-2018 15:08:32
+No need to reboot AP in KZN at 01-08-2018 15:30:03
+No need to restart backup interface in SBP at 01-08-2018 15:30:27
+No need to reboot AP in KZN at 01-08-2018 16:00:03
+No need to reboot AP on 4th floor at 01-08-2018 16:00:08
+No need to restart backup interface in SBP at 01-08-2018 16:00:27
+No need to reboot AP in KZN at 01-08-2018 16:30:03
+No need to restart backup interface in SBP at 01-08-2018 16:30:27
+No need to reboot AP in KZN at 01-08-2018 17:00:04
+!!!Backup interface in SBP has been restarted at 01-08-2018 17:00:28
+No need to reboot AP in KZN at 01-08-2018 17:30:03
+No need to restart backup interface in SBP at 01-08-2018 17:30:27
+No need to reboot AP in KZN at 01-08-2018 18:00:03
+No need to reboot AP on 4th floor at 01-08-2018 18:00:08
+No need to restart backup interface in SBP at 01-08-2018 18:00:27
+No need to reboot AP in KZN at 01-08-2018 18:30:03
+No need to reboot AP in KZN at 01-08-2018 19:00:03
+No need to restart backup interface in SBP at 01-08-2018 19:00:27
+No need to reboot AP in KZN at 01-08-2018 19:30:03
+No need to restart backup interface in SBP at 01-08-2018 19:30:28
+No need to reboot AP in KZN at 01-08-2018 20:00:03
+No need to reboot AP in KZN at 01-08-2018 20:30:03
+!!!Backup interface in SBP has been restarted at 01-08-2018 20:30:27
+No need to reboot AP in KZN at 01-08-2018 21:00:03
+No need to reboot AP in KZN at 01-08-2018 21:30:03
+No need to restart backup interface in SBP at 01-08-2018 21:30:27
+No need to reboot AP in KZN at 01-08-2018 22:00:04
+No need to restart backup interface in SBP at 01-08-2018 22:00:28
+No need to reboot AP in KZN at 01-08-2018 22:30:03
+No need to restart backup interface in SBP at 01-08-2018 22:30:27
+No need to reboot AP in KZN at 01-08-2018 23:00:04
+!!!Backup interface in SBP has been restarted at 01-08-2018 23:00:28
+No need to reboot AP in KZN at 01-08-2018 23:30:03
+!!!Backup interface in SBP has been restarted at 01-08-2018 23:30:28
+No need to reboot AP in KZN at 02-08-2018 00:00:03
+No need to restart backup interface in SBP at 02-08-2018 00:00:27
+No need to reboot AP in KZN at 02-08-2018 00:30:03
+No need to restart backup interface in SBP at 02-08-2018 00:30:28
+No need to reboot AP in KZN at 02-08-2018 01:00:03
+No need to restart backup interface in SBP at 02-08-2018 01:00:27
+No need to reboot AP in KZN at 02-08-2018 01:30:03
+No need to restart backup interface in SBP at 02-08-2018 01:30:27
+No need to reboot AP in KZN at 02-08-2018 02:00:03
+No need to restart backup interface in SBP at 02-08-2018 02:00:28
+No need to reboot AP in KZN at 02-08-2018 02:30:03
+No need to restart backup interface in SBP at 02-08-2018 02:30:27
+No need to reboot AP in KZN at 02-08-2018 03:00:03
+No need to restart backup interface in SBP at 02-08-2018 03:00:27
+No need to reboot AP in KZN at 02-08-2018 03:30:03
+No need to restart backup interface in SBP at 02-08-2018 03:30:27
+No need to reboot AP in KZN at 02-08-2018 04:00:04
+No need to restart backup interface in SBP at 02-08-2018 04:00:28
+No need to reboot AP in KZN at 02-08-2018 04:30:03
+No need to restart backup interface in SBP at 02-08-2018 04:30:27
+No need to reboot AP in KZN at 02-08-2018 05:00:03
+No need to restart backup interface in SBP at 02-08-2018 05:00:27
+No need to reboot AP in KZN at 02-08-2018 05:30:03
+No need to restart backup interface in SBP at 02-08-2018 05:30:27
+No need to reboot AP in KZN at 02-08-2018 06:00:03
+!!!Backup interface in SBP has been restarted at 02-08-2018 06:00:27
+No need to reboot AP in KZN at 02-08-2018 06:30:03
+No need to restart backup interface in SBP at 02-08-2018 06:30:28
+No need to reboot AP in KZN at 02-08-2018 07:00:03
+No need to restart backup interface in SBP at 02-08-2018 07:00:27
+No need to reboot AP in KZN at 02-08-2018 07:30:03
+No need to restart backup interface in SBP at 02-08-2018 07:30:27
+No need to reboot AP in KZN at 02-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 02-08-2018 08:00:08
+No need to reboot AP in KZN at 02-08-2018 08:30:03
+!!!Backup interface in SBP has been restarted at 02-08-2018 08:30:27
+No need to reboot AP in KZN at 02-08-2018 09:00:03
+No need to restart backup interface in SBP at 02-08-2018 09:00:27
+No need to reboot AP in KZN at 02-08-2018 09:30:03
+No need to restart backup interface in SBP at 02-08-2018 09:30:27
+No need to reboot AP in KZN at 02-08-2018 10:00:03
+No need to reboot AP on 4th floor at 02-08-2018 10:00:08
+!!!Backup interface in SBP has been restarted at 02-08-2018 10:00:27
+No need to reboot AP in KZN at 02-08-2018 10:30:03
+No need to restart backup interface in SBP at 02-08-2018 10:30:27
+No need to reboot AP in KZN at 02-08-2018 11:00:04
+No need to restart backup interface in SBP at 02-08-2018 11:00:28
+No need to reboot AP in KZN at 02-08-2018 11:30:03
+No need to restart backup interface in SBP at 02-08-2018 11:30:27
+No need to reboot AP in KZN at 02-08-2018 12:00:04
+No need to reboot AP on 4th floor at 02-08-2018 12:00:08
+No need to restart backup interface in SBP at 02-08-2018 12:00:28
+No need to reboot AP in KZN at 02-08-2018 12:30:03
+No need to reboot AP in KZN at 02-08-2018 13:00:03
+No need to restart backup interface in SBP at 02-08-2018 13:00:27
+No need to reboot AP in KZN at 02-08-2018 13:30:04
+No need to reboot AP in KZN at 02-08-2018 14:00:03
+No need to reboot AP on 4th floor at 02-08-2018 14:00:08
+No need to restart backup interface in SBP at 02-08-2018 14:00:27
+No need to reboot AP in KZN at 02-08-2018 14:30:03
+No need to restart backup interface in SBP at 02-08-2018 14:30:27
+No need to reboot AP in KZN at 02-08-2018 15:00:04
+No need to restart backup interface in SBP at 02-08-2018 15:00:28
+No need to reboot AP in KZN at 02-08-2018 15:30:03
+No need to restart backup interface in SBP at 02-08-2018 15:30:27
+No need to reboot AP in KZN at 02-08-2018 16:00:03
+No need to reboot AP on 4th floor at 02-08-2018 16:00:08
+No need to restart backup interface in SBP at 02-08-2018 16:00:27
+No need to reboot AP in KZN at 02-08-2018 16:30:03
+No need to restart backup interface in SBP at 02-08-2018 16:30:28
+No need to reboot AP in KZN at 02-08-2018 17:00:03
+No need to restart backup interface in SBP at 02-08-2018 17:00:27
+No need to reboot AP in KZN at 02-08-2018 17:30:04
+No need to restart backup interface in SBP at 02-08-2018 17:30:28
+No need to reboot AP in KZN at 02-08-2018 18:00:03
+No need to reboot AP on 4th floor at 02-08-2018 18:00:08
+No need to restart backup interface in SBP at 02-08-2018 18:00:28
+No need to reboot AP in KZN at 02-08-2018 18:30:03
+!!!Backup interface in SBP has been restarted at 02-08-2018 18:30:27
+No need to reboot AP in KZN at 02-08-2018 19:00:04
+!!!Backup interface in SBP has been restarted at 02-08-2018 19:00:28
+No need to reboot AP in KZN at 02-08-2018 19:30:03
+No need to restart backup interface in SBP at 02-08-2018 19:30:27
+No need to reboot AP in KZN at 02-08-2018 20:00:03
+No need to restart backup interface in SBP at 02-08-2018 20:00:27
+No need to reboot AP in KZN at 02-08-2018 20:30:03
+No need to restart backup interface in SBP at 02-08-2018 20:30:28
+No need to reboot AP in KZN at 02-08-2018 21:00:03
+No need to restart backup interface in SBP at 02-08-2018 21:00:27
+No need to reboot AP in KZN at 02-08-2018 21:30:03
+No need to reboot AP in KZN at 02-08-2018 22:00:03
+No need to restart backup interface in SBP at 02-08-2018 22:00:27
+No need to reboot AP in KZN at 02-08-2018 22:30:04
+No need to restart backup interface in SBP at 02-08-2018 22:30:28
+No need to reboot AP in KZN at 02-08-2018 23:00:03
+No need to restart backup interface in SBP at 02-08-2018 23:00:27
+No need to reboot AP in KZN at 02-08-2018 23:30:03
+No need to restart backup interface in SBP at 02-08-2018 23:30:28
+No need to reboot AP in KZN at 03-08-2018 00:00:03
+No need to restart backup interface in SBP at 03-08-2018 00:00:27
+No need to reboot AP in KZN at 03-08-2018 00:30:03
+No need to reboot AP in KZN at 03-08-2018 01:00:03
+No need to restart backup interface in SBP at 03-08-2018 01:00:27
+No need to reboot AP in KZN at 03-08-2018 01:30:03
+!!!Backup interface in SBP has been restarted at 03-08-2018 01:30:27
+No need to reboot AP in KZN at 03-08-2018 02:00:04
+No need to restart backup interface in SBP at 03-08-2018 02:00:28
+No need to reboot AP in KZN at 03-08-2018 02:30:03
+!!!Backup interface in SBP has been restarted at 03-08-2018 02:30:27
+No need to reboot AP in KZN at 03-08-2018 03:00:03
+No need to reboot AP in KZN at 03-08-2018 03:30:03
+No need to reboot AP in KZN at 03-08-2018 04:00:03
+No need to restart backup interface in SBP at 03-08-2018 04:00:27
+No need to reboot AP in KZN at 03-08-2018 04:30:03
+No need to restart backup interface in SBP at 03-08-2018 04:30:28
+No need to reboot AP in KZN at 03-08-2018 05:00:03
+No need to restart backup interface in SBP at 03-08-2018 05:00:27
+No need to reboot AP in KZN at 03-08-2018 05:30:03
+No need to reboot AP in KZN at 03-08-2018 06:00:03
+!!!Backup interface in SBP has been restarted at 03-08-2018 06:00:27
+No need to reboot AP in KZN at 03-08-2018 06:30:03
+No need to restart backup interface in SBP at 03-08-2018 06:30:27
+No need to reboot AP in KZN at 03-08-2018 07:00:03
+No need to restart backup interface in SBP at 03-08-2018 07:00:27
+No need to reboot AP in KZN at 03-08-2018 07:30:03
+No need to reboot AP in KZN at 03-08-2018 08:00:04
+No need to reboot AP on 4th floor at 03-08-2018 08:00:09
+No need to restart backup interface in SBP at 03-08-2018 08:00:28
+No need to reboot AP in KZN at 03-08-2018 08:30:03
+No need to restart backup interface in SBP at 03-08-2018 08:30:27
+No need to reboot AP in KZN at 03-08-2018 09:00:04
+No need to reboot AP in KZN at 03-08-2018 09:30:03
+No need to restart backup interface in SBP at 03-08-2018 09:30:28
+No need to reboot AP in KZN at 03-08-2018 10:00:03
+No need to reboot AP on 4th floor at 03-08-2018 10:00:08
+No need to restart backup interface in SBP at 03-08-2018 10:00:27
+No need to reboot AP in KZN at 03-08-2018 10:30:03
+No need to restart backup interface in SBP at 03-08-2018 10:30:27
+No need to reboot AP in KZN at 03-08-2018 11:00:03
+No need to restart backup interface in SBP at 03-08-2018 11:00:28
+No need to reboot AP in KZN at 03-08-2018 11:30:04
+No need to restart backup interface in SBP at 03-08-2018 11:30:28
+No need to reboot AP in KZN at 03-08-2018 12:00:03
+No need to reboot AP on 4th floor at 03-08-2018 12:00:08
+No need to restart backup interface in SBP at 03-08-2018 12:00:27
+No need to reboot AP in KZN at 03-08-2018 12:30:03
+No need to restart backup interface in SBP at 03-08-2018 12:30:27
+No need to reboot AP in KZN at 03-08-2018 13:00:04
+!!!Backup interface in SBP has been restarted at 03-08-2018 13:00:28
+No need to reboot AP in KZN at 03-08-2018 13:30:03
+!!!Backup interface in SBP has been restarted at 03-08-2018 13:30:28
+No need to reboot AP in KZN at 03-08-2018 14:00:03
+No need to reboot AP on 4th floor at 03-08-2018 14:00:08
+No need to restart backup interface in SBP at 03-08-2018 14:00:28
+No need to reboot AP in KZN at 03-08-2018 14:30:03
+No need to restart backup interface in SBP at 03-08-2018 14:30:27
+No need to reboot AP in KZN at 03-08-2018 15:00:03
+No need to reboot AP in KZN at 03-08-2018 15:30:03
+No need to restart backup interface in SBP at 03-08-2018 15:30:27
+No need to restart backup interface in SBP at 03-08-2018 15:58:51
+No need to reboot AP in KZN at 06-08-2018 11:00:03
+No need to restart backup interface in SBP at 06-08-2018 11:00:27
+No need to reboot AP in KZN at 06-08-2018 11:30:03
+No need to restart backup interface in SBP at 06-08-2018 11:30:28
+No need to reboot AP in KZN at 06-08-2018 12:00:03
+No need to reboot AP on 4th floor at 06-08-2018 12:00:08
+No need to reboot AP in KZN at 06-08-2018 12:30:04
+No need to restart backup interface in SBP at 06-08-2018 12:30:28
+No need to reboot AP in KZN at 06-08-2018 13:00:03
+No need to reboot AP in KZN at 06-08-2018 13:30:03
+No need to restart backup interface in SBP at 06-08-2018 13:30:28
+No need to reboot AP in KZN at 06-08-2018 14:00:03
+No need to reboot AP on 4th floor at 06-08-2018 14:00:08
+No need to restart backup interface in SBP at 06-08-2018 14:00:27
+No need to reboot AP in KZN at 06-08-2018 14:30:04
+No need to restart backup interface in SBP at 06-08-2018 14:30:28
+No need to reboot AP in KZN at 06-08-2018 15:00:03
+No need to reboot AP in KZN at 06-08-2018 15:30:04
+No need to restart backup interface in SBP at 06-08-2018 15:30:28
+No need to reboot AP in KZN at 06-08-2018 16:00:03
+No need to reboot AP on 4th floor at 06-08-2018 16:00:08
+No need to restart backup interface in SBP at 06-08-2018 16:00:27
+No need to reboot AP in KZN at 06-08-2018 16:30:04
+No need to restart backup interface in SBP at 06-08-2018 16:30:28
+No need to reboot AP in KZN at 06-08-2018 17:00:03
+No need to restart backup interface in SBP at 06-08-2018 17:00:27
+No need to reboot AP in KZN at 06-08-2018 17:30:04
+No need to restart backup interface in SBP at 06-08-2018 17:30:28
+No need to reboot AP in KZN at 06-08-2018 18:00:03
+No need to reboot AP on 4th floor at 06-08-2018 18:00:08
+No need to restart backup interface in SBP at 06-08-2018 18:00:27
+No need to reboot AP in KZN at 06-08-2018 18:30:04
+No need to reboot AP in KZN at 06-08-2018 19:00:03
+No need to restart backup interface in SBP at 06-08-2018 19:00:27
+No need to reboot AP in KZN at 06-08-2018 19:30:03
+No need to restart backup interface in SBP at 06-08-2018 19:30:27
+No need to reboot AP in KZN at 06-08-2018 20:00:03
+No need to restart backup interface in SBP at 06-08-2018 20:00:27
+No need to reboot AP in KZN at 06-08-2018 20:30:04
+No need to reboot AP in KZN at 06-08-2018 21:00:03
+!!!Backup interface in SBP has been restarted at 06-08-2018 21:00:27
+No need to reboot AP in KZN at 06-08-2018 21:30:03
+No need to reboot AP in KZN at 06-08-2018 22:00:03
+No need to restart backup interface in SBP at 06-08-2018 22:00:27
+No need to reboot AP in KZN at 06-08-2018 22:30:03
+No need to restart backup interface in SBP at 06-08-2018 22:30:28
+No need to reboot AP in KZN at 06-08-2018 23:00:03
+No need to restart backup interface in SBP at 06-08-2018 23:00:27
+No need to reboot AP in KZN at 06-08-2018 23:30:03
+No need to restart backup interface in SBP at 06-08-2018 23:30:27
+No need to reboot AP in KZN at 07-08-2018 00:00:03
+No need to restart backup interface in SBP at 07-08-2018 00:00:27
+No need to reboot AP in KZN at 07-08-2018 00:30:03
+!!!Backup interface in SBP has been restarted at 07-08-2018 00:30:27
+No need to reboot AP in KZN at 07-08-2018 01:00:03
+!!!Backup interface in SBP has been restarted at 07-08-2018 01:00:27
+No need to reboot AP in KZN at 07-08-2018 01:30:04
+No need to restart backup interface in SBP at 07-08-2018 01:30:28
+No need to reboot AP in KZN at 07-08-2018 02:00:03
+No need to restart backup interface in SBP at 07-08-2018 02:00:27
+No need to reboot AP in KZN at 07-08-2018 02:30:03
+No need to reboot AP in KZN at 07-08-2018 03:00:03
+!!!Backup interface in SBP has been restarted at 07-08-2018 03:00:27
+No need to reboot AP in KZN at 07-08-2018 03:30:03
+No need to restart backup interface in SBP at 07-08-2018 03:30:27
+No need to reboot AP in KZN at 07-08-2018 04:00:03
+No need to restart backup interface in SBP at 07-08-2018 04:00:28
+No need to reboot AP in KZN at 07-08-2018 04:30:03
+!!!Backup interface in SBP has been restarted at 07-08-2018 04:30:27
+No need to reboot AP in KZN at 07-08-2018 05:00:03
+No need to restart backup interface in SBP at 07-08-2018 05:00:27
+No need to reboot AP in KZN at 07-08-2018 05:30:03
+!!!Backup interface in SBP has been restarted at 07-08-2018 05:30:27
+No need to reboot AP in KZN at 07-08-2018 06:00:03
+No need to restart backup interface in SBP at 07-08-2018 06:00:27
+No need to reboot AP in KZN at 07-08-2018 06:30:03
+No need to restart backup interface in SBP at 07-08-2018 06:30:27
+No need to reboot AP in KZN at 07-08-2018 07:00:03
+No need to restart backup interface in SBP at 07-08-2018 07:00:28
+No need to reboot AP in KZN at 07-08-2018 07:30:03
+No need to restart backup interface in SBP at 07-08-2018 07:30:27
+No need to reboot AP in KZN at 07-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 07-08-2018 08:00:08
+No need to reboot AP in KZN at 07-08-2018 08:30:03
+No need to restart backup interface in SBP at 07-08-2018 08:30:28
+No need to reboot AP in KZN at 07-08-2018 09:00:03
+No need to restart backup interface in SBP at 07-08-2018 09:00:28
+No need to reboot AP in KZN at 07-08-2018 09:30:03
+No need to restart backup interface in SBP at 07-08-2018 09:30:28
+No need to reboot AP in KZN at 07-08-2018 10:00:03
+No need to reboot AP on 4th floor at 07-08-2018 10:00:08
+No need to restart backup interface in SBP at 07-08-2018 10:00:27
+No need to reboot AP in KZN at 07-08-2018 10:30:04
+No need to restart backup interface in SBP at 07-08-2018 10:30:28
+No need to reboot AP in KZN at 07-08-2018 11:00:03
+No need to reboot AP in KZN at 07-08-2018 11:30:04
+No need to restart backup interface in SBP at 07-08-2018 11:30:28
+No need to reboot AP in KZN at 07-08-2018 12:00:03
+No need to reboot AP on 4th floor at 07-08-2018 12:00:08
+No need to restart backup interface in SBP at 07-08-2018 12:00:27
+No need to reboot AP in KZN at 07-08-2018 12:30:03
+No need to restart backup interface in SBP at 07-08-2018 12:30:27
+No need to reboot AP in KZN at 07-08-2018 13:00:03
+!!!Backup interface in SBP has been restarted at 07-08-2018 13:00:27
+No need to reboot AP in KZN at 07-08-2018 13:30:04
+No need to restart backup interface in SBP at 07-08-2018 13:30:28
+No need to reboot AP in KZN at 07-08-2018 14:00:03
+No need to reboot AP on 4th floor at 07-08-2018 14:00:08
+No need to restart backup interface in SBP at 07-08-2018 14:00:27
+No need to reboot AP in KZN at 07-08-2018 14:30:03
+!!!Backup interface in SBP has been restarted at 07-08-2018 14:30:27
+No need to reboot AP in KZN at 07-08-2018 15:00:03
+No need to restart backup interface in SBP at 07-08-2018 15:00:27
+No need to reboot AP in KZN at 07-08-2018 15:30:03
+No need to reboot AP in KZN at 07-08-2018 16:00:03
+No need to reboot AP on 4th floor at 07-08-2018 16:00:08
+No need to restart backup interface in SBP at 07-08-2018 16:00:28
+No need to reboot AP in KZN at 07-08-2018 16:30:03
+No need to reboot AP in KZN at 07-08-2018 17:00:03
+No need to reboot AP in KZN at 07-08-2018 17:30:03
+No need to restart backup interface in SBP at 07-08-2018 17:30:27
+No need to reboot AP in KZN at 07-08-2018 18:00:03
+No need to reboot AP on 4th floor at 07-08-2018 18:00:08
+No need to restart backup interface in SBP at 07-08-2018 18:00:27
+No need to reboot AP in KZN at 07-08-2018 18:30:03
+No need to restart backup interface in SBP at 07-08-2018 18:30:27
+No need to reboot AP in KZN at 07-08-2018 19:00:03
+No need to restart backup interface in SBP at 07-08-2018 19:00:27
+No need to reboot AP in KZN at 07-08-2018 19:30:03
+No need to restart backup interface in SBP at 07-08-2018 19:30:27
+No need to reboot AP in KZN at 07-08-2018 20:00:03
+No need to restart backup interface in SBP at 07-08-2018 20:00:28
+No need to reboot AP in KZN at 07-08-2018 20:30:03
+No need to reboot AP in KZN at 07-08-2018 21:00:04
+No need to restart backup interface in SBP at 07-08-2018 21:00:28
+No need to reboot AP in KZN at 07-08-2018 21:30:03
+No need to restart backup interface in SBP at 07-08-2018 21:30:27
+No need to reboot AP in KZN at 07-08-2018 22:00:04
+No need to restart backup interface in SBP at 07-08-2018 22:00:28
+No need to reboot AP in KZN at 07-08-2018 22:30:03
+!!!Backup interface in SBP has been restarted at 07-08-2018 22:30:28
+No need to reboot AP in KZN at 07-08-2018 23:00:03
+No need to restart backup interface in SBP at 07-08-2018 23:00:27
+No need to reboot AP in KZN at 07-08-2018 23:30:04
+!!!Backup interface in SBP has been restarted at 07-08-2018 23:30:28
+No need to reboot AP in KZN at 08-08-2018 00:00:03
+No need to restart backup interface in SBP at 08-08-2018 00:00:27
+No need to reboot AP in KZN at 08-08-2018 00:30:03
+No need to restart backup interface in SBP at 08-08-2018 00:30:27
+No need to reboot AP in KZN at 08-08-2018 01:00:03
+No need to restart backup interface in SBP at 08-08-2018 01:00:27
+No need to reboot AP in KZN at 08-08-2018 01:30:03
+No need to reboot AP in KZN at 08-08-2018 02:00:03
+No need to restart backup interface in SBP at 08-08-2018 02:00:28
+No need to reboot AP in KZN at 08-08-2018 02:30:03
+No need to restart backup interface in SBP at 08-08-2018 02:30:27
+No need to reboot AP in KZN at 08-08-2018 03:00:03
+No need to restart backup interface in SBP at 08-08-2018 03:00:27
+No need to reboot AP in KZN at 08-08-2018 03:30:03
+No need to restart backup interface in SBP at 08-08-2018 03:30:27
+No need to reboot AP in KZN at 08-08-2018 04:00:04
+No need to reboot AP in KZN at 08-08-2018 04:30:03
+No need to restart backup interface in SBP at 08-08-2018 04:30:27
+No need to reboot AP in KZN at 08-08-2018 05:00:04
+No need to restart backup interface in SBP at 08-08-2018 05:00:28
+No need to reboot AP in KZN at 08-08-2018 05:30:03
+No need to restart backup interface in SBP at 08-08-2018 05:30:27
+No need to reboot AP in KZN at 08-08-2018 06:00:03
+No need to reboot AP in KZN at 08-08-2018 06:30:03
+No need to restart backup interface in SBP at 08-08-2018 06:30:28
+No need to reboot AP in KZN at 08-08-2018 07:00:03
+No need to restart backup interface in SBP at 08-08-2018 07:00:27
+No need to reboot AP in KZN at 08-08-2018 07:30:03
+No need to restart backup interface in SBP at 08-08-2018 07:30:27
+No need to reboot AP in KZN at 08-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 08-08-2018 08:00:08
+No need to restart backup interface in SBP at 08-08-2018 08:00:28
+No need to reboot AP in KZN at 08-08-2018 08:30:03
+No need to restart backup interface in SBP at 08-08-2018 08:30:27
+No need to reboot AP in KZN at 08-08-2018 09:00:03
+No need to restart backup interface in SBP at 08-08-2018 09:00:27
+No need to reboot AP in KZN at 08-08-2018 09:30:03
+No need to restart backup interface in SBP at 08-08-2018 09:30:27
+No need to reboot AP in KZN at 08-08-2018 10:00:03
+No need to reboot AP on 4th floor at 08-08-2018 10:00:08
+No need to restart backup interface in SBP at 08-08-2018 10:00:28
+No need to reboot AP in KZN at 08-08-2018 10:30:03
+No need to restart backup interface in SBP at 08-08-2018 10:30:27
+No need to reboot AP in KZN at 08-08-2018 11:00:03
+No need to reboot AP in KZN at 08-08-2018 11:30:04
+No need to restart backup interface in SBP at 08-08-2018 11:30:28
+No need to reboot AP in KZN at 08-08-2018 12:00:03
+No need to reboot AP on 4th floor at 08-08-2018 12:00:08
+No need to restart backup interface in SBP at 08-08-2018 12:00:27
+No need to reboot AP in KZN at 08-08-2018 12:30:03
+No need to restart backup interface in SBP at 08-08-2018 12:30:27
+No need to reboot AP in KZN at 08-08-2018 13:00:04
+No need to restart backup interface in SBP at 08-08-2018 13:00:28
+No need to reboot AP in KZN at 08-08-2018 13:30:03
+No need to restart backup interface in SBP at 08-08-2018 13:30:27
+No need to reboot AP in KZN at 08-08-2018 14:00:03
+No need to reboot AP on 4th floor at 08-08-2018 14:00:08
+No need to restart backup interface in SBP at 08-08-2018 14:00:27
+No need to reboot AP in KZN at 08-08-2018 14:30:03
+No need to restart backup interface in SBP at 08-08-2018 14:30:28
+No need to reboot AP in KZN at 08-08-2018 15:00:03
+No need to restart backup interface in SBP at 08-08-2018 15:00:27
+No need to reboot AP in KZN at 08-08-2018 15:30:03
+!!!Backup interface in SBP has been restarted at 08-08-2018 15:30:28
+No need to reboot AP in KZN at 08-08-2018 16:00:04
+No need to reboot AP on 4th floor at 08-08-2018 16:00:08
+No need to reboot AP in KZN at 08-08-2018 16:30:03
+No need to restart backup interface in SBP at 08-08-2018 16:30:27
+No need to reboot AP in KZN at 08-08-2018 17:00:04
+No need to restart backup interface in SBP at 08-08-2018 17:00:28
+No need to reboot AP in KZN at 08-08-2018 17:30:03
+No need to reboot AP in KZN at 08-08-2018 18:00:03
+No need to reboot AP on 4th floor at 08-08-2018 18:00:08
+No need to restart backup interface in SBP at 08-08-2018 18:00:27
+No need to reboot AP in KZN at 08-08-2018 18:30:03
+No need to restart backup interface in SBP at 08-08-2018 18:30:27
+No need to reboot AP in KZN at 08-08-2018 19:00:03
+No need to restart backup interface in SBP at 08-08-2018 19:00:27
+No need to reboot AP in KZN at 08-08-2018 19:30:03
+No need to reboot AP in KZN at 08-08-2018 20:00:03
+No need to restart backup interface in SBP at 08-08-2018 20:00:27
+No need to reboot AP in KZN at 08-08-2018 20:30:03
+No need to restart backup interface in SBP at 08-08-2018 20:30:27
+No need to reboot AP in KZN at 08-08-2018 21:00:03
+No need to restart backup interface in SBP at 08-08-2018 21:00:28
+No need to reboot AP in KZN at 08-08-2018 21:30:03
+No need to restart backup interface in SBP at 08-08-2018 21:30:27
+No need to reboot AP in KZN at 08-08-2018 22:00:03
+No need to restart backup interface in SBP at 08-08-2018 22:00:27
+No need to reboot AP in KZN at 08-08-2018 22:30:03
+!!!Backup interface in SBP has been restarted at 08-08-2018 22:30:27
+No need to reboot AP in KZN at 08-08-2018 23:00:03
+No need to restart backup interface in SBP at 08-08-2018 23:00:27
+No need to reboot AP in KZN at 08-08-2018 23:30:03
+!!!Backup interface in SBP has been restarted at 08-08-2018 23:30:27
+No need to reboot AP in KZN at 09-08-2018 00:00:04
+No need to restart backup interface in SBP at 09-08-2018 00:00:28
+No need to reboot AP in KZN at 09-08-2018 00:30:03
+No need to restart backup interface in SBP at 09-08-2018 00:30:27
+No need to reboot AP in KZN at 09-08-2018 01:00:03
+No need to restart backup interface in SBP at 09-08-2018 01:00:28
+No need to reboot AP in KZN at 09-08-2018 01:30:03
+No need to restart backup interface in SBP at 09-08-2018 01:30:27
+No need to reboot AP in KZN at 09-08-2018 02:00:03
+No need to restart backup interface in SBP at 09-08-2018 02:00:27
+No need to reboot AP in KZN at 09-08-2018 02:30:04
+No need to restart backup interface in SBP at 09-08-2018 02:30:28
+No need to reboot AP in KZN at 09-08-2018 03:00:03
+No need to restart backup interface in SBP at 09-08-2018 03:00:27
+No need to reboot AP in KZN at 09-08-2018 03:30:04
+No need to restart backup interface in SBP at 09-08-2018 03:30:28
+No need to reboot AP in KZN at 09-08-2018 04:00:03
+No need to restart backup interface in SBP at 09-08-2018 04:00:27
+No need to reboot AP in KZN at 09-08-2018 04:30:03
+No need to reboot AP in KZN at 09-08-2018 05:00:04
+No need to restart backup interface in SBP at 09-08-2018 05:00:28
+No need to reboot AP in KZN at 09-08-2018 05:30:03
+No need to reboot AP in KZN at 09-08-2018 06:00:03
+No need to reboot AP in KZN at 09-08-2018 06:30:03
+No need to restart backup interface in SBP at 09-08-2018 06:30:28
+No need to reboot AP in KZN at 09-08-2018 07:00:03
+No need to restart backup interface in SBP at 09-08-2018 07:00:27
+No need to reboot AP in KZN at 09-08-2018 07:30:03
+No need to restart backup interface in SBP at 09-08-2018 07:30:27
+No need to reboot AP in KZN at 09-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 09-08-2018 08:00:08
+!!!Backup interface in SBP has been restarted at 09-08-2018 08:00:27
+No need to reboot AP in KZN at 09-08-2018 08:30:04
+No need to reboot AP in KZN at 09-08-2018 09:00:03
+No need to restart backup interface in SBP at 09-08-2018 09:00:27
+No need to reboot AP in KZN at 09-08-2018 09:30:04
+No need to restart backup interface in SBP at 09-08-2018 09:30:28
+No need to reboot AP in KZN at 09-08-2018 10:00:03
+No need to reboot AP on 4th floor at 09-08-2018 10:00:08
+!!!Backup interface in SBP has been restarted at 09-08-2018 10:00:27
+No need to reboot AP in KZN at 09-08-2018 10:30:03
+No need to restart backup interface in SBP at 09-08-2018 10:30:27
+No need to reboot AP in KZN at 09-08-2018 11:00:03
+No need to restart backup interface in SBP at 09-08-2018 11:00:28
+No need to reboot AP in KZN at 09-08-2018 11:30:04
+!!!Backup interface in SBP has been restarted at 09-08-2018 11:30:28
+No need to reboot AP in KZN at 09-08-2018 12:00:04
+No need to reboot AP on 4th floor at 09-08-2018 12:00:09
+No need to restart backup interface in SBP at 09-08-2018 12:00:28
+No need to reboot AP in KZN at 09-08-2018 12:30:04
+No need to restart backup interface in SBP at 09-08-2018 12:30:28
+No need to reboot AP in KZN at 09-08-2018 13:00:03
+No need to restart backup interface in SBP at 09-08-2018 13:00:27
+No need to reboot AP in KZN at 09-08-2018 13:30:04
+No need to restart backup interface in SBP at 09-08-2018 13:30:28
+No need to reboot AP in KZN at 09-08-2018 14:00:03
+No need to reboot AP on 4th floor at 09-08-2018 14:00:08
+No need to restart backup interface in SBP at 09-08-2018 14:00:28
+No need to reboot AP in KZN at 09-08-2018 14:30:03
+No need to restart backup interface in SBP at 09-08-2018 14:30:27
+No need to reboot AP in KZN at 09-08-2018 15:00:03
+No need to restart backup interface in SBP at 09-08-2018 15:00:27
+No need to reboot AP in KZN at 09-08-2018 15:30:03
+No need to restart backup interface in SBP at 09-08-2018 15:30:27
+No need to reboot AP in KZN at 09-08-2018 16:00:03
+No need to reboot AP on 4th floor at 09-08-2018 16:00:08
+No need to reboot AP in KZN at 09-08-2018 16:30:03
+No need to restart backup interface in SBP at 09-08-2018 16:30:27
+No need to reboot AP in KZN at 09-08-2018 17:00:03
+!!!Backup interface in SBP has been restarted at 09-08-2018 17:00:28
+No need to reboot AP in KZN at 09-08-2018 17:30:04
+No need to restart backup interface in SBP at 09-08-2018 17:30:28
+No need to reboot AP in KZN at 09-08-2018 18:00:03
+No need to reboot AP on 4th floor at 09-08-2018 18:00:08
+No need to reboot AP in KZN at 09-08-2018 18:30:03
+!!!Backup interface in SBP has been restarted at 09-08-2018 18:30:27
+No need to reboot AP in KZN at 09-08-2018 19:00:03
+No need to restart backup interface in SBP at 09-08-2018 19:00:28
+No need to reboot AP in KZN at 09-08-2018 19:30:03
+No need to restart backup interface in SBP at 09-08-2018 19:30:27
+No need to reboot AP in KZN at 09-08-2018 20:00:04
+No need to restart backup interface in SBP at 09-08-2018 20:00:28
+No need to reboot AP in KZN at 09-08-2018 20:30:03
+No need to restart backup interface in SBP at 09-08-2018 20:30:27
+No need to reboot AP in KZN at 09-08-2018 21:00:03
+No need to restart backup interface in SBP at 09-08-2018 21:00:28
+No need to reboot AP in KZN at 09-08-2018 21:30:03
+!!!Backup interface in SBP has been restarted at 09-08-2018 21:30:27
+No need to reboot AP in KZN at 09-08-2018 22:00:03
+No need to restart backup interface in SBP at 09-08-2018 22:00:27
+No need to reboot AP in KZN at 09-08-2018 22:30:03
+No need to restart backup interface in SBP at 09-08-2018 22:30:28
+No need to reboot AP in KZN at 09-08-2018 23:00:03
+No need to restart backup interface in SBP at 09-08-2018 23:00:27
+No need to reboot AP in KZN at 09-08-2018 23:30:03
+No need to restart backup interface in SBP at 09-08-2018 23:30:27
+No need to reboot AP in KZN at 10-08-2018 00:00:04
+No need to restart backup interface in SBP at 10-08-2018 00:00:28
+No need to reboot AP in KZN at 10-08-2018 00:30:03
+No need to restart backup interface in SBP at 10-08-2018 00:30:27
+No need to reboot AP in KZN at 10-08-2018 01:00:04
+!!!Backup interface in SBP has been restarted at 10-08-2018 01:00:28
+No need to reboot AP in KZN at 10-08-2018 01:30:03
+No need to restart backup interface in SBP at 10-08-2018 01:30:27
+No need to reboot AP in KZN at 10-08-2018 02:00:04
+No need to restart backup interface in SBP at 10-08-2018 02:00:28
+No need to reboot AP in KZN at 10-08-2018 02:30:03
+No need to restart backup interface in SBP at 10-08-2018 02:30:27
+No need to reboot AP in KZN at 10-08-2018 03:00:03
+No need to restart backup interface in SBP at 10-08-2018 03:00:27
+No need to reboot AP in KZN at 10-08-2018 03:30:03
+No need to restart backup interface in SBP at 10-08-2018 03:30:27
+No need to reboot AP in KZN at 10-08-2018 04:00:03
+No need to restart backup interface in SBP at 10-08-2018 04:00:28
+No need to reboot AP in KZN at 10-08-2018 04:30:03
+No need to restart backup interface in SBP at 10-08-2018 04:30:27
+No need to reboot AP in KZN at 10-08-2018 05:00:04
+No need to reboot AP in KZN at 10-08-2018 05:30:03
+No need to restart backup interface in SBP at 10-08-2018 05:30:27
+No need to reboot AP in KZN at 10-08-2018 06:00:03
+No need to restart backup interface in SBP at 10-08-2018 06:00:27
+No need to reboot AP in KZN at 10-08-2018 06:30:04
+No need to restart backup interface in SBP at 10-08-2018 06:30:28
+No need to reboot AP in KZN at 10-08-2018 07:00:03
+No need to restart backup interface in SBP at 10-08-2018 07:00:27
+No need to reboot AP in KZN at 10-08-2018 07:30:03
+No need to restart backup interface in SBP at 10-08-2018 07:30:27
+No need to reboot AP in KZN at 10-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 10-08-2018 08:00:08
+No need to restart backup interface in SBP at 10-08-2018 08:00:27
+No need to reboot AP in KZN at 10-08-2018 08:30:03
+No need to restart backup interface in SBP at 10-08-2018 08:30:27
+No need to reboot AP in KZN at 10-08-2018 09:00:03
+No need to restart backup interface in SBP at 10-08-2018 09:00:28
+No need to reboot AP in KZN at 10-08-2018 09:30:03
+No need to reboot AP in KZN at 10-08-2018 10:00:03
+No need to reboot AP on 4th floor at 10-08-2018 10:00:08
+No need to restart backup interface in SBP at 10-08-2018 10:00:27
+No need to reboot AP in KZN at 10-08-2018 10:30:03
+No need to restart backup interface in SBP at 10-08-2018 10:30:28
+No need to reboot AP in KZN at 10-08-2018 11:00:03
+No need to reboot AP in KZN at 10-08-2018 11:30:03
+No need to reboot AP in KZN at 10-08-2018 12:00:03
+No need to reboot AP on 4th floor at 10-08-2018 12:00:08
+No need to restart backup interface in SBP at 10-08-2018 12:00:27
+No need to reboot AP in KZN at 10-08-2018 12:30:03
+No need to restart backup interface in SBP at 10-08-2018 12:30:27
+No need to reboot AP in KZN at 10-08-2018 13:00:03
+No need to restart backup interface in SBP at 10-08-2018 13:00:28
+No need to reboot AP in KZN at 10-08-2018 13:30:03
+!!!Backup interface in SBP has been restarted at 10-08-2018 13:30:27
+No need to reboot AP in KZN at 10-08-2018 14:00:03
+No need to reboot AP on 4th floor at 10-08-2018 14:00:08
+No need to restart backup interface in SBP at 10-08-2018 14:00:27
+No need to reboot AP in KZN at 10-08-2018 14:30:04
+No need to restart backup interface in SBP at 10-08-2018 14:30:28
+No need to reboot AP in KZN at 10-08-2018 15:00:03
+No need to restart backup interface in SBP at 10-08-2018 15:00:27
+No need to reboot AP in KZN at 10-08-2018 15:30:03
+No need to restart backup interface in SBP at 10-08-2018 15:30:28
+No need to reboot AP in KZN at 10-08-2018 16:00:03
+No need to reboot AP on 4th floor at 10-08-2018 16:00:08
+No need to restart backup interface in SBP at 10-08-2018 16:00:28
+No need to reboot AP in KZN at 10-08-2018 16:30:04
+No need to restart backup interface in SBP at 10-08-2018 16:30:28
+No need to reboot AP in KZN at 10-08-2018 17:00:03
+No need to restart backup interface in SBP at 10-08-2018 17:00:27
+No need to reboot AP in KZN at 10-08-2018 17:30:03
+No need to restart backup interface in SBP at 10-08-2018 17:30:27
+No need to reboot AP in KZN at 10-08-2018 18:00:03
+No need to reboot AP on 4th floor at 10-08-2018 18:00:08
+No need to restart backup interface in SBP at 10-08-2018 18:00:28
+No need to reboot AP in KZN at 10-08-2018 18:30:03
+No need to restart backup interface in SBP at 10-08-2018 18:30:28
+No need to reboot AP in KZN at 10-08-2018 19:00:03
+No need to restart backup interface in SBP at 10-08-2018 19:00:27
+No need to reboot AP in KZN at 10-08-2018 19:30:03
+!!!Backup interface in SBP has been restarted at 10-08-2018 19:30:28
+No need to reboot AP in KZN at 10-08-2018 20:00:03
+No need to restart backup interface in SBP at 10-08-2018 20:00:27
+No need to reboot AP in KZN at 10-08-2018 20:30:03
+No need to restart backup interface in SBP at 10-08-2018 20:30:27
+No need to reboot AP in KZN at 10-08-2018 21:00:03
+No need to restart backup interface in SBP at 10-08-2018 21:00:28
+No need to reboot AP in KZN at 10-08-2018 21:30:03
+No need to restart backup interface in SBP at 10-08-2018 21:30:28
+No need to reboot AP in KZN at 10-08-2018 22:00:03
+No need to restart backup interface in SBP at 10-08-2018 22:00:27
+No need to reboot AP in KZN at 10-08-2018 22:30:03
+No need to restart backup interface in SBP at 10-08-2018 22:30:28
+No need to reboot AP in KZN at 10-08-2018 23:00:03
+No need to restart backup interface in SBP at 10-08-2018 23:00:27
+No need to reboot AP in KZN at 10-08-2018 23:30:03
+No need to reboot AP in KZN at 11-08-2018 00:00:03
+No need to restart backup interface in SBP at 11-08-2018 00:00:27
+No need to reboot AP in KZN at 11-08-2018 00:30:03
+No need to restart backup interface in SBP at 11-08-2018 00:30:27
+No need to reboot AP in KZN at 11-08-2018 01:00:04
+No need to restart backup interface in SBP at 11-08-2018 01:00:28
+No need to reboot AP in KZN at 11-08-2018 01:30:03
+No need to restart backup interface in SBP at 11-08-2018 01:30:27
+No need to reboot AP in KZN at 11-08-2018 02:00:03
+No need to restart backup interface in SBP at 11-08-2018 02:00:27
+No need to reboot AP in KZN at 11-08-2018 02:30:03
+No need to restart backup interface in SBP at 11-08-2018 02:30:27
+No need to reboot AP in KZN at 11-08-2018 03:00:03
+No need to restart backup interface in SBP at 11-08-2018 03:00:27
+No need to reboot AP in KZN at 11-08-2018 03:30:04
+No need to restart backup interface in SBP at 11-08-2018 03:30:28
+No need to reboot AP in KZN at 11-08-2018 04:00:03
+No need to restart backup interface in SBP at 11-08-2018 04:00:27
+No need to reboot AP in KZN at 11-08-2018 04:30:03
+No need to restart backup interface in SBP at 11-08-2018 04:30:27
+No need to reboot AP in KZN at 11-08-2018 05:00:03
+No need to restart backup interface in SBP at 11-08-2018 05:00:28
+No need to reboot AP in KZN at 11-08-2018 05:30:03
+!!!Backup interface in SBP has been restarted at 11-08-2018 05:30:27
+No need to reboot AP in KZN at 11-08-2018 06:00:03
+No need to restart backup interface in SBP at 11-08-2018 06:00:27
+No need to reboot AP in KZN at 11-08-2018 06:30:03
+No need to restart backup interface in SBP at 11-08-2018 06:30:28
+No need to reboot AP in KZN at 11-08-2018 07:00:03
+No need to restart backup interface in SBP at 11-08-2018 07:00:27
+No need to reboot AP in KZN at 11-08-2018 07:30:03
+No need to restart backup interface in SBP at 11-08-2018 07:30:27
+No need to reboot AP in KZN at 11-08-2018 08:00:03
+No need to restart backup interface in SBP at 11-08-2018 08:00:28
+No need to reboot AP in KZN at 11-08-2018 08:30:03
+No need to restart backup interface in SBP at 11-08-2018 08:30:28
+No need to reboot AP in KZN at 11-08-2018 09:00:03
+No need to restart backup interface in SBP at 11-08-2018 09:00:27
+No need to reboot AP in KZN at 11-08-2018 09:30:03
+No need to restart backup interface in SBP at 11-08-2018 09:30:27
+No need to reboot AP in KZN at 11-08-2018 10:00:03
+No need to restart backup interface in SBP at 11-08-2018 10:00:27
+No need to reboot AP in KZN at 11-08-2018 10:30:03
+No need to restart backup interface in SBP at 11-08-2018 10:30:27
+No need to reboot AP in KZN at 11-08-2018 11:00:03
+No need to restart backup interface in SBP at 11-08-2018 11:00:27
+No need to reboot AP in KZN at 11-08-2018 11:30:03
+No need to restart backup interface in SBP at 11-08-2018 11:30:27
+No need to reboot AP in KZN at 11-08-2018 12:00:03
+!!!Backup interface in SBP has been restarted at 11-08-2018 12:00:28
+No need to reboot AP in KZN at 11-08-2018 12:30:03
+!!!Backup interface in SBP has been restarted at 11-08-2018 12:30:28
+No need to reboot AP in KZN at 11-08-2018 13:00:03
+!!!Backup interface in SBP has been restarted at 11-08-2018 13:00:27
+No need to reboot AP in KZN at 11-08-2018 13:30:03
+No need to reboot AP in KZN at 11-08-2018 14:00:03
+No need to restart backup interface in SBP at 11-08-2018 14:00:27
+No need to reboot AP in KZN at 11-08-2018 14:30:03
+No need to restart backup interface in SBP at 11-08-2018 14:30:27
+No need to reboot AP in KZN at 11-08-2018 15:00:03
+No need to restart backup interface in SBP at 11-08-2018 15:00:28
+No need to reboot AP in KZN at 11-08-2018 15:30:03
+No need to reboot AP in KZN at 11-08-2018 16:00:03
+!!!Backup interface in SBP has been restarted at 11-08-2018 16:00:27
+No need to reboot AP in KZN at 11-08-2018 16:30:04
+No need to restart backup interface in SBP at 11-08-2018 16:30:28
+No need to reboot AP in KZN at 11-08-2018 17:00:03
+No need to restart backup interface in SBP at 11-08-2018 17:00:27
+No need to reboot AP in KZN at 11-08-2018 17:30:03
+No need to restart backup interface in SBP at 11-08-2018 17:30:27
+No need to reboot AP in KZN at 11-08-2018 18:00:03
+No need to restart backup interface in SBP at 11-08-2018 18:00:27
+No need to reboot AP in KZN at 11-08-2018 18:30:03
+No need to restart backup interface in SBP at 11-08-2018 18:30:28
+No need to reboot AP in KZN at 11-08-2018 19:00:03
+No need to restart backup interface in SBP at 11-08-2018 19:00:27
+No need to reboot AP in KZN at 11-08-2018 19:30:03
+No need to restart backup interface in SBP at 11-08-2018 19:30:27
+No need to reboot AP in KZN at 11-08-2018 20:00:03
+No need to restart backup interface in SBP at 11-08-2018 20:00:27
+No need to reboot AP in KZN at 11-08-2018 20:30:03
+No need to restart backup interface in SBP at 11-08-2018 20:30:27
+No need to reboot AP in KZN at 11-08-2018 21:00:03
+No need to restart backup interface in SBP at 11-08-2018 21:00:27
+No need to reboot AP in KZN at 11-08-2018 21:30:03
+No need to reboot AP in KZN at 11-08-2018 22:00:03
+!!!Backup interface in SBP has been restarted at 11-08-2018 22:00:28
+No need to reboot AP in KZN at 11-08-2018 22:30:04
+No need to restart backup interface in SBP at 11-08-2018 22:30:28
+No need to reboot AP in KZN at 11-08-2018 23:00:03
+No need to restart backup interface in SBP at 11-08-2018 23:00:27
+No need to reboot AP in KZN at 11-08-2018 23:30:03
+No need to restart backup interface in SBP at 11-08-2018 23:30:27
+No need to reboot AP in KZN at 12-08-2018 00:00:04
+!!!Backup interface in SBP has been restarted at 12-08-2018 00:00:28
+No need to reboot AP in KZN at 12-08-2018 00:30:03
+No need to restart backup interface in SBP at 12-08-2018 00:30:27
+No need to reboot AP in KZN at 12-08-2018 01:00:03
+No need to restart backup interface in SBP at 12-08-2018 01:00:27
+No need to reboot AP in KZN at 12-08-2018 01:30:03
+No need to reboot AP in KZN at 12-08-2018 02:00:03
+!!!Backup interface in SBP has been restarted at 12-08-2018 02:00:27
+No need to reboot AP in KZN at 12-08-2018 02:30:04
+No need to restart backup interface in SBP at 12-08-2018 02:30:28
+No need to reboot AP in KZN at 12-08-2018 03:00:03
+No need to restart backup interface in SBP at 12-08-2018 03:00:27
+No need to reboot AP in KZN at 12-08-2018 03:30:03
+No need to restart backup interface in SBP at 12-08-2018 03:30:28
+No need to reboot AP in KZN at 12-08-2018 04:00:03
+No need to restart backup interface in SBP at 12-08-2018 04:00:27
+No need to reboot AP in KZN at 12-08-2018 04:30:03
+No need to restart backup interface in SBP at 12-08-2018 04:30:28
+No need to reboot AP in KZN at 12-08-2018 05:00:03
+No need to restart backup interface in SBP at 12-08-2018 05:00:27
+No need to reboot AP in KZN at 12-08-2018 05:30:03
+!!!Backup interface in SBP has been restarted at 12-08-2018 05:30:27
+No need to reboot AP in KZN at 12-08-2018 06:00:03
+No need to restart backup interface in SBP at 12-08-2018 06:00:27
+No need to reboot AP in KZN at 12-08-2018 06:30:04
+No need to restart backup interface in SBP at 12-08-2018 06:30:28
+No need to reboot AP in KZN at 12-08-2018 07:00:03
+!!!Backup interface in SBP has been restarted at 12-08-2018 07:00:27
+No need to reboot AP in KZN at 12-08-2018 07:30:03
+No need to restart backup interface in SBP at 12-08-2018 07:30:27
+No need to reboot AP in KZN at 12-08-2018 08:00:04
+No need to restart backup interface in SBP at 12-08-2018 08:00:28
+No need to reboot AP in KZN at 12-08-2018 08:30:03
+No need to restart backup interface in SBP at 12-08-2018 08:30:27
+No need to reboot AP in KZN at 12-08-2018 09:00:03
+No need to restart backup interface in SBP at 12-08-2018 09:00:28
+No need to reboot AP in KZN at 12-08-2018 09:30:04
+No need to restart backup interface in SBP at 12-08-2018 09:30:28
+No need to reboot AP in KZN at 12-08-2018 10:00:03
+No need to restart backup interface in SBP at 12-08-2018 10:00:27
+No need to reboot AP in KZN at 12-08-2018 10:30:03
+!!!Backup interface in SBP has been restarted at 12-08-2018 10:30:28
+No need to reboot AP in KZN at 12-08-2018 11:00:03
+No need to restart backup interface in SBP at 12-08-2018 11:00:27
+No need to reboot AP in KZN at 12-08-2018 11:30:04
+No need to restart backup interface in SBP at 12-08-2018 11:30:28
+No need to reboot AP in KZN at 12-08-2018 12:00:03
+No need to restart backup interface in SBP at 12-08-2018 12:00:27
+No need to reboot AP in KZN at 12-08-2018 12:30:03
+No need to restart backup interface in SBP at 12-08-2018 12:30:27
+No need to reboot AP in KZN at 12-08-2018 13:00:03
+No need to restart backup interface in SBP at 12-08-2018 13:00:28
+No need to reboot AP in KZN at 12-08-2018 13:30:03
+No need to restart backup interface in SBP at 12-08-2018 13:30:27
+No need to reboot AP in KZN at 12-08-2018 14:00:04
+!!!Backup interface in SBP has been restarted at 12-08-2018 14:00:28
+No need to reboot AP in KZN at 12-08-2018 14:30:03
+No need to restart backup interface in SBP at 12-08-2018 14:30:27
+No need to reboot AP in KZN at 12-08-2018 15:00:03
+No need to restart backup interface in SBP at 12-08-2018 15:00:27
+No need to reboot AP in KZN at 12-08-2018 15:30:03
+No need to restart backup interface in SBP at 12-08-2018 15:30:27
+No need to reboot AP in KZN at 12-08-2018 16:00:03
+No need to reboot AP in KZN at 12-08-2018 16:30:03
+No need to restart backup interface in SBP at 12-08-2018 16:30:27
+No need to reboot AP in KZN at 12-08-2018 17:00:04
+No need to restart backup interface in SBP at 12-08-2018 17:00:28
+No need to reboot AP in KZN at 12-08-2018 17:30:03
+No need to restart backup interface in SBP at 12-08-2018 17:30:27
+No need to reboot AP in KZN at 12-08-2018 18:00:03
+No need to restart backup interface in SBP at 12-08-2018 18:00:28
+No need to reboot AP in KZN at 12-08-2018 18:30:04
+!!!Backup interface in SBP has been restarted at 12-08-2018 18:30:28
+No need to reboot AP in KZN at 12-08-2018 19:00:03
+No need to restart backup interface in SBP at 12-08-2018 19:00:28
+No need to reboot AP in KZN at 12-08-2018 19:30:03
+No need to restart backup interface in SBP at 12-08-2018 19:30:27
+No need to reboot AP in KZN at 12-08-2018 20:00:03
+No need to restart backup interface in SBP at 12-08-2018 20:00:27
+No need to reboot AP in KZN at 12-08-2018 20:30:03
+No need to restart backup interface in SBP at 12-08-2018 20:30:28
+No need to reboot AP in KZN at 12-08-2018 21:00:03
+!!!Backup interface in SBP has been restarted at 12-08-2018 21:00:27
+No need to reboot AP in KZN at 12-08-2018 21:30:03
+No need to restart backup interface in SBP at 12-08-2018 21:30:27
+No need to reboot AP in KZN at 12-08-2018 22:00:04
+!!!Backup interface in SBP has been restarted at 12-08-2018 22:00:28
+No need to reboot AP in KZN at 12-08-2018 22:30:03
+No need to restart backup interface in SBP at 12-08-2018 22:30:28
+No need to reboot AP in KZN at 12-08-2018 23:00:03
+No need to restart backup interface in SBP at 12-08-2018 23:00:27
+No need to reboot AP in KZN at 12-08-2018 23:30:03
+!!!Backup interface in SBP has been restarted at 12-08-2018 23:30:28
+No need to reboot AP in KZN at 13-08-2018 00:00:03
+No need to reboot AP in KZN at 13-08-2018 00:30:03
+No need to restart backup interface in SBP at 13-08-2018 00:30:27
+No need to reboot AP in KZN at 13-08-2018 01:00:03
+No need to restart backup interface in SBP at 13-08-2018 01:00:27
+No need to reboot AP in KZN at 13-08-2018 01:30:03
+No need to restart backup interface in SBP at 13-08-2018 01:30:27
+No need to reboot AP in KZN at 13-08-2018 02:00:03
+No need to restart backup interface in SBP at 13-08-2018 02:00:27
+No need to reboot AP in KZN at 13-08-2018 02:30:03
+No need to restart backup interface in SBP at 13-08-2018 02:30:27
+No need to reboot AP in KZN at 13-08-2018 03:00:03
+No need to restart backup interface in SBP at 13-08-2018 03:00:28
+No need to reboot AP in KZN at 13-08-2018 03:30:03
+No need to restart backup interface in SBP at 13-08-2018 03:30:27
+No need to reboot AP in KZN at 13-08-2018 04:00:04
+No need to reboot AP in KZN at 13-08-2018 04:30:03
+No need to restart backup interface in SBP at 13-08-2018 04:30:27
+No need to reboot AP in KZN at 13-08-2018 05:00:03
+No need to restart backup interface in SBP at 13-08-2018 05:00:27
+No need to reboot AP in KZN at 13-08-2018 05:30:04
+No need to restart backup interface in SBP at 13-08-2018 05:30:28
+No need to reboot AP in KZN at 13-08-2018 06:00:03
+!!!Backup interface in SBP has been restarted at 13-08-2018 06:00:27
+No need to reboot AP in KZN at 13-08-2018 06:30:03
+!!!Backup interface in SBP has been restarted at 13-08-2018 06:30:27
+No need to reboot AP in KZN at 13-08-2018 07:00:04
+!!!Backup interface in SBP has been restarted at 13-08-2018 07:00:28
+No need to reboot AP in KZN at 13-08-2018 07:30:03
+!!!Backup interface in SBP has been restarted at 13-08-2018 07:30:28
+No need to reboot AP in KZN at 13-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 13-08-2018 08:00:08
+No need to restart backup interface in SBP at 13-08-2018 08:00:27
+No need to reboot AP in KZN at 13-08-2018 08:30:03
+No need to restart backup interface in SBP at 13-08-2018 08:30:27
+No need to reboot AP in KZN at 13-08-2018 09:00:05
+No need to restart backup interface in SBP at 13-08-2018 09:00:29
+No need to reboot AP in KZN at 13-08-2018 09:30:03
+No need to restart backup interface in SBP at 13-08-2018 09:30:27
+No need to reboot AP in KZN at 13-08-2018 10:00:03
+No need to reboot AP on 4th floor at 13-08-2018 10:00:08
+!!!Backup interface in SBP has been restarted at 13-08-2018 10:00:27
+No need to reboot AP in KZN at 13-08-2018 10:30:03
+No need to restart backup interface in SBP at 13-08-2018 10:30:28
+No need to reboot AP in KZN at 13-08-2018 11:00:03
+No need to restart backup interface in SBP at 13-08-2018 11:00:27
+No need to reboot AP in KZN at 13-08-2018 11:30:04
+No need to restart backup interface in SBP at 13-08-2018 11:30:29
+No need to reboot AP in KZN at 13-08-2018 12:00:03
+No need to reboot AP on 4th floor at 13-08-2018 12:00:08
+No need to restart backup interface in SBP at 13-08-2018 12:00:28
+No need to reboot AP in KZN at 13-08-2018 12:30:03
+No need to restart backup interface in SBP at 13-08-2018 12:30:27
+No need to reboot AP in KZN at 13-08-2018 13:00:03
+No need to reboot AP in KZN at 13-08-2018 13:30:03
+No need to reboot AP in KZN at 13-08-2018 14:00:03
+No need to reboot AP on 4th floor at 13-08-2018 14:00:08
+No need to reboot AP in KZN at 13-08-2018 14:30:03
+No need to reboot AP in KZN at 13-08-2018 15:00:04
+No need to reboot AP in KZN at 13-08-2018 15:30:03
+No need to reboot AP in KZN at 13-08-2018 16:00:03
+No need to reboot AP on 4th floor at 13-08-2018 16:00:08
+!!!Backup interface in SBP has been restarted at 13-08-2018 16:00:27
+No need to reboot AP in KZN at 13-08-2018 16:30:03
+No need to restart backup interface in SBP at 13-08-2018 16:30:27
+No need to reboot AP in KZN at 13-08-2018 17:00:03
+No need to reboot AP in KZN at 13-08-2018 17:30:03
+!!!Backup interface in SBP has been restarted at 13-08-2018 17:30:27
+No need to reboot AP in KZN at 13-08-2018 18:00:03
+No need to reboot AP on 4th floor at 13-08-2018 18:00:08
+No need to reboot AP in KZN at 13-08-2018 18:30:04
+No need to reboot AP in KZN at 13-08-2018 19:00:03
+!!!Backup interface in SBP has been restarted at 13-08-2018 19:00:27
+No need to reboot AP in KZN at 13-08-2018 19:30:03
+No need to reboot AP in KZN at 13-08-2018 20:00:04
+No need to reboot AP in KZN at 13-08-2018 20:30:04
+No need to reboot AP in KZN at 13-08-2018 21:00:03
+No need to reboot AP in KZN at 13-08-2018 21:30:03
+!!!Backup interface in SBP has been restarted at 13-08-2018 21:30:27
+No need to reboot AP in KZN at 13-08-2018 22:00:04
+!!!Backup interface in SBP has been restarted at 13-08-2018 22:00:28
+No need to reboot AP in KZN at 13-08-2018 22:30:03
+No need to restart backup interface in SBP at 13-08-2018 22:30:27
+No need to reboot AP in KZN at 13-08-2018 23:00:03
+No need to restart backup interface in SBP at 13-08-2018 23:00:28
+No need to reboot AP in KZN at 13-08-2018 23:30:03
+No need to restart backup interface in SBP at 13-08-2018 23:30:28
+No need to reboot AP in KZN at 14-08-2018 00:00:03
+No need to restart backup interface in SBP at 14-08-2018 00:00:27
+No need to reboot AP in KZN at 14-08-2018 00:30:03
+No need to restart backup interface in SBP at 14-08-2018 00:30:27
+No need to reboot AP in KZN at 14-08-2018 01:00:03
+!!!Backup interface in SBP has been restarted at 14-08-2018 01:00:27
+No need to reboot AP in KZN at 14-08-2018 01:30:03
+No need to restart backup interface in SBP at 14-08-2018 01:30:27
+No need to reboot AP in KZN at 14-08-2018 02:00:03
+No need to restart backup interface in SBP at 14-08-2018 02:00:27
+No need to reboot AP in KZN at 14-08-2018 02:30:03
+No need to restart backup interface in SBP at 14-08-2018 02:30:28
+No need to reboot AP in KZN at 14-08-2018 03:00:03
+No need to restart backup interface in SBP at 14-08-2018 03:00:27
+No need to reboot AP in KZN at 14-08-2018 03:30:04
+No need to restart backup interface in SBP at 14-08-2018 03:30:28
+No need to reboot AP in KZN at 14-08-2018 04:00:03
+No need to restart backup interface in SBP at 14-08-2018 04:00:27
+No need to reboot AP in KZN at 14-08-2018 04:30:03
+No need to restart backup interface in SBP at 14-08-2018 04:30:27
+No need to reboot AP in KZN at 14-08-2018 05:00:03
+No need to restart backup interface in SBP at 14-08-2018 05:00:27
+No need to reboot AP in KZN at 14-08-2018 05:30:03
+No need to reboot AP in KZN at 14-08-2018 06:00:03
+No need to restart backup interface in SBP at 14-08-2018 06:00:28
+No need to reboot AP in KZN at 14-08-2018 06:30:03
+No need to restart backup interface in SBP at 14-08-2018 06:30:27
+No need to reboot AP in KZN at 14-08-2018 07:00:04
+No need to restart backup interface in SBP at 14-08-2018 07:00:28
+No need to reboot AP in KZN at 14-08-2018 07:30:04
+No need to restart backup interface in SBP at 14-08-2018 07:30:28
+No need to reboot AP in KZN at 14-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 14-08-2018 08:00:08
+No need to restart backup interface in SBP at 14-08-2018 08:00:27
+No need to reboot AP in KZN at 14-08-2018 08:30:03
+No need to restart backup interface in SBP at 14-08-2018 08:30:28
+No need to reboot AP in KZN at 14-08-2018 09:00:03
+No need to restart backup interface in SBP at 14-08-2018 09:00:27
+No need to reboot AP in KZN at 14-08-2018 09:30:03
+No need to restart backup interface in SBP at 14-08-2018 09:30:28
+No need to reboot AP in KZN at 14-08-2018 10:00:03
+No need to reboot AP on 4th floor at 14-08-2018 10:00:08
+No need to restart backup interface in SBP at 14-08-2018 10:00:27
+No need to reboot AP in KZN at 14-08-2018 10:30:03
+No need to restart backup interface in SBP at 14-08-2018 10:30:28
+No need to reboot AP in KZN at 14-08-2018 11:00:03
+No need to restart backup interface in SBP at 14-08-2018 11:00:27
+No need to reboot AP in KZN at 14-08-2018 11:30:03
+No need to restart backup interface in SBP at 14-08-2018 11:30:27
+No need to reboot AP in KZN at 14-08-2018 12:00:03
+No need to reboot AP on 4th floor at 14-08-2018 12:00:08
+No need to restart backup interface in SBP at 14-08-2018 12:00:27
+No need to reboot AP in KZN at 14-08-2018 12:30:03
+No need to reboot AP in KZN at 14-08-2018 13:00:03
+No need to restart backup interface in SBP at 14-08-2018 13:00:27
+No need to reboot AP in KZN at 14-08-2018 13:30:03
+No need to reboot AP in KZN at 14-08-2018 14:00:04
+No need to reboot AP on 4th floor at 14-08-2018 14:00:09
+No need to restart backup interface in SBP at 14-08-2018 14:00:28
+No need to reboot AP in KZN at 14-08-2018 14:30:04
+No need to restart backup interface in SBP at 14-08-2018 14:30:28
+No need to reboot AP in KZN at 14-08-2018 15:00:03
+No need to restart backup interface in SBP at 14-08-2018 15:00:27
+No need to reboot AP in KZN at 14-08-2018 15:30:03
+No need to restart backup interface in SBP at 14-08-2018 15:30:27
+No need to reboot AP in KZN at 14-08-2018 16:00:04
+No need to reboot AP on 4th floor at 14-08-2018 16:00:09
+No need to restart backup interface in SBP at 14-08-2018 16:00:28
+No need to reboot AP in KZN at 14-08-2018 16:30:04
+No need to restart backup interface in SBP at 14-08-2018 16:30:28
+No need to reboot AP in KZN at 14-08-2018 17:00:03
+No need to restart backup interface in SBP at 14-08-2018 17:00:27
+No need to reboot AP in KZN at 14-08-2018 17:30:03
+No need to restart backup interface in SBP at 14-08-2018 17:30:27
+No need to reboot AP in KZN at 14-08-2018 18:00:03
+No need to reboot AP on 4th floor at 14-08-2018 18:00:08
+No need to restart backup interface in SBP at 14-08-2018 18:00:28
+No need to reboot AP in KZN at 14-08-2018 18:30:03
+No need to restart backup interface in SBP at 14-08-2018 18:30:27
+No need to reboot AP in KZN at 14-08-2018 19:00:03
+No need to restart backup interface in SBP at 14-08-2018 19:00:27
+No need to reboot AP in KZN at 14-08-2018 19:30:03
+No need to restart backup interface in SBP at 14-08-2018 19:30:27
+No need to reboot AP in KZN at 14-08-2018 20:00:04
+No need to restart backup interface in SBP at 14-08-2018 20:00:28
+No need to reboot AP in KZN at 14-08-2018 20:30:03
+!!!Backup interface in SBP has been restarted at 14-08-2018 20:30:27
+No need to reboot AP in KZN at 14-08-2018 21:00:03
+No need to restart backup interface in SBP at 14-08-2018 21:00:28
+No need to reboot AP in KZN at 14-08-2018 21:30:03
+No need to restart backup interface in SBP at 14-08-2018 21:30:27
+No need to reboot AP in KZN at 14-08-2018 22:00:03
+No need to restart backup interface in SBP at 14-08-2018 22:00:28
+No need to reboot AP in KZN at 14-08-2018 22:30:03
+No need to restart backup interface in SBP at 14-08-2018 22:30:27
+No need to reboot AP in KZN at 14-08-2018 23:00:03
+No need to restart backup interface in SBP at 14-08-2018 23:00:27
+No need to reboot AP in KZN at 14-08-2018 23:30:03
+No need to restart backup interface in SBP at 14-08-2018 23:30:27
+No need to reboot AP in KZN at 15-08-2018 00:00:03
+No need to restart backup interface in SBP at 15-08-2018 00:00:27
+No need to reboot AP in KZN at 15-08-2018 00:30:03
+No need to restart backup interface in SBP at 15-08-2018 00:30:27
+No need to reboot AP in KZN at 15-08-2018 01:00:03
+No need to restart backup interface in SBP at 15-08-2018 01:00:27
+No need to reboot AP in KZN at 15-08-2018 01:30:03
+No need to reboot AP in KZN at 15-08-2018 02:00:03
+No need to restart backup interface in SBP at 15-08-2018 02:00:28
+No need to reboot AP in KZN at 15-08-2018 02:30:03
+No need to restart backup interface in SBP at 15-08-2018 02:30:27
+No need to reboot AP in KZN at 15-08-2018 03:00:03
+No need to restart backup interface in SBP at 15-08-2018 03:00:28
+No need to reboot AP in KZN at 15-08-2018 03:30:03
+No need to restart backup interface in SBP at 15-08-2018 03:30:27
+No need to reboot AP in KZN at 15-08-2018 04:00:03
+No need to restart backup interface in SBP at 15-08-2018 04:00:27
+No need to reboot AP in KZN at 15-08-2018 04:30:03
+No need to restart backup interface in SBP at 15-08-2018 04:30:27
+No need to reboot AP in KZN at 15-08-2018 05:00:03
+No need to restart backup interface in SBP at 15-08-2018 05:00:27
+No need to reboot AP in KZN at 15-08-2018 05:30:03
+No need to restart backup interface in SBP at 15-08-2018 05:30:27
+No need to reboot AP in KZN at 15-08-2018 06:00:03
+No need to restart backup interface in SBP at 15-08-2018 06:00:27
+No need to reboot AP in KZN at 15-08-2018 06:30:04
+No need to restart backup interface in SBP at 15-08-2018 06:30:28
+No need to reboot AP in KZN at 15-08-2018 07:00:03
+No need to restart backup interface in SBP at 15-08-2018 07:00:27
+No need to reboot AP in KZN at 15-08-2018 07:30:03
+No need to restart backup interface in SBP at 15-08-2018 07:30:28
+No need to reboot AP in KZN at 15-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 15-08-2018 08:00:08
+No need to reboot AP in KZN at 15-08-2018 08:30:03
+No need to restart backup interface in SBP at 15-08-2018 08:30:28
+No need to reboot AP in KZN at 15-08-2018 09:00:03
+No need to reboot AP in KZN at 15-08-2018 09:30:03
+No need to restart backup interface in SBP at 15-08-2018 09:30:27
+No need to reboot AP in KZN at 15-08-2018 10:00:03
+No need to reboot AP on 4th floor at 15-08-2018 10:00:08
+No need to restart backup interface in SBP at 15-08-2018 10:00:28
+No need to reboot AP in KZN at 15-08-2018 10:30:03
+!!!Backup interface in SBP has been restarted at 15-08-2018 10:30:27
+No need to reboot AP in KZN at 15-08-2018 11:00:04
+No need to restart backup interface in SBP at 15-08-2018 11:00:28
+No need to reboot AP in KZN at 15-08-2018 11:30:03
+No need to restart backup interface in SBP at 15-08-2018 11:30:27
+No need to reboot AP in KZN at 15-08-2018 12:00:03
+No need to reboot AP on 4th floor at 15-08-2018 12:00:08
+No need to restart backup interface in SBP at 15-08-2018 12:00:28
+No need to reboot AP in KZN at 15-08-2018 12:30:03
+No need to restart backup interface in SBP at 15-08-2018 12:30:28
+No need to reboot AP in KZN at 15-08-2018 13:00:03
+No need to restart backup interface in SBP at 15-08-2018 13:00:27
+No need to reboot AP in KZN at 15-08-2018 13:30:03
+No need to restart backup interface in SBP at 15-08-2018 13:30:27
+No need to reboot AP in KZN at 15-08-2018 14:00:04
+No need to reboot AP on 4th floor at 15-08-2018 14:00:09
+No need to restart backup interface in SBP at 15-08-2018 14:00:28
+No need to reboot AP in KZN at 15-08-2018 14:30:03
+No need to restart backup interface in SBP at 15-08-2018 14:30:27
+No need to reboot AP in KZN at 15-08-2018 15:00:07
+No need to restart backup interface in SBP at 15-08-2018 15:00:28
+No need to reboot AP in KZN at 15-08-2018 15:30:03
+No need to restart backup interface in SBP at 15-08-2018 15:30:28
+No need to reboot AP in KZN at 15-08-2018 16:00:03
+No need to reboot AP on 4th floor at 15-08-2018 16:00:08
+No need to restart backup interface in SBP at 15-08-2018 16:00:27
+No need to reboot AP in KZN at 15-08-2018 16:30:03
+No need to restart backup interface in SBP at 15-08-2018 16:30:28
+No need to reboot AP in KZN at 15-08-2018 17:00:03
+No need to restart backup interface in SBP at 15-08-2018 17:00:27
+No need to reboot AP in KZN at 15-08-2018 17:30:03
+!!!Backup interface in SBP has been restarted at 15-08-2018 17:30:27
+No need to reboot AP in KZN at 15-08-2018 18:00:03
+No need to reboot AP on 4th floor at 15-08-2018 18:00:08
+No need to restart backup interface in SBP at 15-08-2018 18:00:27
+No need to reboot AP in KZN at 15-08-2018 18:30:03
+No need to restart backup interface in SBP at 15-08-2018 18:30:27
+No need to reboot AP in KZN at 15-08-2018 19:00:03
+No need to restart backup interface in SBP at 15-08-2018 19:00:28
+No need to reboot AP in KZN at 15-08-2018 19:30:03
+!!!Backup interface in SBP has been restarted at 15-08-2018 19:30:27
+No need to reboot AP in KZN at 15-08-2018 20:00:03
+No need to restart backup interface in SBP at 15-08-2018 20:00:27
+No need to reboot AP in KZN at 15-08-2018 20:30:03
+No need to restart backup interface in SBP at 15-08-2018 20:30:27
+No need to reboot AP in KZN at 15-08-2018 21:00:03
+!!!Backup interface in SBP has been restarted at 15-08-2018 21:00:28
+No need to reboot AP in KZN at 15-08-2018 21:30:03
+No need to restart backup interface in SBP at 15-08-2018 21:30:27
+No need to reboot AP in KZN at 15-08-2018 22:00:03
+No need to restart backup interface in SBP at 15-08-2018 22:00:28
+No need to reboot AP in KZN at 15-08-2018 22:30:03
+No need to restart backup interface in SBP at 15-08-2018 22:30:27
+No need to reboot AP in KZN at 15-08-2018 23:00:03
+No need to restart backup interface in SBP at 15-08-2018 23:00:28
+No need to reboot AP in KZN at 15-08-2018 23:30:03
+No need to restart backup interface in SBP at 15-08-2018 23:30:27
+No need to reboot AP in KZN at 16-08-2018 00:00:04
+!!!Backup interface in SBP has been restarted at 16-08-2018 00:00:28
+No need to reboot AP in KZN at 16-08-2018 00:30:03
+No need to restart backup interface in SBP at 16-08-2018 00:30:27
+No need to reboot AP in KZN at 16-08-2018 01:00:03
+No need to reboot AP in KZN at 16-08-2018 01:30:03
+No need to restart backup interface in SBP at 16-08-2018 01:30:28
+No need to reboot AP in KZN at 16-08-2018 02:00:03
+No need to restart backup interface in SBP at 16-08-2018 02:00:27
+No need to reboot AP in KZN at 16-08-2018 02:30:03
+No need to restart backup interface in SBP at 16-08-2018 02:30:27
+No need to reboot AP in KZN at 16-08-2018 03:00:03
+No need to restart backup interface in SBP at 16-08-2018 03:00:28
+No need to reboot AP in KZN at 16-08-2018 03:30:04
+No need to restart backup interface in SBP at 16-08-2018 03:30:28
+No need to reboot AP in KZN at 16-08-2018 04:00:03
+No need to restart backup interface in SBP at 16-08-2018 04:00:27
+No need to reboot AP in KZN at 16-08-2018 04:30:03
+No need to restart backup interface in SBP at 16-08-2018 04:30:27
+No need to reboot AP in KZN at 16-08-2018 05:00:04
+No need to restart backup interface in SBP at 16-08-2018 05:00:28
+No need to reboot AP in KZN at 16-08-2018 05:30:04
+No need to restart backup interface in SBP at 16-08-2018 05:30:28
+No need to reboot AP in KZN at 16-08-2018 06:00:03
+No need to reboot AP in KZN at 16-08-2018 06:30:03
+No need to restart backup interface in SBP at 16-08-2018 06:30:27
+No need to reboot AP in KZN at 16-08-2018 07:00:03
+No need to restart backup interface in SBP at 16-08-2018 07:00:27
+No need to reboot AP in KZN at 16-08-2018 07:30:03
+!!!Backup interface in SBP has been restarted at 16-08-2018 07:30:27
+No need to reboot AP in KZN at 16-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 16-08-2018 08:00:08
+No need to restart backup interface in SBP at 16-08-2018 08:00:28
+No need to reboot AP in KZN at 16-08-2018 08:30:04
+No need to restart backup interface in SBP at 16-08-2018 08:30:28
+No need to reboot AP in KZN at 16-08-2018 09:00:03
+No need to restart backup interface in SBP at 16-08-2018 09:00:27
+No need to reboot AP in KZN at 16-08-2018 09:30:03
+No need to restart backup interface in SBP at 16-08-2018 09:30:28
+No need to reboot AP in KZN at 16-08-2018 10:00:03
+No need to reboot AP on 4th floor at 16-08-2018 10:00:08
+No need to restart backup interface in SBP at 16-08-2018 10:00:27
+No need to reboot AP in KZN at 16-08-2018 10:30:03
+No need to restart backup interface in SBP at 16-08-2018 10:30:28
+No need to reboot AP in KZN at 16-08-2018 11:00:03
+No need to restart backup interface in SBP at 16-08-2018 11:00:27
+No need to reboot AP in KZN at 16-08-2018 11:30:04
+No need to restart backup interface in SBP at 16-08-2018 11:30:28
+No need to reboot AP in KZN at 16-08-2018 12:00:03
+No need to reboot AP on 4th floor at 16-08-2018 12:00:08
+No need to restart backup interface in SBP at 16-08-2018 12:00:27
+No need to reboot AP in KZN at 16-08-2018 12:30:03
+No need to restart backup interface in SBP at 16-08-2018 12:30:27
+No need to reboot AP in KZN at 16-08-2018 13:00:03
+No need to restart backup interface in SBP at 16-08-2018 13:00:27
+No need to reboot AP in KZN at 16-08-2018 13:30:03
+No need to restart backup interface in SBP at 16-08-2018 13:30:27
+No need to reboot AP in KZN at 16-08-2018 14:00:03
+No need to reboot AP on 4th floor at 16-08-2018 14:00:08
+No need to restart backup interface in SBP at 16-08-2018 14:00:27
+No need to reboot AP in KZN at 16-08-2018 14:30:03
+No need to restart backup interface in SBP at 16-08-2018 14:30:27
+No need to reboot AP in KZN at 16-08-2018 15:00:03
+No need to restart backup interface in SBP at 16-08-2018 15:00:28
+No need to reboot AP in KZN at 16-08-2018 15:30:03
+No need to restart backup interface in SBP at 16-08-2018 15:30:28
+No need to reboot AP in KZN at 16-08-2018 16:00:03
+No need to reboot AP on 4th floor at 16-08-2018 16:00:08
+No need to restart backup interface in SBP at 16-08-2018 16:00:27
+No need to reboot AP in KZN at 16-08-2018 16:30:03
+No need to restart backup interface in SBP at 16-08-2018 16:30:28
+No need to reboot AP in KZN at 16-08-2018 17:00:03
+No need to restart backup interface in SBP at 16-08-2018 17:00:27
+No need to reboot AP in KZN at 16-08-2018 17:30:03
+No need to restart backup interface in SBP at 16-08-2018 17:30:28
+No need to reboot AP in KZN at 16-08-2018 18:00:03
+No need to reboot AP on 4th floor at 16-08-2018 18:00:08
+No need to reboot AP in KZN at 16-08-2018 18:30:03
+No need to restart backup interface in SBP at 16-08-2018 18:30:27
+No need to reboot AP in KZN at 16-08-2018 19:00:03
+No need to restart backup interface in SBP at 16-08-2018 19:00:27
+No need to reboot AP in KZN at 16-08-2018 19:30:03
+No need to restart backup interface in SBP at 16-08-2018 19:30:28
+No need to reboot AP in KZN at 16-08-2018 20:00:03
+No need to restart backup interface in SBP at 16-08-2018 20:00:27
+No need to reboot AP in KZN at 16-08-2018 20:30:03
+No need to restart backup interface in SBP at 16-08-2018 20:30:28
+No need to reboot AP in KZN at 16-08-2018 21:00:03
+No need to restart backup interface in SBP at 16-08-2018 21:00:27
+No need to reboot AP in KZN at 16-08-2018 21:30:03
+No need to restart backup interface in SBP at 16-08-2018 21:30:27
+No need to reboot AP in KZN at 16-08-2018 22:00:03
+No need to restart backup interface in SBP at 16-08-2018 22:00:28
+No need to reboot AP in KZN at 16-08-2018 22:30:03
+No need to restart backup interface in SBP at 16-08-2018 22:30:27
+No need to reboot AP in KZN at 16-08-2018 23:00:03
+!!!Backup interface in SBP has been restarted at 16-08-2018 23:00:28
+No need to reboot AP in KZN at 16-08-2018 23:30:04
+No need to restart backup interface in SBP at 16-08-2018 23:30:28
+No need to reboot AP in KZN at 17-08-2018 00:00:03
+!!!Backup interface in SBP has been restarted at 17-08-2018 00:00:27
+No need to reboot AP in KZN at 17-08-2018 00:30:04
+No need to reboot AP in KZN at 17-08-2018 01:00:03
+No need to restart backup interface in SBP at 17-08-2018 01:00:27
+No need to reboot AP in KZN at 17-08-2018 01:30:03
+!!!Backup interface in SBP has been restarted at 17-08-2018 01:30:28
+No need to reboot AP in KZN at 17-08-2018 02:00:03
+No need to restart backup interface in SBP at 17-08-2018 02:00:27
+No need to reboot AP in KZN at 17-08-2018 02:30:03
+No need to restart backup interface in SBP at 17-08-2018 02:30:27
+No need to reboot AP in KZN at 17-08-2018 03:00:03
+No need to restart backup interface in SBP at 17-08-2018 03:00:27
+No need to reboot AP in KZN at 17-08-2018 03:30:03
+No need to restart backup interface in SBP at 17-08-2018 03:30:27
+No need to reboot AP in KZN at 17-08-2018 04:00:03
+No need to restart backup interface in SBP at 17-08-2018 04:00:27
+No need to reboot AP in KZN at 17-08-2018 04:30:03
+No need to restart backup interface in SBP at 17-08-2018 04:30:28
+No need to reboot AP in KZN at 17-08-2018 05:00:03
+No need to restart backup interface in SBP at 17-08-2018 05:00:27
+No need to reboot AP in KZN at 17-08-2018 05:30:03
+No need to restart backup interface in SBP at 17-08-2018 05:30:27
+No need to reboot AP in KZN at 17-08-2018 06:00:03
+No need to restart backup interface in SBP at 17-08-2018 06:00:27
+No need to reboot AP in KZN at 17-08-2018 06:30:03
+No need to reboot AP in KZN at 17-08-2018 07:00:03
+No need to restart backup interface in SBP at 17-08-2018 07:00:27
+No need to reboot AP in KZN at 17-08-2018 07:30:04
+No need to restart backup interface in SBP at 17-08-2018 07:30:28
+No need to reboot AP in KZN at 17-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 17-08-2018 08:00:08
+No need to restart backup interface in SBP at 17-08-2018 08:00:27
+No need to reboot AP in KZN at 17-08-2018 08:30:03
+No need to restart backup interface in SBP at 17-08-2018 08:30:27
+No need to reboot AP in KZN at 17-08-2018 09:00:03
+No need to restart backup interface in SBP at 17-08-2018 09:00:28
+No need to reboot AP in KZN at 17-08-2018 09:30:03
+No need to restart backup interface in SBP at 17-08-2018 09:30:28
+No need to reboot AP in KZN at 17-08-2018 10:00:03
+No need to reboot AP on 4th floor at 17-08-2018 10:00:08
+!!!Backup interface in SBP has been restarted at 17-08-2018 10:00:27
+No need to reboot AP in KZN at 17-08-2018 10:30:03
+No need to restart backup interface in SBP at 17-08-2018 10:30:27
+No need to reboot AP in KZN at 17-08-2018 11:00:03
+No need to reboot AP in KZN at 17-08-2018 11:30:05
+!!!Backup interface in SBP has been restarted at 17-08-2018 11:30:28
+No need to reboot AP in KZN at 17-08-2018 12:00:04
+No need to reboot AP on 4th floor at 17-08-2018 12:00:08
+No need to restart backup interface in SBP at 17-08-2018 12:00:28
+No need to reboot AP in KZN at 17-08-2018 12:30:03
+No need to restart backup interface in SBP at 17-08-2018 12:30:27
+No need to reboot AP in KZN at 17-08-2018 13:00:03
+No need to restart backup interface in SBP at 17-08-2018 13:00:28
+No need to reboot AP in KZN at 17-08-2018 13:30:03
+No need to restart backup interface in SBP at 17-08-2018 13:30:28
+No need to reboot AP in KZN at 17-08-2018 14:00:03
+No need to reboot AP on 4th floor at 17-08-2018 14:00:08
+No need to restart backup interface in SBP at 17-08-2018 14:00:27
+No need to reboot AP in KZN at 17-08-2018 14:30:03
+No need to restart backup interface in SBP at 17-08-2018 14:30:28
+No need to reboot AP in KZN at 17-08-2018 15:00:03
+No need to restart backup interface in SBP at 17-08-2018 15:00:27
+No need to reboot AP in KZN at 17-08-2018 15:30:04
+No need to restart backup interface in SBP at 17-08-2018 15:30:29
+No need to reboot AP in KZN at 17-08-2018 16:00:03
+No need to reboot AP on 4th floor at 17-08-2018 16:00:08
+No need to restart backup interface in SBP at 17-08-2018 16:00:27
+No need to reboot AP in KZN at 17-08-2018 16:30:03
+No need to restart backup interface in SBP at 17-08-2018 16:30:27
+No need to reboot AP in KZN at 17-08-2018 17:00:03
+No need to restart backup interface in SBP at 17-08-2018 17:00:28
+No need to reboot AP in KZN at 17-08-2018 17:30:03
+!!!Backup interface in SBP has been restarted at 17-08-2018 17:30:27
+No need to reboot AP in KZN at 17-08-2018 18:00:03
+No need to reboot AP on 4th floor at 17-08-2018 18:00:08
+No need to restart backup interface in SBP at 17-08-2018 18:00:27
+No need to reboot AP in KZN at 17-08-2018 18:30:03
+No need to restart backup interface in SBP at 17-08-2018 18:30:28
+No need to reboot AP in KZN at 17-08-2018 19:00:03
+No need to reboot AP in KZN at 17-08-2018 19:30:03
+No need to reboot AP in KZN at 17-08-2018 20:00:03
+No need to restart backup interface in SBP at 17-08-2018 20:00:28
+No need to reboot AP in KZN at 17-08-2018 20:30:03
+No need to restart backup interface in SBP at 17-08-2018 20:30:28
+No need to reboot AP in KZN at 17-08-2018 21:00:03
+No need to restart backup interface in SBP at 17-08-2018 21:00:27
+No need to reboot AP in KZN at 17-08-2018 21:30:03
+No need to restart backup interface in SBP at 17-08-2018 21:30:28
+No need to reboot AP in KZN at 17-08-2018 22:00:03
+No need to restart backup interface in SBP at 17-08-2018 22:00:28
+No need to reboot AP in KZN at 17-08-2018 22:30:03
+No need to restart backup interface in SBP at 17-08-2018 22:30:28
+No need to reboot AP in KZN at 17-08-2018 23:00:03
+No need to restart backup interface in SBP at 17-08-2018 23:00:27
+No need to reboot AP in KZN at 17-08-2018 23:30:03
+No need to restart backup interface in SBP at 17-08-2018 23:30:27
+No need to reboot AP in KZN at 18-08-2018 00:00:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 00:00:27
+No need to reboot AP in KZN at 18-08-2018 00:30:03
+No need to reboot AP in KZN at 18-08-2018 01:00:03
+No need to restart backup interface in SBP at 18-08-2018 01:00:27
+No need to reboot AP in KZN at 18-08-2018 01:30:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 01:30:27
+No need to reboot AP in KZN at 18-08-2018 02:00:03
+No need to restart backup interface in SBP at 18-08-2018 02:00:27
+No need to reboot AP in KZN at 18-08-2018 02:30:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 02:30:27
+No need to reboot AP in KZN at 18-08-2018 03:00:03
+No need to restart backup interface in SBP at 18-08-2018 03:00:27
+No need to reboot AP in KZN at 18-08-2018 03:30:03
+No need to restart backup interface in SBP at 18-08-2018 03:30:27
+No need to reboot AP in KZN at 18-08-2018 04:00:03
+No need to restart backup interface in SBP at 18-08-2018 04:00:27
+No need to reboot AP in KZN at 18-08-2018 04:30:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 04:30:27
+No need to reboot AP in KZN at 18-08-2018 05:00:03
+No need to restart backup interface in SBP at 18-08-2018 05:00:27
+No need to reboot AP in KZN at 18-08-2018 05:30:03
+No need to reboot AP in KZN at 18-08-2018 06:00:03
+No need to reboot AP in KZN at 18-08-2018 06:30:04
+No need to restart backup interface in SBP at 18-08-2018 06:30:28
+No need to reboot AP in KZN at 18-08-2018 07:00:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 07:00:27
+No need to reboot AP in KZN at 18-08-2018 07:30:03
+No need to restart backup interface in SBP at 18-08-2018 07:30:27
+No need to reboot AP in KZN at 18-08-2018 08:00:04
+No need to restart backup interface in SBP at 18-08-2018 08:00:28
+No need to reboot AP in KZN at 18-08-2018 08:30:03
+No need to restart backup interface in SBP at 18-08-2018 08:30:27
+No need to reboot AP in KZN at 18-08-2018 09:00:03
+No need to restart backup interface in SBP at 18-08-2018 09:00:27
+No need to reboot AP in KZN at 18-08-2018 09:30:03
+No need to restart backup interface in SBP at 18-08-2018 09:30:27
+No need to reboot AP in KZN at 18-08-2018 10:00:03
+No need to restart backup interface in SBP at 18-08-2018 10:00:27
+No need to reboot AP in KZN at 18-08-2018 10:30:03
+No need to restart backup interface in SBP at 18-08-2018 10:30:27
+No need to reboot AP in KZN at 18-08-2018 11:00:03
+No need to restart backup interface in SBP at 18-08-2018 11:00:27
+No need to reboot AP in KZN at 18-08-2018 11:30:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 11:30:27
+No need to reboot AP in KZN at 18-08-2018 12:00:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 12:00:27
+No need to reboot AP in KZN at 18-08-2018 12:30:03
+No need to restart backup interface in SBP at 18-08-2018 12:30:28
+No need to reboot AP in KZN at 18-08-2018 13:00:03
+No need to reboot AP in KZN at 18-08-2018 13:30:03
+No need to restart backup interface in SBP at 18-08-2018 13:30:27
+No need to reboot AP in KZN at 18-08-2018 14:00:03
+No need to restart backup interface in SBP at 18-08-2018 14:00:27
+No need to reboot AP in KZN at 18-08-2018 14:30:03
+No need to restart backup interface in SBP at 18-08-2018 14:30:27
+No need to reboot AP in KZN at 18-08-2018 15:00:03
+No need to restart backup interface in SBP at 18-08-2018 15:00:27
+No need to reboot AP in KZN at 18-08-2018 15:30:03
+No need to restart backup interface in SBP at 18-08-2018 15:30:27
+No need to reboot AP in KZN at 18-08-2018 16:00:03
+No need to restart backup interface in SBP at 18-08-2018 16:00:27
+No need to reboot AP in KZN at 18-08-2018 16:30:03
+No need to restart backup interface in SBP at 18-08-2018 16:30:28
+No need to reboot AP in KZN at 18-08-2018 17:00:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 17:00:27
+No need to reboot AP in KZN at 18-08-2018 17:30:04
+No need to restart backup interface in SBP at 18-08-2018 17:30:28
+No need to reboot AP in KZN at 18-08-2018 18:00:03
+No need to restart backup interface in SBP at 18-08-2018 18:00:27
+No need to reboot AP in KZN at 18-08-2018 18:30:03
+No need to restart backup interface in SBP at 18-08-2018 18:30:27
+No need to reboot AP in KZN at 18-08-2018 19:00:03
+No need to restart backup interface in SBP at 18-08-2018 19:00:27
+No need to reboot AP in KZN at 18-08-2018 19:30:03
+No need to restart backup interface in SBP at 18-08-2018 19:30:27
+No need to reboot AP in KZN at 18-08-2018 20:00:03
+No need to restart backup interface in SBP at 18-08-2018 20:00:27
+No need to reboot AP in KZN at 18-08-2018 20:30:03
+No need to restart backup interface in SBP at 18-08-2018 20:30:27
+No need to reboot AP in KZN at 18-08-2018 21:00:03
+No need to restart backup interface in SBP at 18-08-2018 21:00:28
+No need to reboot AP in KZN at 18-08-2018 21:30:03
+No need to restart backup interface in SBP at 18-08-2018 21:30:27
+No need to reboot AP in KZN at 18-08-2018 22:00:03
+No need to restart backup interface in SBP at 18-08-2018 22:00:28
+No need to reboot AP in KZN at 18-08-2018 22:30:03
+No need to restart backup interface in SBP at 18-08-2018 22:30:28
+No need to reboot AP in KZN at 18-08-2018 23:00:03
+!!!Backup interface in SBP has been restarted at 18-08-2018 23:00:27
+No need to reboot AP in KZN at 18-08-2018 23:30:03
+No need to restart backup interface in SBP at 18-08-2018 23:30:27
+No need to reboot AP in KZN at 19-08-2018 00:00:04
+No need to restart backup interface in SBP at 19-08-2018 00:00:28
+No need to reboot AP in KZN at 19-08-2018 00:30:03
+No need to restart backup interface in SBP at 19-08-2018 00:30:27
+No need to reboot AP in KZN at 19-08-2018 01:00:03
+No need to restart backup interface in SBP at 19-08-2018 01:00:28
+No need to reboot AP in KZN at 19-08-2018 01:30:03
+No need to restart backup interface in SBP at 19-08-2018 01:30:27
+No need to reboot AP in KZN at 19-08-2018 02:00:04
+No need to restart backup interface in SBP at 19-08-2018 02:00:28
+No need to reboot AP in KZN at 19-08-2018 02:30:03
+!!!Backup interface in SBP has been restarted at 19-08-2018 02:30:27
+No need to reboot AP in KZN at 19-08-2018 03:00:03
+No need to restart backup interface in SBP at 19-08-2018 03:00:27
+No need to reboot AP in KZN at 19-08-2018 03:30:03
+No need to restart backup interface in SBP at 19-08-2018 03:30:27
+No need to reboot AP in KZN at 19-08-2018 04:00:03
+No need to restart backup interface in SBP at 19-08-2018 04:00:28
+No need to reboot AP in KZN at 19-08-2018 04:30:03
+No need to restart backup interface in SBP at 19-08-2018 04:30:27
+No need to reboot AP in KZN at 19-08-2018 05:00:04
+No need to restart backup interface in SBP at 19-08-2018 05:00:28
+No need to reboot AP in KZN at 19-08-2018 05:30:03
+!!!Backup interface in SBP has been restarted at 19-08-2018 05:30:27
+No need to reboot AP in KZN at 19-08-2018 06:00:03
+No need to restart backup interface in SBP at 19-08-2018 06:00:27
+No need to reboot AP in KZN at 19-08-2018 06:30:03
+No need to restart backup interface in SBP at 19-08-2018 06:30:27
+No need to reboot AP in KZN at 19-08-2018 07:00:03
+No need to reboot AP in KZN at 19-08-2018 07:30:03
+No need to restart backup interface in SBP at 19-08-2018 07:30:27
+No need to reboot AP in KZN at 19-08-2018 08:00:03
+No need to restart backup interface in SBP at 19-08-2018 08:00:28
+No need to reboot AP in KZN at 19-08-2018 08:30:03
+No need to restart backup interface in SBP at 19-08-2018 08:30:27
+No need to reboot AP in KZN at 19-08-2018 09:00:03
+No need to restart backup interface in SBP at 19-08-2018 09:00:28
+No need to reboot AP in KZN at 19-08-2018 09:30:04
+No need to restart backup interface in SBP at 19-08-2018 09:30:28
+No need to reboot AP in KZN at 19-08-2018 10:00:03
+No need to restart backup interface in SBP at 19-08-2018 10:00:27
+No need to reboot AP in KZN at 19-08-2018 10:30:03
+No need to restart backup interface in SBP at 19-08-2018 10:30:27
+No need to reboot AP in KZN at 19-08-2018 11:00:04
+No need to restart backup interface in SBP at 19-08-2018 11:00:28
+No need to reboot AP in KZN at 19-08-2018 11:30:03
+No need to restart backup interface in SBP at 19-08-2018 11:30:27
+No need to reboot AP in KZN at 19-08-2018 12:00:03
+!!!Backup interface in SBP has been restarted at 19-08-2018 12:00:28
+No need to reboot AP in KZN at 19-08-2018 12:30:03
+No need to restart backup interface in SBP at 19-08-2018 12:30:27
+No need to reboot AP in KZN at 19-08-2018 13:00:03
+No need to reboot AP in KZN at 19-08-2018 13:30:03
+!!!Backup interface in SBP has been restarted at 19-08-2018 13:30:27
+No need to reboot AP in KZN at 19-08-2018 14:00:03
+No need to restart backup interface in SBP at 19-08-2018 14:00:27
+No need to reboot AP in KZN at 19-08-2018 14:30:03
+No need to restart backup interface in SBP at 19-08-2018 14:30:27
+No need to reboot AP in KZN at 19-08-2018 15:00:03
+No need to restart backup interface in SBP at 19-08-2018 15:00:27
+No need to reboot AP in KZN at 19-08-2018 15:30:03
+No need to restart backup interface in SBP at 19-08-2018 15:30:27
+No need to reboot AP in KZN at 19-08-2018 16:00:03
+No need to restart backup interface in SBP at 19-08-2018 16:00:27
+No need to reboot AP in KZN at 19-08-2018 16:30:03
+No need to restart backup interface in SBP at 19-08-2018 16:30:27
+No need to reboot AP in KZN at 19-08-2018 17:00:04
+No need to restart backup interface in SBP at 19-08-2018 17:00:28
+No need to reboot AP in KZN at 19-08-2018 17:30:03
+No need to restart backup interface in SBP at 19-08-2018 17:30:27
+No need to reboot AP in KZN at 19-08-2018 18:00:03
+No need to reboot AP in KZN at 19-08-2018 18:30:03
+No need to reboot AP in KZN at 19-08-2018 19:00:03
+No need to restart backup interface in SBP at 19-08-2018 19:00:27
+No need to reboot AP in KZN at 19-08-2018 19:30:04
+No need to restart backup interface in SBP at 19-08-2018 19:30:28
+No need to reboot AP in KZN at 19-08-2018 20:00:03
+No need to restart backup interface in SBP at 19-08-2018 20:00:27
+No need to reboot AP in KZN at 19-08-2018 20:30:03
+No need to restart backup interface in SBP at 19-08-2018 20:30:27
+No need to reboot AP in KZN at 19-08-2018 21:00:03
+No need to restart backup interface in SBP at 19-08-2018 21:00:27
+No need to reboot AP in KZN at 19-08-2018 21:30:03
+No need to restart backup interface in SBP at 19-08-2018 21:30:27
+No need to reboot AP in KZN at 19-08-2018 22:00:03
+No need to restart backup interface in SBP at 19-08-2018 22:00:28
+No need to reboot AP in KZN at 19-08-2018 22:30:03
+No need to restart backup interface in SBP at 19-08-2018 22:30:28
+No need to reboot AP in KZN at 19-08-2018 23:00:03
+No need to restart backup interface in SBP at 19-08-2018 23:00:27
+No need to reboot AP in KZN at 19-08-2018 23:30:03
+No need to restart backup interface in SBP at 19-08-2018 23:30:28
+No need to reboot AP in KZN at 20-08-2018 00:00:03
+No need to reboot AP in KZN at 20-08-2018 00:30:03
+No need to restart backup interface in SBP at 20-08-2018 00:30:28
+No need to reboot AP in KZN at 20-08-2018 01:00:03
+No need to restart backup interface in SBP at 20-08-2018 01:00:27
+No need to reboot AP in KZN at 20-08-2018 01:30:04
+No need to restart backup interface in SBP at 20-08-2018 01:30:28
+No need to reboot AP in KZN at 20-08-2018 02:00:03
+No need to restart backup interface in SBP at 20-08-2018 02:00:27
+No need to reboot AP in KZN at 20-08-2018 02:30:04
+!!!Backup interface in SBP has been restarted at 20-08-2018 02:30:28
+No need to reboot AP in KZN at 20-08-2018 03:00:04
+No need to restart backup interface in SBP at 20-08-2018 03:00:28
+No need to reboot AP in KZN at 20-08-2018 03:30:03
+No need to reboot AP in KZN at 20-08-2018 04:00:03
+No need to restart backup interface in SBP at 20-08-2018 04:00:27
+No need to reboot AP in KZN at 20-08-2018 04:30:04
+No need to restart backup interface in SBP at 20-08-2018 04:30:28
+No need to reboot AP in KZN at 20-08-2018 05:00:03
+No need to restart backup interface in SBP at 20-08-2018 05:00:27
+No need to reboot AP in KZN at 20-08-2018 05:30:03
+No need to restart backup interface in SBP at 20-08-2018 05:30:28
+No need to reboot AP in KZN at 20-08-2018 06:00:03
+No need to restart backup interface in SBP at 20-08-2018 06:00:27
+No need to reboot AP in KZN at 20-08-2018 06:30:03
+No need to reboot AP in KZN at 20-08-2018 07:00:03
+No need to restart backup interface in SBP at 20-08-2018 07:00:27
+No need to reboot AP in KZN at 20-08-2018 07:30:03
+!!!Backup interface in SBP has been restarted at 20-08-2018 07:30:27
+No need to reboot AP in KZN at 20-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 20-08-2018 08:00:08
+No need to restart backup interface in SBP at 20-08-2018 08:00:27
+No need to reboot AP in KZN at 20-08-2018 08:30:03
+No need to restart backup interface in SBP at 20-08-2018 08:30:28
+No need to reboot AP in KZN at 20-08-2018 09:00:03
+No need to restart backup interface in SBP at 20-08-2018 09:00:28
+No need to reboot AP in KZN at 20-08-2018 09:30:03
+No need to restart backup interface in SBP at 20-08-2018 09:30:28
+No need to reboot AP in KZN at 20-08-2018 10:00:03
+No need to reboot AP on 4th floor at 20-08-2018 10:00:08
+No need to restart backup interface in SBP at 20-08-2018 10:00:30
+No need to reboot AP in KZN at 20-08-2018 10:30:04
+No need to restart backup interface in SBP at 20-08-2018 10:30:29
+No need to reboot AP in KZN at 20-08-2018 11:00:03
+No need to restart backup interface in SBP at 20-08-2018 11:00:28
+No need to reboot AP in KZN at 20-08-2018 11:30:03
+No need to restart backup interface in SBP at 20-08-2018 11:30:29
+No need to reboot AP in KZN at 20-08-2018 12:00:03
+No need to reboot AP on 4th floor at 20-08-2018 12:00:08
+No need to restart backup interface in SBP at 20-08-2018 12:00:27
+No need to reboot AP in KZN at 20-08-2018 12:30:03
+No need to restart backup interface in SBP at 20-08-2018 12:30:29
+No need to reboot AP in KZN at 20-08-2018 13:00:03
+No need to reboot AP in KZN at 20-08-2018 13:30:03
+No need to restart backup interface in SBP at 20-08-2018 13:30:27
+No need to reboot AP in KZN at 20-08-2018 14:00:03
+No need to reboot AP on 4th floor at 20-08-2018 14:00:08
+No need to restart backup interface in SBP at 20-08-2018 14:00:28
+No need to reboot AP in KZN at 20-08-2018 14:30:04
+No need to restart backup interface in SBP at 20-08-2018 14:30:29
+No need to reboot AP in KZN at 20-08-2018 15:00:03
+No need to reboot AP in KZN at 20-08-2018 15:30:03
+No need to reboot AP in KZN at 20-08-2018 16:00:03
+No need to reboot AP on 4th floor at 20-08-2018 16:00:08
+No need to reboot AP in KZN at 20-08-2018 16:30:03
+No need to reboot AP in KZN at 20-08-2018 17:00:03
+No need to restart backup interface in SBP at 20-08-2018 17:00:28
+No need to reboot AP in KZN at 20-08-2018 17:30:03
+No need to reboot AP in KZN at 20-08-2018 18:00:03
+No need to reboot AP on 4th floor at 20-08-2018 18:00:08
+No need to reboot AP in KZN at 20-08-2018 18:30:03
+No need to reboot AP in KZN at 20-08-2018 19:00:03
+No need to restart backup interface in SBP at 20-08-2018 19:00:28
+No need to reboot AP in KZN at 20-08-2018 19:30:03
+No need to restart backup interface in SBP at 20-08-2018 19:30:27
+No need to reboot AP in KZN at 20-08-2018 20:00:03
+No need to restart backup interface in SBP at 20-08-2018 20:00:27
+No need to reboot AP in KZN at 20-08-2018 20:30:03
+No need to restart backup interface in SBP at 20-08-2018 20:30:30
+No need to reboot AP in KZN at 20-08-2018 21:00:03
+No need to restart backup interface in SBP at 20-08-2018 21:00:27
+No need to reboot AP in KZN at 20-08-2018 21:30:03
+No need to reboot AP in KZN at 20-08-2018 22:00:03
+No need to restart backup interface in SBP at 20-08-2018 22:00:28
+No need to reboot AP in KZN at 20-08-2018 22:30:03
+No need to restart backup interface in SBP at 20-08-2018 22:30:29
+No need to reboot AP in KZN at 20-08-2018 23:00:04
+No need to restart backup interface in SBP at 20-08-2018 23:00:28
+No need to reboot AP in KZN at 20-08-2018 23:30:03
+No need to restart backup interface in SBP at 20-08-2018 23:30:27
+No need to reboot AP in KZN at 21-08-2018 00:00:03
+No need to restart backup interface in SBP at 21-08-2018 00:00:27
+No need to reboot AP in KZN at 21-08-2018 00:30:03
+No need to restart backup interface in SBP at 21-08-2018 00:30:27
+No need to reboot AP in KZN at 21-08-2018 01:00:03
+No need to restart backup interface in SBP at 21-08-2018 01:00:28
+No need to reboot AP in KZN at 21-08-2018 01:30:03
+No need to restart backup interface in SBP at 21-08-2018 01:30:27
+No need to reboot AP in KZN at 21-08-2018 02:00:03
+No need to restart backup interface in SBP at 21-08-2018 02:00:28
+No need to reboot AP in KZN at 21-08-2018 02:30:03
+No need to restart backup interface in SBP at 21-08-2018 02:30:28
+No need to reboot AP in KZN at 21-08-2018 03:00:03
+No need to restart backup interface in SBP at 21-08-2018 03:00:28
+No need to reboot AP in KZN at 21-08-2018 03:30:03
+No need to restart backup interface in SBP at 21-08-2018 03:30:27
+No need to reboot AP in KZN at 21-08-2018 04:00:03
+No need to restart backup interface in SBP at 21-08-2018 04:00:27
+No need to reboot AP in KZN at 21-08-2018 04:30:03
+No need to reboot AP in KZN at 21-08-2018 05:00:03
+No need to reboot AP in KZN at 21-08-2018 05:30:04
+No need to restart backup interface in SBP at 21-08-2018 05:30:28
+No need to reboot AP in KZN at 21-08-2018 06:00:03
+No need to restart backup interface in SBP at 21-08-2018 06:00:27
+No need to reboot AP in KZN at 21-08-2018 06:30:03
+No need to restart backup interface in SBP at 21-08-2018 06:30:28
+No need to reboot AP in KZN at 21-08-2018 07:00:03
+No need to restart backup interface in SBP at 21-08-2018 07:00:27
+No need to reboot AP in KZN at 21-08-2018 07:30:03
+No need to restart backup interface in SBP at 21-08-2018 07:30:27
+No need to reboot AP in KZN at 21-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 21-08-2018 08:00:08
+No need to restart backup interface in SBP at 21-08-2018 08:00:27
+No need to reboot AP in KZN at 21-08-2018 08:30:03
+No need to reboot AP in KZN at 21-08-2018 09:00:03
+No need to restart backup interface in SBP at 21-08-2018 09:00:27
+No need to reboot AP in KZN at 21-08-2018 09:30:03
+No need to restart backup interface in SBP at 21-08-2018 09:30:27
+No need to reboot AP in KZN at 21-08-2018 10:00:03
+No need to reboot AP on 4th floor at 21-08-2018 10:00:08
+No need to restart backup interface in SBP at 21-08-2018 10:00:28
+No need to reboot AP in KZN at 21-08-2018 10:30:03
+No need to reboot AP in KZN at 21-08-2018 11:00:04
+!!!Backup interface in SBP has been restarted at 21-08-2018 11:00:28
+No need to reboot AP in KZN at 21-08-2018 11:30:03
+No need to restart backup interface in SBP at 21-08-2018 11:30:28
+No need to reboot AP in KZN at 21-08-2018 12:00:03
+No need to reboot AP on 4th floor at 21-08-2018 12:00:08
+No need to reboot AP in KZN at 21-08-2018 12:30:04
+No need to restart backup interface in SBP at 21-08-2018 12:30:28
+No need to reboot AP in KZN at 21-08-2018 13:00:03
+No need to restart backup interface in SBP at 21-08-2018 13:00:27
+No need to reboot AP in KZN at 21-08-2018 13:30:03
+No need to reboot AP in KZN at 21-08-2018 14:00:03
+No need to reboot AP on 4th floor at 21-08-2018 14:00:08
+No need to restart backup interface in SBP at 21-08-2018 14:00:27
+No need to reboot AP in KZN at 21-08-2018 14:30:03
+No need to restart backup interface in SBP at 21-08-2018 14:30:27
+No need to reboot AP in KZN at 21-08-2018 15:00:03
+No need to restart backup interface in SBP at 21-08-2018 15:00:28
+No need to reboot AP in KZN at 21-08-2018 15:30:03
+No need to restart backup interface in SBP at 21-08-2018 15:30:28
+No need to reboot AP in KZN at 21-08-2018 16:00:03
+No need to reboot AP on 4th floor at 21-08-2018 16:00:08
+!!!Backup interface in SBP has been restarted at 21-08-2018 16:00:27
+No need to reboot AP in KZN at 21-08-2018 16:30:03
+No need to restart backup interface in SBP at 21-08-2018 16:30:27
+No need to reboot AP in KZN at 21-08-2018 17:00:03
+No need to restart backup interface in SBP at 21-08-2018 17:00:28
+No need to reboot AP in KZN at 21-08-2018 17:30:03
+No need to restart backup interface in SBP at 21-08-2018 17:30:28
+No need to reboot AP in KZN at 21-08-2018 18:00:04
+!!!AP on 4th floor has been rebooted at 21-08-2018 18:00:09
+No need to restart backup interface in SBP at 21-08-2018 18:00:28
+No need to reboot AP in KZN at 21-08-2018 18:30:04
+No need to restart backup interface in SBP at 21-08-2018 18:30:28
+No need to reboot AP in KZN at 21-08-2018 19:00:03
+No need to restart backup interface in SBP at 21-08-2018 19:00:27
+No need to reboot AP in KZN at 21-08-2018 19:30:03
+No need to restart backup interface in SBP at 21-08-2018 19:30:27
+No need to reboot AP in KZN at 21-08-2018 20:00:03
+No need to restart backup interface in SBP at 21-08-2018 20:00:27
+No need to reboot AP in KZN at 21-08-2018 20:30:03
+No need to reboot AP in KZN at 21-08-2018 21:00:04
+No need to restart backup interface in SBP at 21-08-2018 21:00:28
+No need to reboot AP in KZN at 21-08-2018 21:30:03
+No need to restart backup interface in SBP at 21-08-2018 21:30:28
+No need to reboot AP in KZN at 21-08-2018 22:00:03
+No need to restart backup interface in SBP at 21-08-2018 22:00:27
+No need to reboot AP in KZN at 21-08-2018 22:30:03
+No need to reboot AP in KZN at 21-08-2018 23:00:03
+No need to restart backup interface in SBP at 21-08-2018 23:00:27
+No need to reboot AP in KZN at 21-08-2018 23:30:03
+No need to restart backup interface in SBP at 21-08-2018 23:30:27
+No need to reboot AP in KZN at 22-08-2018 00:00:04
+No need to restart backup interface in SBP at 22-08-2018 00:00:28
+No need to reboot AP in KZN at 22-08-2018 00:30:03
+No need to restart backup interface in SBP at 22-08-2018 00:30:27
+No need to reboot AP in KZN at 22-08-2018 01:00:03
+No need to reboot AP in KZN at 22-08-2018 01:30:03
+!!!Backup interface in SBP has been restarted at 22-08-2018 01:30:27
+No need to reboot AP in KZN at 22-08-2018 02:00:03
+No need to restart backup interface in SBP at 22-08-2018 02:00:27
+No need to reboot AP in KZN at 22-08-2018 02:30:03
+No need to restart backup interface in SBP at 22-08-2018 02:30:27
+No need to reboot AP in KZN at 22-08-2018 03:00:03
+No need to restart backup interface in SBP at 22-08-2018 03:00:28
+No need to reboot AP in KZN at 22-08-2018 03:30:03
+No need to restart backup interface in SBP at 22-08-2018 03:30:27
+No need to reboot AP in KZN at 22-08-2018 04:00:03
+No need to restart backup interface in SBP at 22-08-2018 04:00:28
+No need to reboot AP in KZN at 22-08-2018 04:30:03
+No need to restart backup interface in SBP at 22-08-2018 04:30:27
+No need to reboot AP in KZN at 22-08-2018 05:00:03
+No need to restart backup interface in SBP at 22-08-2018 05:00:27
+No need to reboot AP in KZN at 22-08-2018 05:30:03
+No need to restart backup interface in SBP at 22-08-2018 05:30:27
+No need to reboot AP in KZN at 22-08-2018 06:00:03
+No need to restart backup interface in SBP at 22-08-2018 06:00:27
+No need to reboot AP in KZN at 22-08-2018 06:30:03
+No need to restart backup interface in SBP at 22-08-2018 06:30:27
+No need to reboot AP in KZN at 22-08-2018 07:00:03
+!!!Backup interface in SBP has been restarted at 22-08-2018 07:00:28
+No need to reboot AP in KZN at 22-08-2018 07:30:03
+No need to restart backup interface in SBP at 22-08-2018 07:30:27
+No need to reboot AP in KZN at 22-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 22-08-2018 08:00:08
+No need to restart backup interface in SBP at 22-08-2018 08:00:28
+No need to reboot AP in KZN at 22-08-2018 08:30:03
+No need to restart backup interface in SBP at 22-08-2018 08:30:27
+No need to reboot AP in KZN at 22-08-2018 09:00:04
+No need to restart backup interface in SBP at 22-08-2018 09:00:28
+No need to reboot AP in KZN at 22-08-2018 09:30:04
+No need to restart backup interface in SBP at 22-08-2018 09:30:28
+No need to reboot AP in KZN at 22-08-2018 10:00:03
+No need to reboot AP on 4th floor at 22-08-2018 10:00:08
+No need to restart backup interface in SBP at 22-08-2018 10:00:27
+No need to reboot AP in KZN at 22-08-2018 10:30:04
+No need to restart backup interface in SBP at 22-08-2018 10:30:28
+No need to reboot AP in KZN at 22-08-2018 11:00:03
+No need to reboot AP in KZN at 22-08-2018 11:30:03
+No need to restart backup interface in SBP at 22-08-2018 11:30:27
+No need to reboot AP in KZN at 22-08-2018 12:00:03
+No need to reboot AP on 4th floor at 22-08-2018 12:00:08
+No need to restart backup interface in SBP at 22-08-2018 12:00:28
+No need to reboot AP in KZN at 22-08-2018 12:30:03
+!!!Backup interface in SBP has been restarted at 22-08-2018 12:30:27
+No need to reboot AP in KZN at 22-08-2018 13:00:03
+No need to restart backup interface in SBP at 22-08-2018 13:00:27
+No need to reboot AP in KZN at 22-08-2018 13:30:03
+No need to restart backup interface in SBP at 22-08-2018 13:30:28
+No need to reboot AP in KZN at 22-08-2018 14:00:03
+No need to reboot AP on 4th floor at 22-08-2018 14:00:08
+!!!Backup interface in SBP has been restarted at 22-08-2018 14:00:27
+No need to reboot AP in KZN at 22-08-2018 14:30:04
+!!!Backup interface in SBP has been restarted at 22-08-2018 14:30:28
+No need to reboot AP in KZN at 22-08-2018 15:00:03
+No need to restart backup interface in SBP at 22-08-2018 15:00:27
+No need to reboot AP in KZN at 22-08-2018 15:30:04
+No need to restart backup interface in SBP at 22-08-2018 15:30:28
+No need to reboot AP in KZN at 22-08-2018 16:00:04
+No need to reboot AP on 4th floor at 22-08-2018 16:00:09
+No need to restart backup interface in SBP at 22-08-2018 16:00:28
+No need to reboot AP in KZN at 22-08-2018 16:30:03
+No need to restart backup interface in SBP at 22-08-2018 16:30:27
+No need to reboot AP in KZN at 22-08-2018 17:00:03
+No need to restart backup interface in SBP at 22-08-2018 17:00:27
+No need to reboot AP in KZN at 22-08-2018 17:30:03
+No need to restart backup interface in SBP at 22-08-2018 17:30:28
+No need to reboot AP in KZN at 22-08-2018 18:00:03
+No need to reboot AP on 4th floor at 22-08-2018 18:00:08
+No need to restart backup interface in SBP at 22-08-2018 18:00:27
+No need to reboot AP in KZN at 22-08-2018 18:30:04
+No need to restart backup interface in SBP at 22-08-2018 18:30:28
+No need to reboot AP in KZN at 22-08-2018 19:00:03
+No need to restart backup interface in SBP at 22-08-2018 19:00:27
+No need to reboot AP in KZN at 22-08-2018 19:30:03
+No need to reboot AP in KZN at 22-08-2018 20:00:03
+No need to restart backup interface in SBP at 22-08-2018 20:00:28
+No need to reboot AP in KZN at 22-08-2018 20:30:04
+No need to restart backup interface in SBP at 22-08-2018 20:30:29
+No need to reboot AP in KZN at 22-08-2018 21:00:03
+No need to restart backup interface in SBP at 22-08-2018 21:00:27
+No need to reboot AP in KZN at 22-08-2018 21:30:03
+No need to restart backup interface in SBP at 22-08-2018 21:30:27
+No need to reboot AP in KZN at 22-08-2018 22:00:04
+No need to restart backup interface in SBP at 22-08-2018 22:00:28
+No need to reboot AP in KZN at 22-08-2018 22:30:04
+No need to restart backup interface in SBP at 22-08-2018 22:30:28
+No need to reboot AP in KZN at 22-08-2018 23:00:03
+No need to restart backup interface in SBP at 22-08-2018 23:00:27
+No need to reboot AP in KZN at 22-08-2018 23:30:03
+No need to restart backup interface in SBP at 22-08-2018 23:30:28
+No need to reboot AP in KZN at 23-08-2018 00:00:03
+No need to restart backup interface in SBP at 23-08-2018 00:00:28
+No need to reboot AP in KZN at 23-08-2018 00:30:03
+No need to restart backup interface in SBP at 23-08-2018 00:30:27
+No need to reboot AP in KZN at 23-08-2018 01:00:03
+No need to reboot AP in KZN at 23-08-2018 01:30:03
+No need to restart backup interface in SBP at 23-08-2018 01:30:27
+No need to reboot AP in KZN at 23-08-2018 02:00:03
+No need to restart backup interface in SBP at 23-08-2018 02:00:27
+No need to reboot AP in KZN at 23-08-2018 02:30:03
+No need to restart backup interface in SBP at 23-08-2018 02:30:27
+No need to reboot AP in KZN at 23-08-2018 03:00:03
+No need to restart backup interface in SBP at 23-08-2018 03:00:28
+No need to reboot AP in KZN at 23-08-2018 03:30:03
+No need to restart backup interface in SBP at 23-08-2018 03:30:27
+No need to reboot AP in KZN at 23-08-2018 04:00:03
+No need to reboot AP in KZN at 23-08-2018 04:30:03
+No need to restart backup interface in SBP at 23-08-2018 04:30:27
+No need to reboot AP in KZN at 23-08-2018 05:00:04
+No need to restart backup interface in SBP at 23-08-2018 05:00:28
+No need to reboot AP in KZN at 23-08-2018 05:30:03
+No need to reboot AP in KZN at 23-08-2018 06:00:03
+No need to reboot AP in KZN at 23-08-2018 06:30:04
+No need to restart backup interface in SBP at 23-08-2018 06:30:27
+No need to reboot AP in KZN at 23-08-2018 07:00:03
+No need to restart backup interface in SBP at 23-08-2018 07:00:27
+No need to reboot AP in KZN at 23-08-2018 07:30:03
+No need to restart backup interface in SBP at 23-08-2018 07:30:27
+No need to reboot AP in KZN at 23-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 23-08-2018 08:00:08
+No need to restart backup interface in SBP at 23-08-2018 08:00:27
+No need to reboot AP in KZN at 23-08-2018 08:30:03
+!!!Backup interface in SBP has been restarted at 23-08-2018 08:30:28
+No need to reboot AP in KZN at 23-08-2018 09:00:03
+No need to restart backup interface in SBP at 23-08-2018 09:00:28
+No need to reboot AP in KZN at 23-08-2018 09:30:03
+No need to restart backup interface in SBP at 23-08-2018 09:30:27
+No need to reboot AP in KZN at 23-08-2018 10:00:04
+No need to reboot AP on 4th floor at 23-08-2018 10:00:08
+No need to restart backup interface in SBP at 23-08-2018 10:00:28
+No need to reboot AP in KZN at 23-08-2018 10:30:03
+No need to restart backup interface in SBP at 23-08-2018 10:30:27
+No need to reboot AP in KZN at 23-08-2018 11:00:04
+No need to restart backup interface in SBP at 23-08-2018 11:00:28
+No need to reboot AP in KZN at 23-08-2018 11:30:03
+No need to restart backup interface in SBP at 23-08-2018 11:30:28
+No need to reboot AP in KZN at 23-08-2018 12:00:03
+No need to reboot AP on 4th floor at 23-08-2018 12:00:08
+No need to restart backup interface in SBP at 23-08-2018 12:00:27
+No need to reboot AP in KZN at 23-08-2018 12:30:03
+No need to restart backup interface in SBP at 23-08-2018 12:30:27
+No need to reboot AP in KZN at 23-08-2018 13:00:05
+No need to reboot AP in KZN at 23-08-2018 13:30:03
+No need to restart backup interface in SBP at 23-08-2018 13:30:27
+No need to reboot AP in KZN at 23-08-2018 14:00:04
+No need to reboot AP on 4th floor at 23-08-2018 14:00:09
+No need to restart backup interface in SBP at 23-08-2018 14:00:28
+No need to reboot AP in KZN at 23-08-2018 14:30:03
+No need to reboot AP in KZN at 23-08-2018 15:00:03
+No need to restart backup interface in SBP at 23-08-2018 15:00:27
+No need to reboot AP in KZN at 23-08-2018 15:30:04
+No need to restart backup interface in SBP at 23-08-2018 15:30:28
+No need to reboot AP in KZN at 23-08-2018 16:00:03
+No need to reboot AP on 4th floor at 23-08-2018 16:00:08
+No need to restart backup interface in SBP at 23-08-2018 16:00:27
+No need to reboot AP in KZN at 23-08-2018 16:30:03
+No need to restart backup interface in SBP at 23-08-2018 16:30:27
+No need to reboot AP in KZN at 23-08-2018 17:00:03
+No need to restart backup interface in SBP at 23-08-2018 17:00:28
+No need to reboot AP in KZN at 23-08-2018 17:30:04
+No need to restart backup interface in SBP at 23-08-2018 17:30:28
+No need to reboot AP in KZN at 23-08-2018 18:00:03
+No need to reboot AP on 4th floor at 23-08-2018 18:00:08
+No need to reboot AP in KZN at 23-08-2018 18:30:03
+!!!Backup interface in SBP has been restarted at 23-08-2018 18:30:27
+No need to reboot AP in KZN at 23-08-2018 19:00:03
+No need to restart backup interface in SBP at 23-08-2018 19:00:27
+No need to reboot AP in KZN at 23-08-2018 19:30:03
+No need to restart backup interface in SBP at 23-08-2018 19:30:28
+No need to reboot AP in KZN at 23-08-2018 20:00:03
+No need to restart backup interface in SBP at 23-08-2018 20:00:27
+No need to reboot AP in KZN at 23-08-2018 20:30:03
+No need to restart backup interface in SBP at 23-08-2018 20:30:27
+No need to reboot AP in KZN at 23-08-2018 21:00:03
+No need to restart backup interface in SBP at 23-08-2018 21:00:27
+No need to reboot AP in KZN at 23-08-2018 21:30:03
+No need to reboot AP in KZN at 23-08-2018 22:00:03
+No need to reboot AP in KZN at 23-08-2018 22:30:03
+No need to reboot AP in KZN at 23-08-2018 23:00:03
+No need to restart backup interface in SBP at 23-08-2018 23:00:28
+No need to reboot AP in KZN at 23-08-2018 23:30:03
+No need to restart backup interface in SBP at 23-08-2018 23:30:27
+No need to reboot AP in KZN at 24-08-2018 00:00:03
+No need to restart backup interface in SBP at 24-08-2018 00:00:27
+No need to reboot AP in KZN at 24-08-2018 00:30:03
+No need to restart backup interface in SBP at 24-08-2018 00:30:27
+No need to reboot AP in KZN at 24-08-2018 01:00:03
+!!!Backup interface in SBP has been restarted at 24-08-2018 01:00:27
+No need to reboot AP in KZN at 24-08-2018 01:30:04
+No need to restart backup interface in SBP at 24-08-2018 01:30:28
+No need to reboot AP in KZN at 24-08-2018 02:00:03
+No need to reboot AP in KZN at 24-08-2018 02:30:03
+No need to restart backup interface in SBP at 24-08-2018 02:30:28
+No need to reboot AP in KZN at 24-08-2018 03:00:03
+No need to restart backup interface in SBP at 24-08-2018 03:00:27
+No need to reboot AP in KZN at 24-08-2018 03:30:03
+No need to restart backup interface in SBP at 24-08-2018 03:30:28
+No need to reboot AP in KZN at 24-08-2018 04:00:03
+No need to restart backup interface in SBP at 24-08-2018 04:00:27
+No need to reboot AP in KZN at 24-08-2018 04:30:03
+No need to restart backup interface in SBP at 24-08-2018 04:30:27
+No need to reboot AP in KZN at 24-08-2018 05:00:03
+No need to reboot AP in KZN at 24-08-2018 05:30:03
+No need to restart backup interface in SBP at 24-08-2018 05:30:27
+No need to reboot AP in KZN at 24-08-2018 06:00:03
+No need to restart backup interface in SBP at 24-08-2018 06:00:27
+No need to reboot AP in KZN at 24-08-2018 06:30:03
+No need to restart backup interface in SBP at 24-08-2018 06:30:27
+No need to reboot AP in KZN at 24-08-2018 07:00:03
+No need to restart backup interface in SBP at 24-08-2018 07:00:27
+No need to reboot AP in KZN at 24-08-2018 07:30:03
+No need to reboot AP in KZN at 24-08-2018 08:00:04
+!!!AP on 4th floor has been rebooted at 24-08-2018 08:00:08
+No need to restart backup interface in SBP at 24-08-2018 08:00:28
+No need to reboot AP in KZN at 24-08-2018 08:30:03
+No need to restart backup interface in SBP at 24-08-2018 08:30:27
+No need to reboot AP in KZN at 24-08-2018 09:00:03
+No need to restart backup interface in SBP at 24-08-2018 09:00:28
+No need to reboot AP in KZN at 24-08-2018 09:30:03
+No need to reboot AP in KZN at 24-08-2018 10:00:03
+No need to reboot AP on 4th floor at 24-08-2018 10:00:08
+No need to reboot AP in KZN at 24-08-2018 10:30:04
+No need to restart backup interface in SBP at 24-08-2018 10:30:28
+No need to reboot AP in KZN at 24-08-2018 11:00:03
+No need to restart backup interface in SBP at 24-08-2018 11:00:27
+No need to reboot AP in KZN at 24-08-2018 11:30:03
+No need to restart backup interface in SBP at 24-08-2018 11:30:27
+No need to reboot AP in KZN at 24-08-2018 12:00:04
+No need to reboot AP on 4th floor at 24-08-2018 12:00:08
+No need to restart backup interface in SBP at 24-08-2018 12:00:28
+No need to reboot AP in KZN at 24-08-2018 12:30:04
+No need to restart backup interface in SBP at 24-08-2018 12:30:28
+No need to reboot AP in KZN at 24-08-2018 13:00:03
+No need to restart backup interface in SBP at 24-08-2018 13:00:28
+No need to reboot AP in KZN at 24-08-2018 13:30:04
+No need to restart backup interface in SBP at 24-08-2018 13:30:28
+No need to reboot AP in KZN at 24-08-2018 14:00:03
+No need to reboot AP on 4th floor at 24-08-2018 14:00:08
+No need to restart backup interface in SBP at 24-08-2018 14:00:27
+No need to reboot AP in KZN at 24-08-2018 14:30:03
+No need to restart backup interface in SBP at 24-08-2018 14:30:28
+No need to reboot AP in KZN at 24-08-2018 15:00:03
+No need to reboot AP in KZN at 24-08-2018 15:30:03
+No need to restart backup interface in SBP at 24-08-2018 15:30:28
+No need to reboot AP in KZN at 24-08-2018 16:00:03
+No need to reboot AP on 4th floor at 24-08-2018 16:00:08
+No need to restart backup interface in SBP at 24-08-2018 16:00:27
+No need to reboot AP in KZN at 24-08-2018 16:30:03
+No need to restart backup interface in SBP at 24-08-2018 16:30:27
+No need to reboot AP in KZN at 24-08-2018 17:00:03
+No need to restart backup interface in SBP at 24-08-2018 17:00:28
+No need to reboot AP in KZN at 24-08-2018 17:30:03
+No need to restart backup interface in SBP at 24-08-2018 17:30:27
+No need to reboot AP in KZN at 24-08-2018 18:00:04
+No need to reboot AP on 4th floor at 24-08-2018 18:00:09
+No need to restart backup interface in SBP at 24-08-2018 18:00:28
+No need to reboot AP in KZN at 24-08-2018 18:30:04
+!!!Backup interface in SBP has been restarted at 24-08-2018 18:30:28
+No need to reboot AP in KZN at 24-08-2018 19:00:04
+No need to restart backup interface in SBP at 24-08-2018 19:00:28
+No need to reboot AP in KZN at 24-08-2018 19:30:03
+!!!Backup interface in SBP has been restarted at 24-08-2018 19:30:27
+No need to reboot AP in KZN at 24-08-2018 20:00:03
+No need to reboot AP in KZN at 24-08-2018 20:30:03
+No need to restart backup interface in SBP at 24-08-2018 20:30:28
+No need to reboot AP in KZN at 24-08-2018 21:00:03
+No need to restart backup interface in SBP at 24-08-2018 21:00:27
+No need to reboot AP in KZN at 24-08-2018 21:30:04
+No need to restart backup interface in SBP at 24-08-2018 21:30:28
+No need to reboot AP in KZN at 24-08-2018 22:00:03
+No need to restart backup interface in SBP at 24-08-2018 22:00:27
+No need to reboot AP in KZN at 24-08-2018 22:30:03
+!!!Backup interface in SBP has been restarted at 24-08-2018 22:30:28
+No need to reboot AP in KZN at 24-08-2018 23:00:03
+No need to reboot AP in KZN at 24-08-2018 23:30:04
+No need to reboot AP in KZN at 25-08-2018 00:00:03
+No need to restart backup interface in SBP at 25-08-2018 00:00:27
+No need to reboot AP in KZN at 25-08-2018 00:30:04
+No need to restart backup interface in SBP at 25-08-2018 00:30:28
+No need to reboot AP in KZN at 25-08-2018 01:00:03
+No need to restart backup interface in SBP at 25-08-2018 01:00:27
+No need to reboot AP in KZN at 25-08-2018 01:30:03
+No need to restart backup interface in SBP at 25-08-2018 01:30:27
+No need to reboot AP in KZN at 25-08-2018 02:00:03
+No need to restart backup interface in SBP at 25-08-2018 02:00:27
+No need to reboot AP in KZN at 25-08-2018 02:30:03
+No need to restart backup interface in SBP at 25-08-2018 02:30:27
+No need to reboot AP in KZN at 25-08-2018 03:00:03
+No need to restart backup interface in SBP at 25-08-2018 03:00:27
+No need to reboot AP in KZN at 25-08-2018 03:30:03
+No need to reboot AP in KZN at 25-08-2018 04:00:03
+!!!Backup interface in SBP has been restarted at 25-08-2018 04:00:28
+No need to reboot AP in KZN at 25-08-2018 04:30:03
+No need to restart backup interface in SBP at 25-08-2018 04:30:28
+No need to reboot AP in KZN at 25-08-2018 05:00:03
+No need to restart backup interface in SBP at 25-08-2018 05:00:27
+No need to reboot AP in KZN at 25-08-2018 05:30:03
+No need to restart backup interface in SBP at 25-08-2018 05:30:28
+No need to reboot AP in KZN at 25-08-2018 06:00:03
+No need to restart backup interface in SBP at 25-08-2018 06:00:27
+No need to reboot AP in KZN at 25-08-2018 06:30:03
+No need to restart backup interface in SBP at 25-08-2018 06:30:27
+No need to reboot AP in KZN at 25-08-2018 07:00:03
+No need to restart backup interface in SBP at 25-08-2018 07:00:28
+No need to reboot AP in KZN at 25-08-2018 07:30:03
+No need to restart backup interface in SBP at 25-08-2018 07:30:28
+No need to reboot AP in KZN at 25-08-2018 08:00:03
+No need to restart backup interface in SBP at 25-08-2018 08:00:27
+No need to reboot AP in KZN at 25-08-2018 08:30:03
+No need to restart backup interface in SBP at 25-08-2018 08:30:27
+No need to reboot AP in KZN at 25-08-2018 09:00:03
+No need to restart backup interface in SBP at 25-08-2018 09:00:27
+No need to reboot AP in KZN at 25-08-2018 09:30:03
+No need to restart backup interface in SBP at 25-08-2018 09:30:27
+No need to reboot AP in KZN at 25-08-2018 10:00:03
+!!!Backup interface in SBP has been restarted at 25-08-2018 10:00:27
+No need to reboot AP in KZN at 25-08-2018 10:30:03
+No need to restart backup interface in SBP at 25-08-2018 10:30:28
+No need to reboot AP in KZN at 25-08-2018 11:00:03
+No need to restart backup interface in SBP at 25-08-2018 11:00:27
+No need to reboot AP in KZN at 25-08-2018 11:30:04
+No need to restart backup interface in SBP at 25-08-2018 11:30:28
+No need to reboot AP in KZN at 25-08-2018 12:00:03
+No need to reboot AP in KZN at 25-08-2018 12:30:03
+No need to reboot AP in KZN at 25-08-2018 13:00:03
+No need to restart backup interface in SBP at 25-08-2018 13:00:27
+No need to reboot AP in KZN at 25-08-2018 13:30:03
+No need to restart backup interface in SBP at 25-08-2018 13:30:27
+No need to reboot AP in KZN at 25-08-2018 14:00:04
+No need to restart backup interface in SBP at 25-08-2018 14:00:28
+No need to reboot AP in KZN at 25-08-2018 14:30:03
+No need to restart backup interface in SBP at 25-08-2018 14:30:27
+No need to reboot AP in KZN at 25-08-2018 15:00:03
+No need to reboot AP in KZN at 25-08-2018 15:30:03
+No need to reboot AP in KZN at 25-08-2018 16:00:03
+No need to restart backup interface in SBP at 25-08-2018 16:00:27
+No need to reboot AP in KZN at 25-08-2018 16:30:03
+No need to restart backup interface in SBP at 25-08-2018 16:30:27
+No need to reboot AP in KZN at 25-08-2018 17:00:04
+No need to restart backup interface in SBP at 25-08-2018 17:00:28
+No need to reboot AP in KZN at 25-08-2018 17:30:03
+No need to restart backup interface in SBP at 25-08-2018 17:30:27
+No need to reboot AP in KZN at 25-08-2018 18:00:03
+No need to restart backup interface in SBP at 25-08-2018 18:00:27
+No need to reboot AP in KZN at 25-08-2018 18:30:03
+No need to restart backup interface in SBP at 25-08-2018 18:30:27
+No need to reboot AP in KZN at 25-08-2018 19:00:03
+No need to reboot AP in KZN at 25-08-2018 19:30:03
+!!!Backup interface in SBP has been restarted at 25-08-2018 19:30:27
+No need to reboot AP in KZN at 25-08-2018 20:00:03
+No need to restart backup interface in SBP at 25-08-2018 20:00:27
+No need to reboot AP in KZN at 25-08-2018 20:30:03
+No need to reboot AP in KZN at 25-08-2018 21:00:03
+No need to restart backup interface in SBP at 25-08-2018 21:00:27
+No need to reboot AP in KZN at 25-08-2018 21:30:03
+No need to restart backup interface in SBP at 25-08-2018 21:30:27
+No need to reboot AP in KZN at 25-08-2018 22:00:04
+No need to restart backup interface in SBP at 25-08-2018 22:00:28
+No need to reboot AP in KZN at 25-08-2018 22:30:03
+No need to restart backup interface in SBP at 25-08-2018 22:30:28
+No need to reboot AP in KZN at 25-08-2018 23:00:03
+!!!Backup interface in SBP has been restarted at 25-08-2018 23:00:27
+No need to reboot AP in KZN at 25-08-2018 23:30:04
+!!!Backup interface in SBP has been restarted at 25-08-2018 23:30:28
+No need to reboot AP in KZN at 26-08-2018 00:00:03
+No need to restart backup interface in SBP at 26-08-2018 00:00:28
+No need to reboot AP in KZN at 26-08-2018 00:30:03
+No need to reboot AP in KZN at 26-08-2018 01:00:03
+No need to restart backup interface in SBP at 26-08-2018 01:00:27
+No need to reboot AP in KZN at 26-08-2018 01:30:03
+No need to restart backup interface in SBP at 26-08-2018 01:30:27
+No need to reboot AP in KZN at 26-08-2018 02:00:03
+No need to restart backup interface in SBP at 26-08-2018 02:00:27
+No need to reboot AP in KZN at 26-08-2018 02:30:04
+No need to restart backup interface in SBP at 26-08-2018 02:30:28
+No need to reboot AP in KZN at 26-08-2018 03:00:03
+No need to reboot AP in KZN at 26-08-2018 03:30:03
+No need to reboot AP in KZN at 26-08-2018 04:00:03
+No need to restart backup interface in SBP at 26-08-2018 04:00:28
+No need to reboot AP in KZN at 26-08-2018 04:30:03
+No need to restart backup interface in SBP at 26-08-2018 04:30:27
+No need to reboot AP in KZN at 26-08-2018 05:00:03
+No need to restart backup interface in SBP at 26-08-2018 05:00:27
+No need to reboot AP in KZN at 26-08-2018 05:30:03
+!!!Backup interface in SBP has been restarted at 26-08-2018 05:30:27
+No need to reboot AP in KZN at 26-08-2018 06:00:04
+No need to restart backup interface in SBP at 26-08-2018 06:00:28
+No need to reboot AP in KZN at 26-08-2018 06:30:03
+No need to restart backup interface in SBP at 26-08-2018 06:30:27
+No need to reboot AP in KZN at 26-08-2018 07:00:03
+!!!Backup interface in SBP has been restarted at 26-08-2018 07:00:27
+No need to reboot AP in KZN at 26-08-2018 07:30:04
+No need to reboot AP in KZN at 26-08-2018 08:00:03
+No need to restart backup interface in SBP at 26-08-2018 08:00:27
+No need to reboot AP in KZN at 26-08-2018 08:30:03
+No need to restart backup interface in SBP at 26-08-2018 08:30:27
+No need to reboot AP in KZN at 26-08-2018 09:00:03
+No need to reboot AP in KZN at 26-08-2018 09:30:03
+No need to restart backup interface in SBP at 26-08-2018 09:30:28
+No need to reboot AP in KZN at 26-08-2018 10:00:03
+No need to reboot AP in KZN at 26-08-2018 10:30:03
+No need to restart backup interface in SBP at 26-08-2018 10:30:27
+No need to reboot AP in KZN at 26-08-2018 11:00:03
+No need to restart backup interface in SBP at 26-08-2018 11:00:28
+No need to reboot AP in KZN at 26-08-2018 11:30:03
+No need to restart backup interface in SBP at 26-08-2018 11:30:27
+No need to reboot AP in KZN at 26-08-2018 12:00:04
+No need to restart backup interface in SBP at 26-08-2018 12:00:28
+No need to reboot AP in KZN at 26-08-2018 12:30:03
+No need to reboot AP in KZN at 26-08-2018 13:00:03
+No need to restart backup interface in SBP at 26-08-2018 13:00:28
+No need to reboot AP in KZN at 26-08-2018 13:30:03
+No need to restart backup interface in SBP at 26-08-2018 13:30:27
+No need to reboot AP in KZN at 26-08-2018 14:00:04
+No need to restart backup interface in SBP at 26-08-2018 14:00:28
+No need to reboot AP in KZN at 26-08-2018 14:30:03
+No need to restart backup interface in SBP at 26-08-2018 14:30:27
+No need to reboot AP in KZN at 26-08-2018 15:00:03
+No need to restart backup interface in SBP at 26-08-2018 15:00:27
+No need to reboot AP in KZN at 26-08-2018 15:30:03
+No need to restart backup interface in SBP at 26-08-2018 15:30:27
+No need to reboot AP in KZN at 26-08-2018 16:00:03
+!!!Backup interface in SBP has been restarted at 26-08-2018 16:00:27
+No need to reboot AP in KZN at 26-08-2018 16:30:03
+!!!Backup interface in SBP has been restarted at 26-08-2018 16:30:27
+No need to reboot AP in KZN at 26-08-2018 17:00:03
+!!!Backup interface in SBP has been restarted at 26-08-2018 17:00:27
+No need to reboot AP in KZN at 26-08-2018 17:30:03
+No need to restart backup interface in SBP at 26-08-2018 17:30:27
+No need to reboot AP in KZN at 26-08-2018 18:00:03
+!!!Backup interface in SBP has been restarted at 26-08-2018 18:00:27
+No need to reboot AP in KZN at 26-08-2018 18:30:03
+No need to restart backup interface in SBP at 26-08-2018 18:30:27
+No need to reboot AP in KZN at 26-08-2018 19:00:03
+No need to restart backup interface in SBP at 26-08-2018 19:00:28
+No need to reboot AP in KZN at 26-08-2018 19:30:03
+!!!Backup interface in SBP has been restarted at 26-08-2018 19:30:27
+No need to reboot AP in KZN at 26-08-2018 20:00:03
+!!!Backup interface in SBP has been restarted at 26-08-2018 20:00:27
+No need to reboot AP in KZN at 26-08-2018 20:30:03
+No need to reboot AP in KZN at 26-08-2018 21:00:03
+No need to restart backup interface in SBP at 26-08-2018 21:00:27
+No need to reboot AP in KZN at 26-08-2018 21:30:03
+No need to restart backup interface in SBP at 26-08-2018 21:30:27
+No need to reboot AP in KZN at 26-08-2018 22:00:04
+No need to restart backup interface in SBP at 26-08-2018 22:00:28
+No need to reboot AP in KZN at 26-08-2018 22:30:04
+No need to reboot AP in KZN at 26-08-2018 23:00:03
+No need to restart backup interface in SBP at 26-08-2018 23:00:27
+No need to reboot AP in KZN at 26-08-2018 23:30:03
+No need to restart backup interface in SBP at 26-08-2018 23:30:27
+No need to reboot AP in KZN at 27-08-2018 00:00:04
+No need to restart backup interface in SBP at 27-08-2018 00:00:28
+No need to reboot AP in KZN at 27-08-2018 00:30:03
+No need to reboot AP in KZN at 27-08-2018 01:00:03
+No need to restart backup interface in SBP at 27-08-2018 01:00:27
+No need to reboot AP in KZN at 27-08-2018 01:30:03
+No need to restart backup interface in SBP at 27-08-2018 01:30:27
+No need to reboot AP in KZN at 27-08-2018 02:00:03
+No need to restart backup interface in SBP at 27-08-2018 02:00:27
+No need to reboot AP in KZN at 27-08-2018 02:30:03
+No need to restart backup interface in SBP at 27-08-2018 02:30:28
+No need to reboot AP in KZN at 27-08-2018 03:00:03
+!!!Backup interface in SBP has been restarted at 27-08-2018 03:00:27
+No need to reboot AP in KZN at 27-08-2018 03:30:04
+No need to restart backup interface in SBP at 27-08-2018 03:30:28
+No need to reboot AP in KZN at 27-08-2018 04:00:03
+!!!Backup interface in SBP has been restarted at 27-08-2018 04:00:27
+No need to reboot AP in KZN at 27-08-2018 04:30:03
+No need to restart backup interface in SBP at 27-08-2018 04:30:27
+No need to reboot AP in KZN at 27-08-2018 05:00:03
+No need to reboot AP in KZN at 27-08-2018 05:30:03
+No need to restart backup interface in SBP at 27-08-2018 05:30:27
+No need to reboot AP in KZN at 27-08-2018 06:00:04
+No need to restart backup interface in SBP at 27-08-2018 06:00:28
+No need to reboot AP in KZN at 27-08-2018 06:30:03
+No need to restart backup interface in SBP at 27-08-2018 06:30:27
+No need to reboot AP in KZN at 27-08-2018 07:00:03
+!!!Backup interface in SBP has been restarted at 27-08-2018 07:00:27
+No need to reboot AP in KZN at 27-08-2018 07:30:03
+No need to restart backup interface in SBP at 27-08-2018 07:30:27
+No need to reboot AP in KZN at 27-08-2018 08:00:04
+!!!AP on 4th floor has been rebooted at 27-08-2018 08:00:09
+No need to restart backup interface in SBP at 27-08-2018 08:00:28
+No need to reboot AP in KZN at 27-08-2018 08:30:03
+No need to restart backup interface in SBP at 27-08-2018 08:30:27
+No need to reboot AP in KZN at 27-08-2018 09:00:03
+No need to reboot AP in KZN at 27-08-2018 09:30:03
+No need to restart backup interface in SBP at 27-08-2018 09:30:27
+No need to reboot AP in KZN at 27-08-2018 10:00:03
+No need to reboot AP on 4th floor at 27-08-2018 10:00:08
+No need to reboot AP in KZN at 27-08-2018 10:30:03
+No need to restart backup interface in SBP at 27-08-2018 10:30:27
+No need to reboot AP in KZN at 27-08-2018 11:00:03
+No need to restart backup interface in SBP at 27-08-2018 11:00:28
+No need to reboot AP in KZN at 27-08-2018 11:30:04
+No need to restart backup interface in SBP at 27-08-2018 11:30:28
+No need to reboot AP in KZN at 27-08-2018 12:00:04
+No need to reboot AP on 4th floor at 27-08-2018 12:00:09
+!!!Backup interface in SBP has been restarted at 27-08-2018 12:00:28
+No need to reboot AP in KZN at 27-08-2018 12:30:03
+!!!Backup interface in SBP has been restarted at 27-08-2018 12:30:28
+No need to reboot AP in KZN at 27-08-2018 13:00:03
+No need to reboot AP in KZN at 27-08-2018 13:30:04
+No need to restart backup interface in SBP at 27-08-2018 13:30:28
+No need to reboot AP in KZN at 27-08-2018 14:00:03
+No need to reboot AP on 4th floor at 27-08-2018 14:00:08
+No need to restart backup interface in SBP at 27-08-2018 14:00:27
+No need to reboot AP in KZN at 27-08-2018 14:30:04
+No need to restart backup interface in SBP at 27-08-2018 14:30:28
+No need to reboot AP in KZN at 27-08-2018 15:00:03
+No need to reboot AP in KZN at 27-08-2018 15:30:03
+No need to restart backup interface in SBP at 27-08-2018 15:30:28
+No need to reboot AP in KZN at 27-08-2018 16:00:03
+No need to reboot AP on 4th floor at 27-08-2018 16:00:08
+No need to restart backup interface in SBP at 27-08-2018 16:00:27
+No need to reboot AP in KZN at 27-08-2018 16:30:03
+No need to restart backup interface in SBP at 27-08-2018 16:30:27
+No need to reboot AP in KZN at 27-08-2018 17:00:03
+No need to restart backup interface in SBP at 27-08-2018 17:00:28
+No need to reboot AP in KZN at 27-08-2018 17:30:03
+No need to restart backup interface in SBP at 27-08-2018 17:30:28
+No need to reboot AP in KZN at 27-08-2018 18:00:03
+No need to reboot AP on 4th floor at 27-08-2018 18:00:08
+No need to restart backup interface in SBP at 27-08-2018 18:00:27
+No need to reboot AP in KZN at 27-08-2018 18:30:04
+No need to restart backup interface in SBP at 27-08-2018 18:30:28
+No need to reboot AP in KZN at 27-08-2018 19:00:03
+No need to reboot AP in KZN at 27-08-2018 19:30:04
+!!!Backup interface in SBP has been restarted at 27-08-2018 19:30:28
+No need to reboot AP in KZN at 27-08-2018 20:00:03
+No need to restart backup interface in SBP at 27-08-2018 20:00:28
+No need to reboot AP in KZN at 27-08-2018 20:30:03
+No need to reboot AP in KZN at 27-08-2018 21:00:03
+No need to restart backup interface in SBP at 27-08-2018 21:00:27
+No need to reboot AP in KZN at 27-08-2018 21:30:03
+No need to reboot AP in KZN at 27-08-2018 22:00:03
+No need to restart backup interface in SBP at 27-08-2018 22:00:27
+No need to reboot AP in KZN at 27-08-2018 22:30:03
+No need to restart backup interface in SBP at 27-08-2018 22:30:28
+No need to reboot AP in KZN at 27-08-2018 23:00:03
+!!!Backup interface in SBP has been restarted at 27-08-2018 23:00:27
+No need to reboot AP in KZN at 27-08-2018 23:30:03
+No need to restart backup interface in SBP at 27-08-2018 23:30:27
+No need to reboot AP in KZN at 28-08-2018 00:00:04
+No need to restart backup interface in SBP at 28-08-2018 00:00:28
+No need to reboot AP in KZN at 28-08-2018 00:30:03
+No need to restart backup interface in SBP at 28-08-2018 00:30:27
+No need to reboot AP in KZN at 28-08-2018 01:00:03
+No need to restart backup interface in SBP at 28-08-2018 01:00:27
+No need to reboot AP in KZN at 28-08-2018 01:30:04
+No need to restart backup interface in SBP at 28-08-2018 01:30:28
+No need to reboot AP in KZN at 28-08-2018 02:00:04
+No need to reboot AP in KZN at 28-08-2018 02:30:04
+No need to restart backup interface in SBP at 28-08-2018 02:30:28
+No need to reboot AP in KZN at 28-08-2018 03:00:03
+No need to restart backup interface in SBP at 28-08-2018 03:00:27
+No need to reboot AP in KZN at 28-08-2018 03:30:03
+No need to restart backup interface in SBP at 28-08-2018 03:30:27
+No need to reboot AP in KZN at 28-08-2018 04:00:03
+No need to restart backup interface in SBP at 28-08-2018 04:00:27
+No need to reboot AP in KZN at 28-08-2018 04:30:03
+No need to reboot AP in KZN at 28-08-2018 05:00:03
+No need to restart backup interface in SBP at 28-08-2018 05:00:28
+No need to reboot AP in KZN at 28-08-2018 05:30:03
+No need to restart backup interface in SBP at 28-08-2018 05:30:27
+No need to reboot AP in KZN at 28-08-2018 06:00:03
+!!!Backup interface in SBP has been restarted at 28-08-2018 06:00:27
+No need to reboot AP in KZN at 28-08-2018 06:30:03
+No need to restart backup interface in SBP at 28-08-2018 06:30:27
+No need to reboot AP in KZN at 28-08-2018 07:00:03
+!!!Backup interface in SBP has been restarted at 28-08-2018 07:00:28
+No need to reboot AP in KZN at 28-08-2018 07:30:03
+No need to restart backup interface in SBP at 28-08-2018 07:30:27
+No need to reboot AP in KZN at 28-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 28-08-2018 08:00:08
+No need to reboot AP in KZN at 28-08-2018 08:30:04
+No need to reboot AP in KZN at 28-08-2018 09:00:03
+No need to reboot AP in KZN at 28-08-2018 09:30:03
+No need to reboot AP in KZN at 28-08-2018 10:00:03
+No need to reboot AP on 4th floor at 28-08-2018 10:00:08
+No need to reboot AP in KZN at 28-08-2018 10:30:03
+No need to reboot AP in KZN at 28-08-2018 11:00:04
+No need to restart backup interface in SBP at 28-08-2018 11:00:28
+No need to reboot AP in KZN at 28-08-2018 11:30:03
+No need to reboot AP in KZN at 28-08-2018 12:00:03
+No need to reboot AP on 4th floor at 28-08-2018 12:00:08
+No need to restart backup interface in SBP at 28-08-2018 12:00:28
+No need to reboot AP in KZN at 28-08-2018 12:30:03
+!!!Backup interface in SBP has been restarted at 28-08-2018 12:30:28
+No need to reboot AP in KZN at 28-08-2018 13:00:03
+No need to restart backup interface in SBP at 28-08-2018 13:00:28
+No need to reboot AP in KZN at 28-08-2018 13:30:03
+!!!Backup interface in SBP has been restarted at 28-08-2018 13:30:27
+No need to reboot AP in KZN at 28-08-2018 14:00:03
+No need to reboot AP on 4th floor at 28-08-2018 14:00:08
+No need to restart backup interface in SBP at 28-08-2018 14:00:27
+No need to reboot AP in KZN at 28-08-2018 14:30:03
+No need to reboot AP in KZN at 28-08-2018 15:00:03
+No need to reboot AP in KZN at 28-08-2018 15:30:03
+!!!Backup interface in SBP has been restarted at 28-08-2018 15:30:27
+No need to reboot AP in KZN at 28-08-2018 16:00:04
+!!!AP on 4th floor has been rebooted at 28-08-2018 16:00:09
+No need to restart backup interface in SBP at 28-08-2018 16:00:28
+No need to reboot AP in KZN at 28-08-2018 16:30:03
+No need to restart backup interface in SBP at 28-08-2018 16:30:28
+No need to reboot AP in KZN at 28-08-2018 17:00:03
+No need to restart backup interface in SBP at 28-08-2018 17:00:27
+No need to reboot AP in KZN at 28-08-2018 17:30:03
+!!!Backup interface in SBP has been restarted at 28-08-2018 17:30:27
+No need to reboot AP in KZN at 28-08-2018 18:00:03
+!!!AP on 4th floor has been rebooted at 28-08-2018 18:00:08
+No need to restart backup interface in SBP at 28-08-2018 18:00:27
+No need to reboot AP in KZN at 28-08-2018 18:30:03
+No need to restart backup interface in SBP at 28-08-2018 18:30:27
+No need to reboot AP in KZN at 28-08-2018 19:00:03
+!!!Backup interface in SBP has been restarted at 28-08-2018 19:00:27
+No need to reboot AP in KZN at 28-08-2018 19:30:03
+No need to restart backup interface in SBP at 28-08-2018 19:30:27
+No need to reboot AP in KZN at 28-08-2018 20:00:04
+No need to restart backup interface in SBP at 28-08-2018 20:00:28
+No need to reboot AP in KZN at 28-08-2018 20:30:04
+No need to restart backup interface in SBP at 28-08-2018 20:30:28
+No need to reboot AP in KZN at 28-08-2018 21:00:03
+!!!Backup interface in SBP has been restarted at 28-08-2018 21:00:27
+No need to reboot AP in KZN at 28-08-2018 21:30:03
+No need to restart backup interface in SBP at 28-08-2018 21:30:27
+No need to reboot AP in KZN at 28-08-2018 22:00:03
+No need to reboot AP in KZN at 28-08-2018 22:30:03
+No need to restart backup interface in SBP at 28-08-2018 22:30:28
+No need to reboot AP in KZN at 28-08-2018 23:00:03
+No need to restart backup interface in SBP at 28-08-2018 23:00:27
+No need to reboot AP in KZN at 28-08-2018 23:30:03
+No need to restart backup interface in SBP at 28-08-2018 23:30:27
+No need to reboot AP in KZN at 29-08-2018 00:00:03
+No need to restart backup interface in SBP at 29-08-2018 00:00:27
+No need to reboot AP in KZN at 29-08-2018 00:30:03
+No need to restart backup interface in SBP at 29-08-2018 00:30:28
+No need to reboot AP in KZN at 29-08-2018 01:00:03
+No need to restart backup interface in SBP at 29-08-2018 01:00:27
+No need to reboot AP in KZN at 29-08-2018 01:30:03
+No need to restart backup interface in SBP at 29-08-2018 01:30:27
+No need to reboot AP in KZN at 29-08-2018 02:00:04
+No need to restart backup interface in SBP at 29-08-2018 02:00:28
+No need to reboot AP in KZN at 29-08-2018 02:30:03
+No need to restart backup interface in SBP at 29-08-2018 02:30:27
+No need to reboot AP in KZN at 29-08-2018 03:00:03
+No need to restart backup interface in SBP at 29-08-2018 03:00:27
+No need to reboot AP in KZN at 29-08-2018 03:30:03
+No need to restart backup interface in SBP at 29-08-2018 03:30:27
+No need to reboot AP in KZN at 29-08-2018 04:00:03
+No need to restart backup interface in SBP at 29-08-2018 04:00:27
+No need to reboot AP in KZN at 29-08-2018 04:30:03
+No need to restart backup interface in SBP at 29-08-2018 04:30:27
+No need to reboot AP in KZN at 29-08-2018 05:00:03
+No need to restart backup interface in SBP at 29-08-2018 05:00:27
+No need to reboot AP in KZN at 29-08-2018 05:30:03
+No need to restart backup interface in SBP at 29-08-2018 05:30:27
+No need to reboot AP in KZN at 29-08-2018 06:00:03
+No need to restart backup interface in SBP at 29-08-2018 06:00:27
+No need to reboot AP in KZN at 29-08-2018 06:30:03
+No need to restart backup interface in SBP at 29-08-2018 06:30:27
+No need to reboot AP in KZN at 29-08-2018 07:00:03
+No need to restart backup interface in SBP at 29-08-2018 07:00:27
+No need to reboot AP in KZN at 29-08-2018 07:30:03
+No need to restart backup interface in SBP at 29-08-2018 07:30:27
+No need to reboot AP in KZN at 29-08-2018 08:00:04
+!!!AP on 4th floor has been rebooted at 29-08-2018 08:00:09
+No need to restart backup interface in SBP at 29-08-2018 08:00:28
+No need to reboot AP in KZN at 29-08-2018 08:30:03
+No need to restart backup interface in SBP at 29-08-2018 08:30:28
+No need to reboot AP in KZN at 29-08-2018 09:00:03
+No need to restart backup interface in SBP at 29-08-2018 09:00:28
+No need to reboot AP in KZN at 29-08-2018 09:30:03
+No need to restart backup interface in SBP at 29-08-2018 09:30:28
+No need to reboot AP in KZN at 29-08-2018 10:00:03
+No need to reboot AP on 4th floor at 29-08-2018 10:00:08
+No need to restart backup interface in SBP at 29-08-2018 10:00:27
+No need to reboot AP in KZN at 29-08-2018 10:30:03
+No need to reboot AP in KZN at 29-08-2018 11:00:03
+No need to restart backup interface in SBP at 29-08-2018 11:00:28
+No need to reboot AP in KZN at 29-08-2018 11:30:03
+No need to restart backup interface in SBP at 29-08-2018 11:30:27
+No need to reboot AP in KZN at 29-08-2018 12:00:03
+No need to reboot AP on 4th floor at 29-08-2018 12:00:08
+No need to reboot AP in KZN at 29-08-2018 12:30:03
+No need to reboot AP in KZN at 29-08-2018 13:00:03
+No need to restart backup interface in SBP at 29-08-2018 13:00:28
+No need to reboot AP in KZN at 29-08-2018 13:30:03
+No need to reboot AP in KZN at 29-08-2018 14:00:03
+!!!AP on 4th floor has been rebooted at 29-08-2018 14:00:08
+No need to reboot AP in KZN at 29-08-2018 14:30:03
+No need to restart backup interface in SBP at 29-08-2018 14:30:27
+No need to reboot AP in KZN at 29-08-2018 15:00:03
+No need to restart backup interface in SBP at 29-08-2018 15:00:27
+No need to reboot AP in KZN at 29-08-2018 15:30:03
+No need to reboot AP in KZN at 29-08-2018 16:00:03
+No need to reboot AP on 4th floor at 29-08-2018 16:00:08
+No need to restart backup interface in SBP at 29-08-2018 16:00:27
+No need to reboot AP in KZN at 29-08-2018 16:30:03
+No need to reboot AP in KZN at 29-08-2018 17:00:03
+No need to restart backup interface in SBP at 29-08-2018 17:00:28
+No need to reboot AP in KZN at 29-08-2018 17:30:03
+No need to restart backup interface in SBP at 29-08-2018 17:30:28
+No need to reboot AP in KZN at 29-08-2018 18:00:03
+No need to reboot AP on 4th floor at 29-08-2018 18:00:08
+No need to restart backup interface in SBP at 29-08-2018 18:00:28
+No need to reboot AP in KZN at 29-08-2018 18:30:03
+No need to restart backup interface in SBP at 29-08-2018 18:30:28
+No need to reboot AP in KZN at 29-08-2018 19:00:03
+No need to restart backup interface in SBP at 29-08-2018 19:00:27
+No need to reboot AP in KZN at 29-08-2018 19:30:03
+No need to reboot AP in KZN at 29-08-2018 20:00:04
+No need to restart backup interface in SBP at 29-08-2018 20:00:28
+No need to reboot AP in KZN at 29-08-2018 20:30:03
+No need to restart backup interface in SBP at 29-08-2018 20:30:27
+No need to reboot AP in KZN at 29-08-2018 21:00:03
+No need to restart backup interface in SBP at 29-08-2018 21:00:28
+No need to reboot AP in KZN at 29-08-2018 21:30:03
+No need to restart backup interface in SBP at 29-08-2018 21:30:28
+No need to reboot AP in KZN at 29-08-2018 22:00:03
+No need to restart backup interface in SBP at 29-08-2018 22:00:27
+No need to reboot AP in KZN at 29-08-2018 22:30:03
+No need to reboot AP in KZN at 29-08-2018 23:00:03
+No need to restart backup interface in SBP at 29-08-2018 23:00:28
+No need to reboot AP in KZN at 29-08-2018 23:30:03
+No need to restart backup interface in SBP at 29-08-2018 23:30:27
+No need to reboot AP in KZN at 30-08-2018 00:00:03
+No need to reboot AP in KZN at 30-08-2018 00:30:03
+No need to restart backup interface in SBP at 30-08-2018 00:30:27
+No need to reboot AP in KZN at 30-08-2018 01:00:03
+No need to restart backup interface in SBP at 30-08-2018 01:00:27
+No need to reboot AP in KZN at 30-08-2018 01:30:03
+No need to restart backup interface in SBP at 30-08-2018 01:30:27
+No need to reboot AP in KZN at 30-08-2018 02:00:03
+No need to restart backup interface in SBP at 30-08-2018 02:00:28
+No need to reboot AP in KZN at 30-08-2018 02:30:04
+No need to reboot AP in KZN at 30-08-2018 03:00:03
+No need to restart backup interface in SBP at 30-08-2018 03:00:27
+No need to reboot AP in KZN at 30-08-2018 03:30:03
+No need to restart backup interface in SBP at 30-08-2018 03:30:27
+No need to reboot AP in KZN at 30-08-2018 04:00:03
+No need to restart backup interface in SBP at 30-08-2018 04:00:27
+No need to reboot AP in KZN at 30-08-2018 04:30:04
+No need to restart backup interface in SBP at 30-08-2018 04:30:28
+No need to reboot AP in KZN at 30-08-2018 05:00:03
+No need to restart backup interface in SBP at 30-08-2018 05:00:27
+No need to reboot AP in KZN at 30-08-2018 05:30:03
+No need to restart backup interface in SBP at 30-08-2018 05:30:28
+No need to reboot AP in KZN at 30-08-2018 06:00:03
+No need to restart backup interface in SBP at 30-08-2018 06:00:27
+No need to reboot AP in KZN at 30-08-2018 06:30:03
+No need to restart backup interface in SBP at 30-08-2018 06:30:27
+No need to reboot AP in KZN at 30-08-2018 07:00:03
+No need to restart backup interface in SBP at 30-08-2018 07:00:27
+No need to reboot AP in KZN at 30-08-2018 07:30:03
+No need to reboot AP in KZN at 30-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 30-08-2018 08:00:08
+No need to restart backup interface in SBP at 30-08-2018 08:00:27
+No need to reboot AP in KZN at 30-08-2018 08:30:03
+No need to restart backup interface in SBP at 30-08-2018 08:30:28
+No need to reboot AP in KZN at 30-08-2018 09:00:03
+No need to restart backup interface in SBP at 30-08-2018 09:00:27
+No need to reboot AP in KZN at 30-08-2018 09:30:04
+No need to restart backup interface in SBP at 30-08-2018 09:30:28
+No need to reboot AP in KZN at 30-08-2018 10:00:03
+No need to reboot AP on 4th floor at 30-08-2018 10:00:08
+No need to restart backup interface in SBP at 30-08-2018 10:00:28
+No need to reboot AP in KZN at 30-08-2018 10:30:03
+No need to reboot AP in KZN at 30-08-2018 11:00:03
+No need to reboot AP in KZN at 30-08-2018 11:30:03
+No need to restart backup interface in SBP at 30-08-2018 11:30:28
+No need to reboot AP in KZN at 30-08-2018 12:00:03
+No need to reboot AP on 4th floor at 30-08-2018 12:00:08
+No need to reboot AP in KZN at 30-08-2018 12:30:03
+No need to restart backup interface in SBP at 30-08-2018 12:30:27
+No need to reboot AP in KZN at 30-08-2018 13:00:03
+No need to restart backup interface in SBP at 30-08-2018 13:00:27
+No need to reboot AP in KZN at 30-08-2018 13:30:03
+No need to restart backup interface in SBP at 30-08-2018 13:30:27
+No need to reboot AP in KZN at 30-08-2018 14:00:04
+No need to reboot AP on 4th floor at 30-08-2018 14:00:09
+No need to reboot AP in KZN at 30-08-2018 14:30:03
+No need to restart backup interface in SBP at 30-08-2018 14:30:28
+No need to reboot AP in KZN at 30-08-2018 15:00:03
+No need to restart backup interface in SBP at 30-08-2018 15:00:27
+No need to reboot AP in KZN at 30-08-2018 15:30:03
+No need to restart backup interface in SBP at 30-08-2018 15:30:28
+No need to reboot AP in KZN at 30-08-2018 16:00:03
+No need to reboot AP on 4th floor at 30-08-2018 16:00:08
+No need to restart backup interface in SBP at 30-08-2018 16:00:27
+No need to reboot AP in KZN at 30-08-2018 16:30:03
+No need to restart backup interface in SBP at 30-08-2018 16:30:28
+No need to reboot AP in KZN at 30-08-2018 17:00:03
+No need to restart backup interface in SBP at 30-08-2018 17:00:28
+No need to reboot AP in KZN at 30-08-2018 17:30:03
+No need to restart backup interface in SBP at 30-08-2018 17:30:28
+No need to reboot AP in KZN at 30-08-2018 18:00:04
+No need to reboot AP on 4th floor at 30-08-2018 18:00:08
+No need to restart backup interface in SBP at 30-08-2018 18:00:28
+No need to reboot AP in KZN at 30-08-2018 18:30:03
+No need to restart backup interface in SBP at 30-08-2018 18:30:28
+No need to reboot AP in KZN at 30-08-2018 19:00:03
+No need to reboot AP in KZN at 30-08-2018 19:30:04
+No need to restart backup interface in SBP at 30-08-2018 19:30:28
+No need to reboot AP in KZN at 30-08-2018 20:00:03
+No need to restart backup interface in SBP at 30-08-2018 20:00:27
+No need to reboot AP in KZN at 30-08-2018 20:30:03
+No need to restart backup interface in SBP at 30-08-2018 20:30:27
+No need to reboot AP in KZN at 30-08-2018 21:00:03
+No need to restart backup interface in SBP at 30-08-2018 21:00:28
+No need to reboot AP in KZN at 30-08-2018 21:30:03
+No need to restart backup interface in SBP at 30-08-2018 21:30:27
+No need to reboot AP in KZN at 30-08-2018 22:00:04
+No need to restart backup interface in SBP at 30-08-2018 22:00:28
+No need to reboot AP in KZN at 30-08-2018 22:30:03
+No need to restart backup interface in SBP at 30-08-2018 22:30:27
+No need to reboot AP in KZN at 30-08-2018 23:00:03
+No need to restart backup interface in SBP at 30-08-2018 23:00:28
+No need to reboot AP in KZN at 30-08-2018 23:30:03
+No need to restart backup interface in SBP at 30-08-2018 23:30:27
+No need to reboot AP in KZN at 31-08-2018 00:00:03
+No need to restart backup interface in SBP at 31-08-2018 00:00:28
+No need to reboot AP in KZN at 31-08-2018 00:30:03
+No need to reboot AP in KZN at 31-08-2018 01:00:03
+No need to restart backup interface in SBP at 31-08-2018 01:00:27
+No need to reboot AP in KZN at 31-08-2018 01:30:03
+No need to restart backup interface in SBP at 31-08-2018 01:30:27
+No need to reboot AP in KZN at 31-08-2018 02:00:03
+No need to reboot AP in KZN at 31-08-2018 02:30:03
+No need to restart backup interface in SBP at 31-08-2018 02:30:28
+No need to reboot AP in KZN at 31-08-2018 03:00:03
+No need to restart backup interface in SBP at 31-08-2018 03:00:27
+No need to reboot AP in KZN at 31-08-2018 03:30:03
+No need to restart backup interface in SBP at 31-08-2018 03:30:27
+No need to reboot AP in KZN at 31-08-2018 04:00:03
+No need to restart backup interface in SBP at 31-08-2018 04:00:27
+No need to reboot AP in KZN at 31-08-2018 04:30:03
+No need to restart backup interface in SBP at 31-08-2018 04:30:28
+No need to reboot AP in KZN at 31-08-2018 05:00:03
+No need to restart backup interface in SBP at 31-08-2018 05:00:27
+No need to reboot AP in KZN at 31-08-2018 05:30:04
+No need to restart backup interface in SBP at 31-08-2018 05:30:28
+No need to reboot AP in KZN at 31-08-2018 06:00:03
+No need to restart backup interface in SBP at 31-08-2018 06:00:27
+No need to reboot AP in KZN at 31-08-2018 06:30:03
+No need to restart backup interface in SBP at 31-08-2018 06:30:27
+No need to reboot AP in KZN at 31-08-2018 07:00:04
+No need to restart backup interface in SBP at 31-08-2018 07:00:28
+No need to reboot AP in KZN at 31-08-2018 07:30:03
+No need to restart backup interface in SBP at 31-08-2018 07:30:28
+No need to reboot AP in KZN at 31-08-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 31-08-2018 08:00:08
+No need to restart backup interface in SBP at 31-08-2018 08:00:28
+No need to reboot AP in KZN at 31-08-2018 08:30:03
+No need to restart backup interface in SBP at 31-08-2018 08:30:27
+No need to reboot AP in KZN at 31-08-2018 09:00:03
+No need to restart backup interface in SBP at 31-08-2018 09:00:28
+No need to reboot AP in KZN at 31-08-2018 09:30:03
+No need to reboot AP in KZN at 31-08-2018 10:00:03
+No need to reboot AP on 4th floor at 31-08-2018 10:00:08
+No need to reboot AP in KZN at 31-08-2018 10:30:03
+No need to reboot AP in KZN at 31-08-2018 11:00:03
+No need to reboot AP in KZN at 31-08-2018 11:30:03
+No need to reboot AP in KZN at 31-08-2018 12:00:03
+No need to reboot AP on 4th floor at 31-08-2018 12:00:08
+No need to reboot AP in KZN at 31-08-2018 12:30:03
+No need to reboot AP in KZN at 31-08-2018 13:00:03
+No need to reboot AP in KZN at 31-08-2018 13:30:03
+No need to reboot AP in KZN at 31-08-2018 14:00:03
+No need to reboot AP on 4th floor at 31-08-2018 14:00:08
+No need to reboot AP in KZN at 31-08-2018 14:30:03
+No need to reboot AP in KZN at 31-08-2018 15:00:03
+No need to reboot AP in KZN at 31-08-2018 15:30:04
+No need to reboot AP in KZN at 31-08-2018 16:00:03
+No need to reboot AP on 4th floor at 31-08-2018 16:00:08
+No need to reboot AP in KZN at 31-08-2018 16:30:05
+No need to reboot AP in KZN at 31-08-2018 17:00:03
+No need to reboot AP in KZN at 31-08-2018 17:30:03
+No need to reboot AP in KZN at 31-08-2018 18:00:03
+!!!AP on 4th floor has been rebooted at 31-08-2018 18:00:08
+No need to reboot AP in KZN at 31-08-2018 18:30:03
+No need to reboot AP in KZN at 31-08-2018 19:00:03
+No need to reboot AP in KZN at 31-08-2018 19:30:03
+No need to reboot AP in KZN at 31-08-2018 20:00:03
+No need to reboot AP in KZN at 31-08-2018 20:30:04
+No need to reboot AP in KZN at 31-08-2018 21:00:03
+No need to reboot AP in KZN at 31-08-2018 21:30:03
+No need to reboot AP in KZN at 31-08-2018 22:00:03
+No need to reboot AP in KZN at 31-08-2018 22:30:03
+No need to reboot AP in KZN at 31-08-2018 23:00:03
+No need to reboot AP in KZN at 31-08-2018 23:30:03
+No need to reboot AP in KZN at 01-09-2018 00:00:03
+No need to reboot AP in KZN at 01-09-2018 00:30:03
+No need to reboot AP in KZN at 01-09-2018 01:00:03
+No need to reboot AP in KZN at 01-09-2018 01:30:03
+No need to reboot AP in KZN at 01-09-2018 02:00:03
+No need to reboot AP in KZN at 01-09-2018 02:30:03
+No need to reboot AP in KZN at 01-09-2018 03:00:04
+No need to reboot AP in KZN at 01-09-2018 03:30:03
+No need to reboot AP in KZN at 01-09-2018 04:00:03
+No need to reboot AP in KZN at 01-09-2018 04:30:03
+No need to reboot AP in KZN at 01-09-2018 05:00:03
+No need to reboot AP in KZN at 01-09-2018 05:30:03
+No need to reboot AP in KZN at 01-09-2018 06:00:03
+No need to reboot AP in KZN at 01-09-2018 06:30:03
+No need to reboot AP in KZN at 01-09-2018 07:00:04
+No need to reboot AP in KZN at 01-09-2018 07:30:03
+No need to reboot AP in KZN at 01-09-2018 08:00:03
+No need to reboot AP in KZN at 01-09-2018 08:30:03
+No need to reboot AP in KZN at 01-09-2018 09:00:03
+No need to reboot AP in KZN at 01-09-2018 09:30:03
+No need to reboot AP in KZN at 01-09-2018 10:00:03
+No need to reboot AP in KZN at 01-09-2018 10:30:03
+No need to reboot AP in KZN at 01-09-2018 11:00:03
+No need to reboot AP in KZN at 01-09-2018 11:30:03
+No need to reboot AP in KZN at 01-09-2018 12:00:03
+No need to reboot AP in KZN at 01-09-2018 12:30:03
+No need to reboot AP in KZN at 01-09-2018 13:00:04
+No need to reboot AP in KZN at 01-09-2018 13:30:03
+No need to reboot AP in KZN at 01-09-2018 14:00:03
+No need to reboot AP in KZN at 01-09-2018 14:30:04
+No need to reboot AP in KZN at 01-09-2018 15:00:03
+No need to reboot AP in KZN at 01-09-2018 15:30:03
+No need to reboot AP in KZN at 01-09-2018 16:00:03
+No need to reboot AP in KZN at 01-09-2018 16:30:03
+No need to reboot AP in KZN at 01-09-2018 17:00:03
+No need to reboot AP in KZN at 01-09-2018 17:30:03
+No need to reboot AP in KZN at 01-09-2018 18:00:03
+No need to reboot AP in KZN at 01-09-2018 18:30:03
+No need to reboot AP in KZN at 01-09-2018 19:00:03
+No need to reboot AP in KZN at 01-09-2018 19:30:03
+No need to reboot AP in KZN at 01-09-2018 20:00:03
+No need to reboot AP in KZN at 01-09-2018 20:30:03
+No need to reboot AP in KZN at 01-09-2018 21:00:03
+No need to reboot AP in KZN at 01-09-2018 21:30:03
+No need to reboot AP in KZN at 01-09-2018 22:00:04
+No need to reboot AP in KZN at 01-09-2018 22:30:03
+No need to reboot AP in KZN at 01-09-2018 23:00:03
+No need to reboot AP in KZN at 01-09-2018 23:30:03
+No need to reboot AP in KZN at 02-09-2018 00:00:03
+No need to reboot AP in KZN at 02-09-2018 00:30:03
+No need to reboot AP in KZN at 02-09-2018 01:00:03
+No need to reboot AP in KZN at 02-09-2018 01:30:03
+No need to reboot AP in KZN at 02-09-2018 02:00:03
+No need to reboot AP in KZN at 02-09-2018 02:30:03
+No need to reboot AP in KZN at 02-09-2018 03:00:03
+No need to reboot AP in KZN at 02-09-2018 03:30:03
+No need to reboot AP in KZN at 02-09-2018 04:00:03
+No need to reboot AP in KZN at 02-09-2018 04:30:03
+No need to reboot AP in KZN at 02-09-2018 05:00:03
+No need to reboot AP in KZN at 02-09-2018 05:30:03
+No need to reboot AP in KZN at 02-09-2018 06:00:03
+No need to reboot AP in KZN at 02-09-2018 06:30:03
+No need to reboot AP in KZN at 02-09-2018 07:00:03
+No need to reboot AP in KZN at 02-09-2018 07:30:04
+No need to reboot AP in KZN at 02-09-2018 08:00:04
+No need to reboot AP in KZN at 02-09-2018 08:30:03
+No need to reboot AP in KZN at 02-09-2018 09:00:03
+No need to reboot AP in KZN at 02-09-2018 09:30:03
+No need to reboot AP in KZN at 02-09-2018 10:00:03
+No need to reboot AP in KZN at 02-09-2018 10:30:04
+No need to reboot AP in KZN at 02-09-2018 11:00:03
+No need to reboot AP in KZN at 02-09-2018 11:30:03
+No need to reboot AP in KZN at 02-09-2018 12:00:03
+No need to reboot AP in KZN at 02-09-2018 12:30:03
+No need to reboot AP in KZN at 02-09-2018 13:00:03
+No need to reboot AP in KZN at 02-09-2018 13:30:03
+No need to reboot AP in KZN at 02-09-2018 14:00:03
+No need to reboot AP in KZN at 02-09-2018 14:30:03
+No need to reboot AP in KZN at 02-09-2018 15:00:03
+No need to reboot AP in KZN at 02-09-2018 15:30:04
+No need to reboot AP in KZN at 02-09-2018 16:00:03
+No need to reboot AP in KZN at 02-09-2018 16:30:03
+No need to reboot AP in KZN at 02-09-2018 17:00:03
+No need to reboot AP in KZN at 02-09-2018 17:30:03
+No need to reboot AP in KZN at 02-09-2018 18:00:03
+No need to reboot AP in KZN at 02-09-2018 18:30:03
+No need to reboot AP in KZN at 02-09-2018 19:00:03
+No need to reboot AP in KZN at 02-09-2018 19:30:03
+No need to reboot AP in KZN at 02-09-2018 20:00:03
+No need to reboot AP in KZN at 02-09-2018 20:30:03
+No need to reboot AP in KZN at 02-09-2018 21:00:03
+No need to reboot AP in KZN at 02-09-2018 21:30:03
+No need to reboot AP in KZN at 02-09-2018 22:00:03
+No need to reboot AP in KZN at 02-09-2018 22:30:03
+No need to reboot AP in KZN at 02-09-2018 23:00:03
+No need to reboot AP in KZN at 02-09-2018 23:30:03
+No need to reboot AP in KZN at 03-09-2018 00:00:03
+No need to reboot AP in KZN at 03-09-2018 00:30:03
+No need to reboot AP in KZN at 03-09-2018 01:00:03
+No need to reboot AP in KZN at 03-09-2018 01:30:04
+No need to reboot AP in KZN at 03-09-2018 02:00:03
+No need to reboot AP in KZN at 03-09-2018 02:30:03
+No need to reboot AP in KZN at 03-09-2018 03:00:03
+No need to reboot AP in KZN at 03-09-2018 03:30:03
+No need to reboot AP in KZN at 03-09-2018 04:00:03
+No need to reboot AP in KZN at 03-09-2018 04:30:03
+No need to reboot AP in KZN at 03-09-2018 05:00:03
+No need to reboot AP in KZN at 03-09-2018 05:30:04
+No need to reboot AP in KZN at 03-09-2018 06:00:03
+No need to reboot AP in KZN at 03-09-2018 06:30:03
+No need to reboot AP in KZN at 03-09-2018 07:00:03
+No need to reboot AP in KZN at 03-09-2018 07:30:03
+No need to reboot AP in KZN at 03-09-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 03-09-2018 08:00:08
+No need to reboot AP in KZN at 03-09-2018 08:30:04
+No need to reboot AP in KZN at 03-09-2018 09:00:03
+No need to reboot AP in KZN at 03-09-2018 09:30:03
+No need to reboot AP in KZN at 03-09-2018 10:00:03
+No need to reboot AP on 4th floor at 03-09-2018 10:00:08
+No need to reboot AP in KZN at 03-09-2018 10:30:03
+No need to reboot AP in KZN at 03-09-2018 11:00:03
+No need to reboot AP in KZN at 03-09-2018 11:30:03
+No need to reboot AP in KZN at 03-09-2018 12:00:03
+No need to reboot AP on 4th floor at 03-09-2018 12:00:08
+No need to reboot AP in KZN at 03-09-2018 12:30:04
+No need to reboot AP in KZN at 03-09-2018 13:00:03
+No need to reboot AP in KZN at 03-09-2018 13:30:03
+No need to reboot AP in KZN at 03-09-2018 14:00:03
+No need to reboot AP on 4th floor at 03-09-2018 14:00:08
+No need to reboot AP in KZN at 03-09-2018 14:30:03
+No need to reboot AP in KZN at 03-09-2018 15:00:03
+No need to reboot AP in KZN at 03-09-2018 15:30:03
+No need to reboot AP in KZN at 03-09-2018 16:00:03
+No need to reboot AP on 4th floor at 03-09-2018 16:00:08
+No need to reboot AP in KZN at 03-09-2018 16:30:03
+No need to reboot AP in KZN at 03-09-2018 17:00:03
+No need to reboot AP in KZN at 03-09-2018 17:30:03
+No need to reboot AP in KZN at 03-09-2018 18:00:03
+No need to reboot AP on 4th floor at 03-09-2018 18:00:08
+No need to reboot AP in KZN at 03-09-2018 18:30:04
+No need to reboot AP in KZN at 03-09-2018 19:00:03
+No need to reboot AP in KZN at 03-09-2018 19:30:03
+No need to reboot AP in KZN at 03-09-2018 20:00:03
+No need to reboot AP in KZN at 03-09-2018 20:30:03
+No need to reboot AP in KZN at 03-09-2018 21:00:03
+No need to reboot AP in KZN at 03-09-2018 21:30:03
+No need to reboot AP in KZN at 03-09-2018 22:00:03
+No need to reboot AP in KZN at 03-09-2018 22:30:03
+No need to reboot AP in KZN at 03-09-2018 23:00:03
+No need to reboot AP in KZN at 03-09-2018 23:30:03
+No need to reboot AP in KZN at 04-09-2018 00:00:03
+No need to reboot AP in KZN at 04-09-2018 00:30:03
+No need to reboot AP in KZN at 04-09-2018 01:00:03
+No need to reboot AP in KZN at 04-09-2018 01:30:03
+No need to reboot AP in KZN at 04-09-2018 02:00:03
+No need to reboot AP in KZN at 04-09-2018 02:30:04
+No need to reboot AP in KZN at 04-09-2018 03:00:03
+No need to reboot AP in KZN at 04-09-2018 03:30:03
+No need to reboot AP in KZN at 04-09-2018 04:00:03
+No need to reboot AP in KZN at 04-09-2018 04:30:03
+No need to reboot AP in KZN at 04-09-2018 05:00:03
+No need to reboot AP in KZN at 04-09-2018 05:30:03
+No need to reboot AP in KZN at 04-09-2018 06:00:04
+No need to reboot AP in KZN at 04-09-2018 06:30:03
+No need to reboot AP in KZN at 04-09-2018 07:00:03
+No need to reboot AP in KZN at 04-09-2018 07:30:03
+No need to reboot AP in KZN at 04-09-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 04-09-2018 08:00:08
+No need to reboot AP in KZN at 04-09-2018 08:30:03
+No need to reboot AP in KZN at 04-09-2018 09:00:03
+No need to reboot AP in KZN at 04-09-2018 09:30:03
+No need to reboot AP in KZN at 04-09-2018 10:00:03
+No need to reboot AP on 4th floor at 04-09-2018 10:00:08
+No need to reboot AP in KZN at 04-09-2018 10:30:03
+No need to reboot AP in KZN at 04-09-2018 11:00:03
+No need to reboot AP in KZN at 04-09-2018 11:30:04
+No need to reboot AP in KZN at 04-09-2018 12:00:03
+No need to reboot AP on 4th floor at 04-09-2018 12:00:08
+No need to reboot AP in KZN at 04-09-2018 12:30:03
+No need to reboot AP in KZN at 04-09-2018 13:00:03
+No need to reboot AP in KZN at 04-09-2018 13:30:04
+No need to reboot AP in KZN at 04-09-2018 14:00:03
+No need to reboot AP on 4th floor at 04-09-2018 14:00:08
+No need to reboot AP in KZN at 04-09-2018 14:30:03
+No need to reboot AP in KZN at 04-09-2018 15:00:03
+No need to reboot AP in KZN at 04-09-2018 15:30:03
+No need to reboot AP in KZN at 04-09-2018 16:00:03
+No need to reboot AP on 4th floor at 04-09-2018 16:00:08
+No need to reboot AP in KZN at 04-09-2018 16:30:03
+No need to reboot AP in KZN at 04-09-2018 17:00:03
+No need to reboot AP in KZN at 04-09-2018 17:30:04
+No need to reboot AP in KZN at 04-09-2018 18:00:03
+No need to reboot AP on 4th floor at 04-09-2018 18:00:08
+No need to reboot AP in KZN at 04-09-2018 18:30:03
+No need to reboot AP in KZN at 04-09-2018 19:00:03
+No need to reboot AP in KZN at 04-09-2018 19:30:03
+No need to reboot AP in KZN at 04-09-2018 20:00:03
+No need to reboot AP in KZN at 04-09-2018 20:30:03
+No need to reboot AP in KZN at 04-09-2018 21:00:03
+No need to reboot AP in KZN at 04-09-2018 21:30:03
+!!!Backup interface in SBP has been restarted at 04-09-2018 21:30:27
+No need to reboot AP in KZN at 04-09-2018 22:00:03
+No need to restart backup interface in SBP at 04-09-2018 22:00:27
+No need to reboot AP in KZN at 04-09-2018 22:30:03
+No need to reboot AP in KZN at 04-09-2018 23:00:03
+No need to restart backup interface in SBP at 04-09-2018 23:00:27
+No need to reboot AP in KZN at 04-09-2018 23:30:03
+No need to restart backup interface in SBP at 04-09-2018 23:30:28
+No need to reboot AP in KZN at 05-09-2018 00:00:03
+No need to restart backup interface in SBP at 05-09-2018 00:00:27
+No need to reboot AP in KZN at 05-09-2018 00:30:03
+No need to restart backup interface in SBP at 05-09-2018 00:30:27
+No need to reboot AP in KZN at 05-09-2018 01:00:04
+No need to restart backup interface in SBP at 05-09-2018 01:00:28
+No need to reboot AP in KZN at 05-09-2018 01:30:04
+No need to restart backup interface in SBP at 05-09-2018 01:30:28
+No need to reboot AP in KZN at 05-09-2018 02:00:03
+No need to restart backup interface in SBP at 05-09-2018 02:00:27
+No need to reboot AP in KZN at 05-09-2018 02:30:03
+No need to restart backup interface in SBP at 05-09-2018 02:30:28
+No need to reboot AP in KZN at 05-09-2018 03:00:03
+No need to restart backup interface in SBP at 05-09-2018 03:00:27
+No need to reboot AP in KZN at 05-09-2018 03:30:03
+No need to reboot AP in KZN at 05-09-2018 04:00:03
+No need to restart backup interface in SBP at 05-09-2018 04:00:28
+No need to reboot AP in KZN at 05-09-2018 04:30:03
+No need to restart backup interface in SBP at 05-09-2018 04:30:27
+No need to reboot AP in KZN at 05-09-2018 05:00:04
+No need to restart backup interface in SBP at 05-09-2018 05:00:28
+No need to reboot AP in KZN at 05-09-2018 05:30:03
+No need to restart backup interface in SBP at 05-09-2018 05:30:27
+No need to reboot AP in KZN at 05-09-2018 06:00:03
+No need to restart backup interface in SBP at 05-09-2018 06:00:27
+No need to reboot AP in KZN at 05-09-2018 06:30:03
+No need to restart backup interface in SBP at 05-09-2018 06:30:28
+No need to reboot AP in KZN at 05-09-2018 07:00:03
+No need to restart backup interface in SBP at 05-09-2018 07:00:27
+No need to reboot AP in KZN at 05-09-2018 07:30:03
+No need to reboot AP in KZN at 05-09-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 05-09-2018 08:00:08
+No need to restart backup interface in SBP at 05-09-2018 08:00:27
+No need to reboot AP in KZN at 05-09-2018 08:30:03
+No need to restart backup interface in SBP at 05-09-2018 08:30:27
+No need to reboot AP in KZN at 05-09-2018 09:00:03
+No need to restart backup interface in SBP at 05-09-2018 09:00:27
+No need to reboot AP in KZN at 05-09-2018 09:30:03
+No need to restart backup interface in SBP at 05-09-2018 09:30:27
+No need to reboot AP in KZN at 05-09-2018 10:00:03
+No need to reboot AP on 4th floor at 05-09-2018 10:00:08
+No need to restart backup interface in SBP at 05-09-2018 10:00:27
+No need to reboot AP in KZN at 05-09-2018 10:30:03
+No need to reboot AP in KZN at 05-09-2018 11:00:03
+No need to restart backup interface in SBP at 05-09-2018 11:00:27
+No need to reboot AP in KZN at 05-09-2018 11:30:03
+No need to restart backup interface in SBP at 05-09-2018 11:30:28
+No need to reboot AP in KZN at 05-09-2018 12:00:03
+No need to reboot AP on 4th floor at 05-09-2018 12:00:08
+No need to restart backup interface in SBP at 05-09-2018 12:00:27
+No need to reboot AP in KZN at 05-09-2018 12:30:03
+No need to restart backup interface in SBP at 05-09-2018 12:30:28
+No need to reboot AP in KZN at 05-09-2018 13:00:03
+No need to restart backup interface in SBP at 05-09-2018 13:00:27
+No need to reboot AP in KZN at 05-09-2018 13:30:03
+No need to restart backup interface in SBP at 05-09-2018 13:30:28
+No need to reboot AP in KZN at 05-09-2018 14:00:03
+No need to reboot AP on 4th floor at 05-09-2018 14:00:08
+No need to restart backup interface in SBP at 05-09-2018 14:00:28
+No need to reboot AP in KZN at 05-09-2018 14:30:03
+No need to restart backup interface in SBP at 05-09-2018 14:30:27
+No need to reboot AP in KZN at 05-09-2018 15:00:04
+No need to restart backup interface in SBP at 05-09-2018 15:00:28
+No need to reboot AP in KZN at 05-09-2018 15:30:03
+No need to restart backup interface in SBP at 05-09-2018 15:30:28
+No need to reboot AP in KZN at 05-09-2018 16:00:03
+No need to reboot AP on 4th floor at 05-09-2018 16:00:08
+No need to restart backup interface in SBP at 05-09-2018 16:00:28
+No need to reboot AP in KZN at 05-09-2018 16:30:03
+No need to restart backup interface in SBP at 05-09-2018 16:30:27
+No need to reboot AP in KZN at 05-09-2018 17:00:03
+No need to restart backup interface in SBP at 05-09-2018 17:00:28
+No need to reboot AP in KZN at 05-09-2018 17:30:03
+No need to restart backup interface in SBP at 05-09-2018 17:30:27
+No need to reboot AP in KZN at 05-09-2018 18:00:03
+No need to reboot AP on 4th floor at 05-09-2018 18:00:08
+No need to restart backup interface in SBP at 05-09-2018 18:00:27
+No need to reboot AP in KZN at 05-09-2018 18:30:04
+No need to restart backup interface in SBP at 05-09-2018 18:30:28
+No need to reboot AP in KZN at 05-09-2018 19:00:03
+No need to restart backup interface in SBP at 05-09-2018 19:00:27
+No need to reboot AP in KZN at 05-09-2018 19:30:03
+No need to restart backup interface in SBP at 05-09-2018 19:30:27
+No need to reboot AP in KZN at 05-09-2018 20:00:03
+No need to restart backup interface in SBP at 05-09-2018 20:00:28
+No need to reboot AP in KZN at 05-09-2018 20:30:03
+No need to restart backup interface in SBP at 05-09-2018 20:30:28
+No need to reboot AP in KZN at 05-09-2018 21:00:03
+No need to restart backup interface in SBP at 05-09-2018 21:00:27
+No need to reboot AP in KZN at 05-09-2018 21:30:04
+No need to restart backup interface in SBP at 05-09-2018 21:30:28
+No need to reboot AP in KZN at 05-09-2018 22:00:03
+No need to restart backup interface in SBP at 05-09-2018 22:00:27
+No need to reboot AP in KZN at 05-09-2018 22:30:04
+No need to restart backup interface in SBP at 05-09-2018 22:30:27
+No need to reboot AP in KZN at 05-09-2018 23:00:03
+No need to restart backup interface in SBP at 05-09-2018 23:00:28
+No need to reboot AP in KZN at 05-09-2018 23:30:03
+No need to restart backup interface in SBP at 05-09-2018 23:30:27
+No need to reboot AP in KZN at 06-09-2018 00:00:03
+No need to restart backup interface in SBP at 06-09-2018 00:00:27
+No need to reboot AP in KZN at 06-09-2018 00:30:03
+No need to reboot AP in KZN at 06-09-2018 01:00:03
+No need to restart backup interface in SBP at 06-09-2018 01:00:27
+No need to reboot AP in KZN at 06-09-2018 01:30:03
+No need to restart backup interface in SBP at 06-09-2018 01:30:27
+No need to reboot AP in KZN at 06-09-2018 02:00:03
+No need to restart backup interface in SBP at 06-09-2018 02:00:28
+No need to reboot AP in KZN at 06-09-2018 02:30:03
+No need to restart backup interface in SBP at 06-09-2018 02:30:27
+No need to reboot AP in KZN at 06-09-2018 03:00:03
+No need to reboot AP in KZN at 06-09-2018 03:30:03
+No need to reboot AP in KZN at 06-09-2018 04:00:03
+No need to restart backup interface in SBP at 06-09-2018 04:00:28
+No need to reboot AP in KZN at 06-09-2018 04:30:03
+No need to restart backup interface in SBP at 06-09-2018 04:30:27
+No need to reboot AP in KZN at 06-09-2018 05:00:03
+No need to restart backup interface in SBP at 06-09-2018 05:00:27
+No need to reboot AP in KZN at 06-09-2018 05:30:03
+No need to reboot AP in KZN at 06-09-2018 06:00:03
+No need to reboot AP in KZN at 06-09-2018 06:30:03
+No need to restart backup interface in SBP at 06-09-2018 06:30:28
+No need to reboot AP in KZN at 06-09-2018 07:00:03
+No need to restart backup interface in SBP at 06-09-2018 07:00:27
+No need to reboot AP in KZN at 06-09-2018 07:30:03
+No need to restart backup interface in SBP at 06-09-2018 07:30:27
+No need to reboot AP in KZN at 06-09-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 06-09-2018 08:00:08
+No need to restart backup interface in SBP at 06-09-2018 08:00:27
+No need to reboot AP in KZN at 06-09-2018 08:30:03
+No need to restart backup interface in SBP at 06-09-2018 08:30:27
+No need to reboot AP in KZN at 06-09-2018 09:00:03
+No need to restart backup interface in SBP at 06-09-2018 09:00:27
+No need to reboot AP in KZN at 06-09-2018 09:30:03
+No need to restart backup interface in SBP at 06-09-2018 09:30:27
+No need to reboot AP in KZN at 06-09-2018 10:00:03
+No need to reboot AP on 4th floor at 06-09-2018 10:00:08
+No need to restart backup interface in SBP at 06-09-2018 10:00:28
+No need to reboot AP in KZN at 06-09-2018 10:30:03
+No need to restart backup interface in SBP at 06-09-2018 10:30:27
+No need to reboot AP in KZN at 06-09-2018 11:00:04
+No need to restart backup interface in SBP at 06-09-2018 11:00:28
+No need to reboot AP in KZN at 06-09-2018 11:30:03
+No need to restart backup interface in SBP at 06-09-2018 11:30:27
+No need to reboot AP in KZN at 06-09-2018 12:00:04
+No need to reboot AP on 4th floor at 06-09-2018 12:00:09
+No need to restart backup interface in SBP at 06-09-2018 12:00:28
+No need to reboot AP in KZN at 06-09-2018 12:30:04
+No need to restart backup interface in SBP at 06-09-2018 12:30:28
+No need to reboot AP in KZN at 06-09-2018 13:00:03
+No need to restart backup interface in SBP at 06-09-2018 13:00:27
+No need to reboot AP in KZN at 06-09-2018 13:30:03
+No need to restart backup interface in SBP at 06-09-2018 13:30:27
+No need to reboot AP in KZN at 06-09-2018 14:00:03
+No need to reboot AP on 4th floor at 06-09-2018 14:00:07
+No need to restart backup interface in SBP at 06-09-2018 14:00:27
+No need to reboot AP in KZN at 06-09-2018 14:30:03
+No need to restart backup interface in SBP at 06-09-2018 14:30:27
+No need to reboot AP in KZN at 06-09-2018 15:00:03
+No need to reboot AP in KZN at 06-09-2018 15:30:04
+No need to restart backup interface in SBP at 06-09-2018 15:30:27
+No need to reboot AP in KZN at 06-09-2018 16:00:03
+No need to reboot AP on 4th floor at 06-09-2018 16:00:08
+No need to restart backup interface in SBP at 06-09-2018 16:00:28
+No need to reboot AP in KZN at 06-09-2018 16:30:03
+No need to restart backup interface in SBP at 06-09-2018 16:30:28
+No need to reboot AP in KZN at 06-09-2018 17:00:03
+No need to restart backup interface in SBP at 06-09-2018 17:00:28
+No need to reboot AP in KZN at 06-09-2018 17:30:04
+No need to reboot AP in KZN at 06-09-2018 18:00:03
+!!!AP on 4th floor has been rebooted at 06-09-2018 18:00:08
+No need to reboot AP in KZN at 06-09-2018 18:30:03
+No need to restart backup interface in SBP at 06-09-2018 18:30:27
+No need to reboot AP in KZN at 06-09-2018 19:00:03
+No need to restart backup interface in SBP at 06-09-2018 19:00:28
+No need to reboot AP in KZN at 06-09-2018 19:30:03
+No need to restart backup interface in SBP at 06-09-2018 19:30:27
+No need to reboot AP in KZN at 06-09-2018 20:00:03
+No need to reboot AP in KZN at 06-09-2018 20:30:03
+No need to restart backup interface in SBP at 06-09-2018 20:30:27
+No need to reboot AP in KZN at 06-09-2018 21:00:03
+No need to restart backup interface in SBP at 06-09-2018 21:00:28
+No need to reboot AP in KZN at 06-09-2018 21:30:04
+No need to restart backup interface in SBP at 06-09-2018 21:30:28
+No need to reboot AP in KZN at 06-09-2018 22:00:03
+No need to restart backup interface in SBP at 06-09-2018 22:00:28
+No need to reboot AP in KZN at 06-09-2018 22:30:04
+No need to restart backup interface in SBP at 06-09-2018 22:30:28
+No need to reboot AP in KZN at 06-09-2018 23:00:03
+No need to restart backup interface in SBP at 06-09-2018 23:00:27
+No need to reboot AP in KZN at 06-09-2018 23:30:03
+No need to reboot AP in KZN at 07-09-2018 00:00:03
+No need to restart backup interface in SBP at 07-09-2018 00:00:28
+No need to reboot AP in KZN at 07-09-2018 00:30:03
+No need to restart backup interface in SBP at 07-09-2018 00:30:27
+No need to reboot AP in KZN at 07-09-2018 01:00:03
+No need to reboot AP in KZN at 07-09-2018 01:30:03
+No need to restart backup interface in SBP at 07-09-2018 01:30:27
+No need to reboot AP in KZN at 07-09-2018 02:00:03
+No need to restart backup interface in SBP at 07-09-2018 02:00:27
+No need to reboot AP in KZN at 07-09-2018 02:30:03
+No need to restart backup interface in SBP at 07-09-2018 02:30:28
+No need to reboot AP in KZN at 07-09-2018 03:00:03
+No need to restart backup interface in SBP at 07-09-2018 03:00:27
+No need to reboot AP in KZN at 07-09-2018 03:30:03
+No need to restart backup interface in SBP at 07-09-2018 03:30:27
+No need to reboot AP in KZN at 07-09-2018 04:00:03
+No need to restart backup interface in SBP at 07-09-2018 04:00:28
+No need to reboot AP in KZN at 07-09-2018 04:30:03
+No need to restart backup interface in SBP at 07-09-2018 04:30:27
+No need to reboot AP in KZN at 07-09-2018 05:00:03
+No need to restart backup interface in SBP at 07-09-2018 05:00:27
+No need to reboot AP in KZN at 07-09-2018 05:30:03
+No need to restart backup interface in SBP at 07-09-2018 05:30:27
+No need to reboot AP in KZN at 07-09-2018 06:00:03
+No need to restart backup interface in SBP at 07-09-2018 06:00:28
+No need to reboot AP in KZN at 07-09-2018 06:30:03
+No need to restart backup interface in SBP at 07-09-2018 06:30:28
+No need to reboot AP in KZN at 07-09-2018 07:00:03
+No need to restart backup interface in SBP at 07-09-2018 07:00:27
+No need to reboot AP in KZN at 07-09-2018 07:30:03
+No need to restart backup interface in SBP at 07-09-2018 07:30:27
+No need to reboot AP in KZN at 07-09-2018 08:00:03
+!!!AP on 4th floor has been rebooted at 07-09-2018 08:00:08
+No need to restart backup interface in SBP at 07-09-2018 08:00:28
+No need to reboot AP in KZN at 07-09-2018 08:30:03
+No need to restart backup interface in SBP at 07-09-2018 08:30:27
+No need to reboot AP in KZN at 07-09-2018 09:00:04
+No need to restart backup interface in SBP at 07-09-2018 09:00:28
+No need to reboot AP in KZN at 07-09-2018 09:30:03
+No need to restart backup interface in SBP at 07-09-2018 09:30:28
+No need to reboot AP in KZN at 07-09-2018 10:00:03
+No need to reboot AP on 4th floor at 07-09-2018 10:00:08
+No need to restart backup interface in SBP at 07-09-2018 10:00:27
+No need to reboot AP in KZN at 07-09-2018 10:30:03
+No need to reboot AP in KZN at 07-09-2018 11:00:03
+No need to restart backup interface in SBP at 07-09-2018 11:00:28
+No need to reboot AP in KZN at 07-09-2018 11:30:03
+No need to restart backup interface in SBP at 07-09-2018 11:30:27
+No need to reboot AP in KZN at 07-09-2018 12:00:04
+No need to reboot AP on 4th floor at 07-09-2018 12:00:08
+No need to restart backup interface in SBP at 07-09-2018 12:00:28
+No need to reboot AP in KZN at 07-09-2018 12:30:03
+No need to restart backup interface in SBP at 07-09-2018 12:30:27
+No need to reboot AP in KZN at 07-09-2018 13:00:03
+No need to restart backup interface in SBP at 07-09-2018 13:00:27
+No need to reboot AP in KZN at 07-09-2018 13:30:03
+No need to restart backup interface in SBP at 07-09-2018 13:30:28
+No need to reboot AP in KZN at 07-09-2018 14:00:03
+No need to reboot AP on 4th floor at 07-09-2018 14:00:08
+No need to restart backup interface in SBP at 07-09-2018 14:00:27
+No need to reboot AP in KZN at 07-09-2018 14:30:03
+No need to restart backup interface in SBP at 07-09-2018 14:30:27
+No need to reboot AP in KZN at 07-09-2018 15:00:03
+No need to restart backup interface in SBP at 07-09-2018 15:00:27
+No need to reboot AP in KZN at 07-09-2018 15:30:03
+No need to restart backup interface in SBP at 07-09-2018 15:30:27
+No need to reboot AP in KZN at 07-09-2018 16:00:03
+!!!AP on 4th floor has been rebooted at 07-09-2018 16:00:08
+No need to reboot AP in KZN at 07-09-2018 16:30:03
+No need to restart backup interface in SBP at 07-09-2018 16:30:27
+No need to reboot AP in KZN at 07-09-2018 17:00:04
+No need to restart backup interface in SBP at 07-09-2018 17:00:29
+No need to reboot AP in KZN at 07-09-2018 17:30:03
+No need to restart backup interface in SBP at 07-09-2018 17:30:27
+No need to reboot AP in KZN at 07-09-2018 18:00:03
+No need to reboot AP on 4th floor at 07-09-2018 18:00:08
+No need to restart backup interface in SBP at 07-09-2018 18:00:27
+No need to reboot AP in KZN at 07-09-2018 18:30:03
+No need to restart backup interface in SBP at 07-09-2018 18:30:28
+No need to reboot AP in KZN at 07-09-2018 19:00:03
+No need to restart backup interface in SBP at 07-09-2018 19:00:27
+No need to reboot AP in KZN at 07-09-2018 19:30:03
+No need to restart backup interface in SBP at 07-09-2018 19:30:27
+No need to reboot AP in KZN at 07-09-2018 20:00:03
+No need to restart backup interface in SBP at 07-09-2018 20:00:28
+No need to reboot AP in KZN at 07-09-2018 20:30:03
+No need to restart backup interface in SBP at 07-09-2018 20:30:27
+No need to reboot AP in KZN at 07-09-2018 21:00:03
+No need to restart backup interface in SBP at 07-09-2018 21:00:28
+No need to reboot AP in KZN at 07-09-2018 21:30:04
+No need to restart backup interface in SBP at 07-09-2018 21:30:28
+No need to reboot AP in KZN at 07-09-2018 22:00:03
+No need to restart backup interface in SBP at 07-09-2018 22:00:28
+No need to reboot AP in KZN at 07-09-2018 22:30:03
+No need to reboot AP in KZN at 07-09-2018 23:00:03
+No need to restart backup interface in SBP at 07-09-2018 23:00:28
+No need to reboot AP in KZN at 07-09-2018 23:30:03
+No need to restart backup interface in SBP at 07-09-2018 23:30:27
+No need to reboot AP in KZN at 08-09-2018 00:00:03
+No need to restart backup interface in SBP at 08-09-2018 00:00:27
+No need to reboot AP in KZN at 08-09-2018 00:30:03
+No need to restart backup interface in SBP at 08-09-2018 00:30:28
+No need to reboot AP in KZN at 08-09-2018 01:00:03
+No need to restart backup interface in SBP at 08-09-2018 01:00:27
+No need to reboot AP in KZN at 08-09-2018 01:30:04
+No need to restart backup interface in SBP at 08-09-2018 01:30:28
+No need to reboot AP in KZN at 08-09-2018 02:00:03
+No need to restart backup interface in SBP at 08-09-2018 02:00:28
+No need to reboot AP in KZN at 08-09-2018 02:30:03
+No need to restart backup interface in SBP at 08-09-2018 02:30:28
+No need to reboot AP in KZN at 08-09-2018 03:00:03
+No need to restart backup interface in SBP at 08-09-2018 03:00:28
+No need to reboot AP in KZN at 08-09-2018 03:30:03
+No need to restart backup interface in SBP at 08-09-2018 03:30:27
+No need to reboot AP in KZN at 08-09-2018 04:00:03
+No need to restart backup interface in SBP at 08-09-2018 04:00:28
+No need to reboot AP in KZN at 08-09-2018 04:30:03
+No need to restart backup interface in SBP at 08-09-2018 04:30:27
+No need to reboot AP in KZN at 08-09-2018 05:00:03
+No need to restart backup interface in SBP at 08-09-2018 05:00:28
+No need to reboot AP in KZN at 08-09-2018 05:30:04
+No need to restart backup interface in SBP at 08-09-2018 05:30:28
+No need to reboot AP in KZN at 08-09-2018 06:00:03
+No need to restart backup interface in SBP at 08-09-2018 06:00:27
+No need to reboot AP in KZN at 08-09-2018 06:30:04
+No need to restart backup interface in SBP at 08-09-2018 06:30:28
+No need to reboot AP in KZN at 08-09-2018 07:00:03
+No need to restart backup interface in SBP at 08-09-2018 07:00:27
+No need to reboot AP in KZN at 08-09-2018 07:30:04
+No need to restart backup interface in SBP at 08-09-2018 07:30:28
+No need to reboot AP in KZN at 08-09-2018 08:00:03
+No need to restart backup interface in SBP at 08-09-2018 08:00:27
+No need to reboot AP in KZN at 08-09-2018 08:30:03
+No need to restart backup interface in SBP at 08-09-2018 08:30:27
+No need to reboot AP in KZN at 08-09-2018 09:00:03
+No need to reboot AP in KZN at 08-09-2018 09:30:03
+No need to restart backup interface in SBP at 08-09-2018 09:30:27
+No need to reboot AP in KZN at 08-09-2018 10:00:03
+No need to restart backup interface in SBP at 08-09-2018 10:00:27
+No need to reboot AP in KZN at 08-09-2018 10:30:03
+No need to restart backup interface in SBP at 08-09-2018 10:30:28
+No need to reboot AP in KZN at 08-09-2018 11:00:03
+No need to restart backup interface in SBP at 08-09-2018 11:00:27
+No need to reboot AP in KZN at 08-09-2018 11:30:03
+No need to restart backup interface in SBP at 08-09-2018 11:30:28
+No need to reboot AP in KZN at 08-09-2018 12:00:03
+No need to restart backup interface in SBP at 08-09-2018 12:00:27
+No need to reboot AP in KZN at 08-09-2018 12:30:04
+No need to restart backup interface in SBP at 08-09-2018 12:30:28
