@@ -18,15 +18,18 @@ def click(x,y):
 i = 5
 while i == 5:
     pos_begin = queryMousePosition()
-    time.sleep(300)
+    time.sleep(3)
     pos_end = queryMousePosition()
     try:
         if ( pos_begin['x'] - pos_end['x'] == 0 ) or ( pos_begin('y') - pos_end['y'] == 0 ):
             x_new = pos_end['x'] + 1
             y_new = pos_end['y'] + 1
-            click(x_new, y_new)
-            print "Mouse has been moved!"
+            try:
+                click(x_new, y_new)
+                print "Mouse has been moved!"
+            except win32api.error:
+                print "No need to move mouse"
+                continue
     except TypeError:
         print "No need to move mouse"
         continue
-
