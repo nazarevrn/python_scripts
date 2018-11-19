@@ -18,7 +18,7 @@ def click(x,y):
 i = 5
 while i == 5:
     pos_begin = queryMousePosition()
-    time.sleep(3)
+    time.sleep(300)
     pos_end = queryMousePosition()
     try:
         if ( pos_begin['x'] - pos_end['x'] == 0 ) or ( pos_begin('y') - pos_end['y'] == 0 ):
