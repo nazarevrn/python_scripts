@@ -37,8 +37,8 @@ def checkTime():
             get_window('Останови задачу!')
         elif (minute == 0) :
             get_window('Посмотри в окно!')
-        elif (minute %2 == 0) :
-            get_window('Тест')
+        #elif (minute %2 == 0) :
+        #    get_window('Тест')
 
 
 
