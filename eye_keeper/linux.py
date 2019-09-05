@@ -13,8 +13,8 @@ def get_window():
     Button(tk, text = "OK", command = tk.destroy).pack(expand='YES')
     tk.mainloop()
     
-# i = 5
-# while i == 5:
-#     time.sleep(3600)
+i = 5
+while i == 5:
+    time.sleep(3600)
 get_window()
 
