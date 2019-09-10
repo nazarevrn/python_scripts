@@ -38,7 +38,6 @@ if (packet_loss_percent == b'0%') :
 
     if (packet_loss_percent == b'0%') :
         #print('All ok!\n')
-        now = datetime.now()
         string_for_write = 'Network was restarted at '
 
 
@@ -46,7 +45,7 @@ else :
     #print('Network not work!\n')
     string_for_write = '!!!Network wasn\'t work at '
 
-
+now = datetime.now()
 log = open('/home/nazarevrn/python_scripts/network_test/log.txt', 'a')
 log.writelines(string_for_write + now.strftime("%d-%m-%Y %H:%M:%S") + '\n')
 log.close()
