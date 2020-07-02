@@ -1,9 +1,9 @@
-#/usr/bin/python2.7
+#/usr/bin/python3
 # -*- coding:utf-8 -*-
 
-from Tkinter import *
+from tkinter import *
 import time
- 
+
 def get_window(): 
     tk=Tk()
     tk.geometry("200x75+800+400")
@@ -15,6 +15,7 @@ def get_window():
     
 i = 5
 while i == 5:
-    time.sleep(3600)
-get_window()
+    get_window()
+    time.sleep(3000)
+
 
